@@ -9,7 +9,9 @@ def parse_link(link):
         link = 'https://www.olx.pl' + link
     return link
 
-def parse_page():
+def parse_page(city, page):
+    url = f"https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz/{city}/?page={page}"
+    print(url)
     r = get(url)
     soup = BeautifulSoup(r.content, 'html.parser')
 
@@ -17,8 +19,8 @@ def parse_page():
         link = parse_link(offer.find('a')['href'])
         if 'olx' in f'{link}':
             title = offer.find('h6', class_="css-1wxaaza").get_text()
-            prise = float(offer.find('p', class_="css-13afqrm").get_text().split('zł')[0].replace(" ", "").replace(',', '.'))
-            location = offer.find('p', class_="css-1mwdrlh").get_text().split(' ')[1]
+            price = float(offer.find('p', class_="css-13afqrm").get_text().split('zł')[0].replace(" ", "").replace(',', '.'))
+            location = offer.find('p', class_="css-1mwdrlh").get_text().split(' -')[0]
             area = float(offer.find('span', class_="css-643j0o").get_text().split(' ')[0].replace(',', '.'))
 
             r=get(f'{link}')
@@ -40,15 +42,14 @@ def parse_page():
             building = results['building']
             num_of_rooms = results['num_of_rooms']
 
-            c.execute('''INSERT INTO apartments VALUES (?, ?, ?, ?, ?, ?, ?, ?)''', (title, prise, location, area, level, market, building, num_of_rooms))
+            c.execute('''INSERT INTO apartments VALUES (?, ?, ?, ?, ?, ?, ?, ?)''', (title, price, location, area, level, market, building, num_of_rooms))
     conn.commit()
 
 
 sys.stdout.reconfigure(encoding='utf-8')
 conn = sqlite3.connect('database.db')
 c = conn.cursor()
-i=1
-url = f"https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz/lodz/?page={i}"
+cities = ['warszawa', 'lodz', 'krakow', 'wroclaw', 'poznan', 'gdansk', 'lublin', 'szczecin', 'bydgoszcz', 'bialystok', 'katowice', 'rzeszow', 'gdynia', 'radom', 'kielce', 'zamosc', 'legionowo', 'sopot', 'opole', 'olsztyn']
 variables = [
     ('level', 2, ': ', 1),
     ('market', 4, ' ', 1),
@@ -59,10 +60,11 @@ results = {}
 
 if len(argv)>1 and argv[1] == 'database':
     c.execute('''CREATE TABLE apartments
-          (title text, prise number, location text, area number, level text, market text, building text, num_of_rooms text)''')
+          (title text, price number, location text, area number, level text, market text, building text, num_of_rooms text)''')
 
-for i in range(1,25):
-     parse_page()
+for city in cities:
+    for i in range(1,26):
+        parse_page(city, i)
 
 
 conn.close()
