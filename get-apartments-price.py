@@ -16,7 +16,6 @@ def parse_page():
     for offer in soup.find_all('div', class_="css-1apmciz"):
         link = parse_link(offer.find('a')['href'])
         if 'olx' in f'{link}':
-            title = offer.find('h6', class_="css-1wxaaza").get_text()
             prise = float(offer.find('p', class_="css-13afqrm").get_text().split('zł')[0].replace(" ", "").replace(',', '.'))
             location = offer.find('p', class_="css-1mwdrlh").get_text().split(' ')[1]
             area = float(offer.find('span', class_="css-643j0o").get_text().split(' ')[0].replace(',', '.'))
@@ -40,7 +39,7 @@ def parse_page():
             building = results['building']
             num_of_rooms = results['num_of_rooms']
 
-            c.execute('''INSERT INTO apartments VALUES (?, ?, ?, ?, ?, ?, ?, ?)''', (title, prise, location, area, level, market, building, num_of_rooms))
+            c.execute('''INSERT INTO apartments VALUES (?, ?, ?, ?, ?, ?, ?)''', (prise, location, area, level, market, building, num_of_rooms))
     conn.commit()
 
 
@@ -59,11 +58,10 @@ results = {}
 
 if len(argv)>1 and argv[1] == 'database':
     c.execute('''CREATE TABLE apartments
-          (title text, prise number, location text, area number, level text, market text, building text, num_of_rooms text)''')
+          (prise number, location text, area number, level text, market text, building text, num_of_rooms text)''')
 
 for i in range(1,25):
      parse_page()
-
 
 conn.close()
 
