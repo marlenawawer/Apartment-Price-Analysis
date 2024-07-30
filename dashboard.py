@@ -42,8 +42,12 @@ scatter_fig = px.scatter(df[df['city']==city], 'area', 'price', range_y= (0, max
 st.plotly_chart(scatter_fig)
 
 # Map plot
-map_fig = px.scatter_geo(df, lat=city_coordinates[df['city']]['latitude'],
-                         lon=city_coordinates[df['city']]['longitude'],
-                     size="price"
-                     )
+styles = ['open-street-map', 'carto-positron']
+city_coor = pd.read_csv('city_coordinates.csv')
+merge_df = pd.merge(df, city_coor, on='city')
+map_fig = px.scatter_mapbox(merge_df.groupby(['city', 'latitude', 'longitude'])['price'].mean().reset_index(), lat='latitude',
+                            lon = 'longitude', mapbox_style=styles[1],
+                            zoom=4.2, color='price', size='price', text='city', title="Average Apartment Price in Major Polish Cities", hover_name='city',
+)
+map_fig.update_traces(textfont=dict(color='black', size=12))
 st.plotly_chart(map_fig)
