@@ -1,0 +1,2554 @@
+price,area,level,market,building,num_of_rooms,city,district
+670000.0,53.0,2,Pierwotny,Apartamentowiec,3 pokoje,Warszawa, Białołęka
+1050000.0,50.0,5,Wtórny,Blok,2 pokoje,Warszawa, Wola
+1389000.0,50.2,1,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Ochota
+1099000.0,39.5,7,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Ochota
+699000.0,38.5,1,Wtórny,Kamienica,2 pokoje,Warszawa, Bielany
+1610000.0,64.6,7,Wtórny,Kamienica,2 pokoje,Warszawa, Śródmieście
+1250000.0,55.0,4,Wtórny,Blok,3 pokoje,Warszawa, Śródmieście
+680000.0,31.7,4,Wtórny,Blok,1 pokój,Warszawa, Wola
+859000.0,28.0,Powyżej 10,Wtórny,Blok,2 pokoje,Warszawa, Śródmieście
+713000.0,53.2,1,Wtórny,Blok,3 pokoje,Warszawa, Targówek
+829000.0,44.0,5,Wtórny,Kamienica,2 pokoje,Warszawa, Ochota
+549999.0,39.0,5,Pierwotny,Blok,2 pokoje,Warszawa, Ursus
+723940.0,52.0,2,Pierwotny,Apartamentowiec,2 pokoje,Warszawa, Wilanów
+599000.0,32.45,3,Pierwotny,Apartamentowiec,2 pokoje,Warszawa, Białołęka
+1429000.0,51.66,7,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Ochota
+1270000.0,58.0,4,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Ursynów
+929000.0,38.16,2,Wtórny,Kamienica,2 pokoje,Warszawa, Śródmieście
+399000.0,18.67,1,Pierwotny,Apartamentowiec,1 pokój,Warszawa, Włochy
+910000.0,50.0,8,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Śródmieście
+660000.0,38.0,3,Wtórny,Kamienica,1 pokój,Warszawa, Mokotów
+565000.0,31.2,3,Wtórny,Blok,1 pokój,Warszawa, Mokotów
+549000.0,30.5,1,Wtórny,Blok,1 pokój,Warszawa, Praga-Południe
+622167.0,39.0,3,Wtórny,Blok,2 pokoje,Warszawa, Białołęka
+1350000.0,73.0,Parter,Wtórny,Apartamentowiec,3 pokoje,Warszawa, Wilanów
+830000.0,39.6,Parter,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Śródmieście
+750000.0,46.48,Parter,Wtórny,Blok,3 pokoje,Warszawa, Ochota
+975000.0,61.17,2,Wtórny,Blok,3 pokoje,Warszawa, Białołęka
+892000.0,60.0,Parter,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Bemowo
+890000.0,45.0,7,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Ochota
+659000.0,33.99,4,Wtórny,Blok,2 pokoje,Warszawa, Praga-Północ
+675000.0,35.0,1,Wtórny,Blok,1 pokój,Warszawa, Ochota
+850000.0,38.42,3,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Praga-Południe
+710696.0,71.91,2,Pierwotny,Apartamentowiec,2 pokoje,Warszawa, Wilanów
+880000.0,51.0,1,Wtórny,Blok,2 pokoje,Warszawa, Praga-Południe
+830000.0,51.4,3,Wtórny,Blok,3 pokoje,Warszawa, Targówek
+515000.0,39.0,Parter,Wtórny,Blok,2 pokoje,Warszawa, Praga-Południe
+1060000.0,69.1,1,Wtórny,Blok,3 pokoje,Warszawa, Ursynów
+555000.0,28.0,3,Wtórny,Kamienica,2 pokoje,Warszawa, Praga-Północ
+877000.0,43.9,Parter,Wtórny,Blok,2 pokoje,Warszawa, Bemowo
+1229000.0,120.0,1,Wtórny,Pozostałe,4 i więcej,Warszawa, Wawer
+790000.0,47.34,2,Wtórny,Blok,3 pokoje,Warszawa, Ochota
+729000.0,47.0,8,Wtórny,Blok,3 pokoje,Warszawa, Mokotów
+950000.0,36.0,Powyżej 10,Pierwotny,Apartamentowiec,2 pokoje,Warszawa, Wola
+1180000.0,53.0,2,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Mokotów
+760000.0,50.0,1,Wtórny,Blok,3 pokoje,Warszawa, Ursus
+800000.0,47.0,3,Wtórny,Blok,2 pokoje,Warszawa, Włochy
+648000.0,37.0,1,Wtórny,Blok,2 pokoje,Warszawa, Wola
+860000.0,65.5,2,Wtórny,Blok,3 pokoje,Warszawa, Białołęka
+595000.0,38.07,6,Pierwotny,Blok,2 pokoje,Warszawa, Ursus
+450000.0,26.0,2,Wtórny,Blok,1 pokój,Warszawa, Bielany
+460750.0,18.43,Parter,Wtórny,Blok,1 pokój,Warszawa, Mokotów
+890000.0,62.5,5,Wtórny,Blok,3 pokoje,Warszawa, Praga-Południe
+450000.0,26.15,Powyżej 10,Wtórny,Blok,1 pokój,Warszawa, Bemowo
+640000.0,27.0,2,Wtórny,Blok,1 pokój,Warszawa, Śródmieście
+720000.0,53.1,3,Wtórny,Blok,3 pokoje,Warszawa, Mokotów
+770000.0,46.8,Parter,Wtórny,Blok,2 pokoje,Warszawa, Bemowo
+990000.0,53.0,1,Wtórny,Kamienica,3 pokoje,Warszawa, Wola
+625000.0,29.01,2,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Włochy
+559999.0,20.0,1,Wtórny,Kamienica,1 pokój,Warszawa, Śródmieście
+1160000.0,70.0,Parter,Wtórny,Blok,3 pokoje,Warszawa, Bielany
+1230000.0,52.0,2,Wtórny,Kamienica,2 pokoje,Warszawa, Mokotów
+950000.0,63.0,Parter,Wtórny,Blok,3 pokoje,Warszawa, Targówek
+1330000.0,60.0,1,Wtórny,Blok,3 pokoje,Warszawa, Włochy
+850000.0,47.0,3,Wtórny,Blok,4 i więcej,Warszawa, Targówek
+1100000.0,59.0,4,Wtórny,Blok,3 pokoje,Warszawa, Ursus
+1743000.0,75.0,2,Pierwotny,Apartamentowiec,2 pokoje,Warszawa, Mokotów
+895000.0,68.2,2,Wtórny,Blok,3 pokoje,Warszawa, Białołęka
+777700.0,33.0,1,Wtórny,Kamienica,2 pokoje,Warszawa, Ochota
+468000.0,17.0,1,Wtórny,Kamienica,1 pokój,Warszawa, Śródmieście
+1317000.0,54.7,Parter,Wtórny,Apartamentowiec,3 pokoje,Warszawa, Wola
+417000.0,23.22,Parter,Wtórny,Blok,1 pokój,Warszawa, Wola
+839000.0,59.0,3,Wtórny,Kamienica,3 pokoje,Warszawa, Wola
+730000.0,52.0,2,Wtórny,Blok,3 pokoje,Warszawa, Bemowo
+610000.0,43.5,Parter,Wtórny,Blok,2 pokoje,Warszawa, Białołęka
+1250000.0,124.38,Parter,Pierwotny,Apartamentowiec,4 i więcej,Warszawa, Wilanów
+754000.0,29.0,2,Wtórny,Apartamentowiec,1 pokój,Warszawa, Wola
+754000.0,29.0,3,Wtórny,Apartamentowiec,1 pokój,Warszawa, Wola
+619000.0,31.75,6,Wtórny,Blok,1 pokój,Warszawa, Bemowo
+810000.0,49.4,4,Wtórny,Blok,3 pokoje,Warszawa, Mokotów
+1450000.0,81.0,2,Wtórny,Blok,3 pokoje,Warszawa, Wola
+1400000.0,49.0,5,Wtórny,Blok,3 pokoje,Warszawa, Śródmieście
+521220.0,30.66,2,Wtórny,Kamienica,2 pokoje,Warszawa, Praga-Południe
+980000.0,57.5,2,Wtórny,Blok,2 pokoje,Warszawa, Wola
+689000.0,27.57,Parter,Wtórny,Apartamentowiec,1 pokój,Warszawa, Wola
+465000.0,33.0,1,Wtórny,Blok,2 pokoje,Warszawa, Ursus
+695000.0,37.51,8,Wtórny,Blok,2 pokoje,Warszawa, Śródmieście
+780000.0,48.88,4,Wtórny,Blok,2 pokoje,Warszawa, Białołęka
+907500.0,55.0,1,Wtórny,Blok,3 pokoje,Warszawa, Ursus
+1250000.0,57.5,Powyżej 10,Pierwotny,Blok,3 pokoje,Warszawa, Wola
+900000.0,27.4,Powyżej 10,Wtórny,Blok,2 pokoje,Warszawa, Śródmieście
+1050000.0,40.0,4,Wtórny,Kamienica,2 pokoje,Warszawa, Śródmieście
+570000.0,40.0,5,Wtórny,Blok,2 pokoje,Warszawa, Targówek
+799000.0,47.5,2,Wtórny,Blok,3 pokoje,Warszawa, Żoliborz
+1240000.0,61.6,4,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Mokotów
+630000.0,32.92,Parter,Wtórny,Kamienica,2 pokoje,Warszawa, Mokotów
+1270000.0,70.0,5,Wtórny,Apartamentowiec,3 pokoje,Warszawa, Białołęka
+720000.0,36.44,3,Wtórny,Blok,2 pokoje,Warszawa, Mokotów
+558000.0,31.0,Parter,Wtórny,Blok,1 pokój,Warszawa, Mokotów
+686900.0,38.0,4,Wtórny,Blok,2 pokoje,Warszawa, Wola
+570000.0,37.5,Parter,Wtórny,Blok,2 pokoje,Warszawa, Praga-Południe
+945000.0,65.5,1,Pierwotny,Apartamentowiec,4 i więcej,Warszawa, Praga-Południe
+1370000.0,85.0,9,Wtórny,Blok,4 i więcej,Warszawa, Bielany
+766270.0,40.0,1,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Praga-Południe
+1419660.0,59.4,Parter,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Wilanów
+2682141.06,43.64,Powyżej 10,Pierwotny,Blok,2 pokoje,Warszawa, Śródmieście
+800000.0,47.5,3,Wtórny,Blok,2 pokoje,Warszawa, Wilanów
+1701576.95,43.64,Powyżej 10,Pierwotny,Blok,2 pokoje,Warszawa, Wola
+900000.0,50.0,2,Wtórny,Blok,2 pokoje,Warszawa, Śródmieście
+999999.0,48.0,3,Wtórny,Blok,3 pokoje,Warszawa, Żoliborz
+655522.0,65.79,2,Pierwotny,Apartamentowiec,2 pokoje,Warszawa, Wilanów
+794000.0,53.0,2,Wtórny,Apartamentowiec,3 pokoje,Warszawa, Targówek
+827000.0,54.0,3,Wtórny,Kamienica,3 pokoje,Warszawa, Praga-Północ
+839999.0,56.5,5,Wtórny,Blok,3 pokoje,Warszawa, Żoliborz
+735000.0,39.0,4,Wtórny,Kamienica,1 pokój,Warszawa, Wola
+649900.0,40.5,3,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Białołęka
+900000.0,36.0,2,Wtórny,Kamienica,2 pokoje,Warszawa, Śródmieście
+559000.0,37.0,4,Wtórny,Blok,2 pokoje,Warszawa, Praga-Północ
+800000.0,59.58,7,Wtórny,Blok,3 pokoje,Warszawa, Ursynów
+790000.0,52.7,3,Wtórny,Blok,2 pokoje,Warszawa, Targówek
+429999.0,20.0,4,Wtórny,Blok,1 pokój,Warszawa, Żoliborz
+1340000.0,74.5,Parter,Wtórny,Blok,4 i więcej,Warszawa, Wola
+760000.0,51.0,1,Wtórny,Blok,2 pokoje,Warszawa, Praga-Północ
+1899000.0,117.0,1,Pierwotny,Apartamentowiec,4 i więcej,Warszawa, Ochota
+1190000.0,69.0,1,Pierwotny,Blok,3 pokoje,Warszawa, Ochota
+625000.0,52.47,2,Pierwotny,Blok,3 pokoje,Warszawa, Białołęka
+820000.0,48.0,4,Wtórny,Blok,2 pokoje,Warszawa, Praga-Południe
+700000.0,40.0,1,Wtórny,Blok,2 pokoje,Warszawa, Wola
+1100000.0,60.0,4,Wtórny,Apartamentowiec,3 pokoje,Warszawa, Targówek
+780000.0,38.6,1,Wtórny,Kamienica,2 pokoje,Warszawa, Śródmieście
+1200000.0,60.0,5,Wtórny,Apartamentowiec,3 pokoje,Warszawa, Bemowo
+880000.0,56.0,8,Wtórny,Blok,3 pokoje,Warszawa, Bielany
+1450000.0,82.16,4,Wtórny,Apartamentowiec,4 i więcej,Warszawa, Mokotów
+749999.0,28.0,2,Wtórny,Blok,2 pokoje,Warszawa, Białołęka
+1750000.0,75.0,4,Wtórny,Apartamentowiec,4 i więcej,Warszawa, Wilanów
+768110.1,74.8,1,Wtórny,Kamienica,3 pokoje,Warszawa, Ursynów
+599000.0,19.0,2,Wtórny,Kamienica,1 pokój,Warszawa, Śródmieście
+599900.0,28.5,6,Wtórny,Blok,2 pokoje,Warszawa, Praga-Południe
+799000.0,51.22,3,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Białołęka
+904000.0,148.27,Parter,Pierwotny,Apartamentowiec,4 i więcej,Warszawa, Wilanów
+775000.0,43.54,1,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Targówek
+699000.0,33.0,7,Wtórny,Blok,2 pokoje,Warszawa, Śródmieście
+834000.0,50.57,Parter,Wtórny,Blok,2 pokoje,Warszawa, Praga-Południe
+520000.0,22.73,4,Wtórny,Apartamentowiec,1 pokój,Warszawa, Wola
+670000.0,35.6,2,Wtórny,Kamienica,2 pokoje,Warszawa, Śródmieście
+589000.0,40.27,3,Wtórny,Blok,3 pokoje,Warszawa, Śródmieście
+1070000.0,57.0,2,Wtórny,Blok,3 pokoje,Warszawa, Mokotów
+1350000.0,68.14,Parter,Wtórny,Apartamentowiec,3 pokoje,Warszawa, Targówek
+790000.0,40.17,Parter,Pierwotny,Apartamentowiec,2 pokoje,Warszawa, Mokotów
+749000.0,42.79,1,Wtórny,Blok,2 pokoje,Warszawa, Wawer
+997700.0,48.2,10,Wtórny,Blok,2 pokoje,Warszawa, Wola
+769000.0,51.52,2,Wtórny,Blok,3 pokoje,Warszawa, Bemowo
+735000.0,37.0,4,Wtórny,Blok,2 pokoje,Warszawa, Wola
+890000.0,53.38,2,Wtórny,Blok,2 pokoje,Warszawa, Targówek
+910000.0,48.0,6,Wtórny,Kamienica,2 pokoje,Warszawa, Ochota
+769000.0,40.0,1,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Praga-Południe
+3340000.0,148.0,7,Wtórny,Kamienica,4 i więcej,Warszawa, Śródmieście
+720000.0,48.0,4,Wtórny,Blok,3 pokoje,Warszawa, Bielany
+520000.0,27.51,10,Wtórny,Blok,1 pokój,Warszawa, Mokotów
+699500.0,35.0,2,Wtórny,Kamienica,1 pokój,Warszawa, Śródmieście
+774000.0,45.0,Parter,Wtórny,Blok,2 pokoje,Warszawa, Targówek
+790000.0,50.0,Parter,Wtórny,Blok,3 pokoje,Warszawa, Białołęka
+729000.0,44.5,9,Wtórny,Blok,2 pokoje,Warszawa, Białołęka
+575000.0,31.0,7,Wtórny,Blok,1 pokój,Warszawa, Ochota
+588000.0,34.0,4,Wtórny,Blok,2 pokoje,Warszawa, Wola
+899000.0,60.0,2,Wtórny,Blok,3 pokoje,Warszawa, Wola
+639000.0,32.55,Parter,Wtórny,Apartamentowiec,1 pokój,Warszawa, Włochy
+1699000.0,55.0,Parter,Wtórny,Kamienica,2 pokoje,Warszawa, Śródmieście
+859990.0,67.7,3,Wtórny,Blok,3 pokoje,Warszawa, Białołęka
+796000.0,43.48,5,Pierwotny,Blok,2 pokoje,Warszawa, Praga-Południe
+680000.0,36.7,1,Wtórny,Blok,2 pokoje,Warszawa, Mokotów
+1200000.0,49.0,4,Wtórny,Blok,2 pokoje,Warszawa, Bielany
+491000.0,28.57,Parter,Pierwotny,Blok,1 pokój,Warszawa, Praga-Południe
+1100000.0,40.0,3,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Mokotów
+845000.0,48.3,5,Wtórny,Blok,2 pokoje,Warszawa, Ursynów
+940000.0,47.0,2,Wtórny,Blok,3 pokoje,Warszawa, Mokotów
+750000.0,28.8,Parter,Wtórny,Apartamentowiec,1 pokój,Warszawa, Włochy
+965000.0,39.9,6,Wtórny,Blok,2 pokoje,Warszawa, Bielany
+870000.0,50.7,Parter,Wtórny,Blok,3 pokoje,Warszawa, Bielany
+840000.0,50.0,1,Wtórny,Kamienica,3 pokoje,Warszawa, Praga-Południe
+1250000.0,70.79,1,Wtórny,Blok,3 pokoje,Warszawa, Włochy
+690000.0,35.69,3,Wtórny,Kamienica,2 pokoje,Warszawa, Wola
+2150000.0,107.6,4,Wtórny,Blok,4 i więcej,Warszawa, Mokotów
+627000.0,27.5,2,Wtórny,Apartamentowiec,1 pokój,Warszawa, Praga-Północ
+1160000.0,39.0,3,Wtórny,Blok,2 pokoje,Warszawa, Mokotów
+1099000.0,45.0,1,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Śródmieście
+1400000.0,47.0,2,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Wilanów
+507000.0,25.0,4,Wtórny,Blok,1 pokój,Warszawa, Śródmieście
+800000.0,47.18,3,Wtórny,Blok,2 pokoje,Warszawa, Bemowo
+1480000.0,61.0,Parter,Wtórny,Apartamentowiec,3 pokoje,Warszawa, Wola
+819000.0,51.0,10,Wtórny,Blok,3 pokoje,Warszawa, Mokotów
+993762.0,99.06,Parter,Pierwotny,Blok,4 i więcej,Warszawa, Białołęka
+1045000.0,53.62,4,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Praga-Północ
+660879.0,66.47,1,Pierwotny,Blok,2 pokoje,Warszawa, Białołęka
+589000.0,38.0,2,Wtórny,Blok,2 pokoje,Warszawa, Targówek
+895000.0,67.9,4,Wtórny,Blok,4 i więcej,Warszawa, Wola
+545700.0,32.1,1,Wtórny,Blok,2 pokoje,Warszawa, Bielany
+549000.0,29.0,4,Wtórny,Blok,1 pokój,Warszawa, Mokotów
+759000.0,53.0,10,Wtórny,Blok,3 pokoje,Warszawa, Targówek
+764000.0,38.07,5,Wtórny,Apartamentowiec,2 pokoje,Warszawa, Wola
+899000.0,45.6,Parter,Wtórny,Blok,2 pokoje,Warszawa, Bemowo
+879000.0,61.0,Parter,Wtórny,Blok,3 pokoje,Warszawa, Ursynów
+685000.0,55.0,4,Wtórny,Blok,3 pokoje,Warszawa, Bemowo
+1200000.0,49.0,1,Wtórny,Blok,2 pokoje,Warszawa, Praga-Północ
+700000.0,39.0,9,Wtórny,Blok,2 pokoje,Warszawa, Żoliborz
+780000.0,66.0,2,Pierwotny,Blok,3 pokoje,Warszawa, Bielany
+400000.0,43.0,6,Wtórny,Blok,2 pokoje,Łódź, Polesie
+315000.0,28.0,9,Wtórny,Blok,2 pokoje,Łódź, Górna
+450000.0,57.0,Parter,Wtórny,Kamienica,2 pokoje,Łódź, Śródmieście
+312000.0,37.0,2,Wtórny,Blok,2 pokoje,Łódź, Polesie
+317000.0,31.7,6,Wtórny,Apartamentowiec,1 pokój,Łódź, Górna
+580000.0,70.0,2,Wtórny,Kamienica,3 pokoje,Łódź, Polesie
+468000.0,36.02,7,Wtórny,Apartamentowiec,2 pokoje,Łódź, Polesie
+365000.0,37.0,1,Wtórny,Blok,2 pokoje,Łódź, Polesie
+363999.0,40.0,3,Wtórny,Blok,2 pokoje,Łódź, Górna
+419000.0,51.8,Parter,Pierwotny,Apartamentowiec,3 pokoje,Łódź, Górna
+399000.0,40.12,2,Wtórny,Blok,3 pokoje,Łódź, Bałuty
+240000.0,63.0,3,Wtórny,Blok,3 pokoje,Łódź, Widzew
+430000.0,47.5,Parter,Wtórny,Blok,3 pokoje,Łódź, Górna
+340000.0,46.0,2,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+534500.0,65.44,2,Pierwotny,Apartamentowiec,3 pokoje,Łódź, Widzew
+434000.0,40.0,3,Wtórny,Kamienica,2 pokoje,Łódź, Bałuty
+275000.0,37.0,4,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+286300.0,31.0,4,Wtórny,Apartamentowiec,1 pokój,Łódź, Polesie
+287000.0,44.0,3,Wtórny,Kamienica,2 pokoje,Łódź, Polesie
+480000.0,47.55,2,Wtórny,Kamienica,2 pokoje,Łódź, Śródmieście
+1040130.0,99.06,1,Pierwotny,Loft,4 i więcej,Łódź, Śródmieście
+1320000.0,139.1,1,Wtórny,Kamienica,3 pokoje,Łódź, Śródmieście
+335000.0,32.0,Parter,Wtórny,Blok,1 pokój,Łódź, Śródmieście
+452000.0,42.5,3,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+452000.0,44.5,3,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+340000.0,42.98,3,Wtórny,Blok,2 pokoje,Łódź, Górna
+598000.0,92.0,2,Pierwotny,Apartamentowiec,4 i więcej,Łódź, Widzew
+530000.0,56.12,Parter,Wtórny,Blok,3 pokoje,Łódź, Polesie
+519000.0,53.0,Parter,Wtórny,Blok,3 pokoje,Łódź, Polesie
+345000.0,37.75,3,Wtórny,Blok,2 pokoje,Łódź, Polesie
+340000.0,39.0,5,Wtórny,Blok,2 pokoje,Łódź, Polesie
+330000.0,36.19,5,Wtórny,Blok,1 pokój,Łódź, Śródmieście
+222000.0,28.0,2,Wtórny,Kamienica,1 pokój,Łódź, Bałuty
+495000.0,63.5,Parter,Wtórny,Blok,4 i więcej,Łódź, Bałuty
+410000.0,43.35,4,Wtórny,Blok,3 pokoje,Łódź, Górna
+489000.0,35.14,Parter,Pierwotny,Apartamentowiec,1 pokój,Łódź, Widzew
+550000.0,55.23,3,Wtórny,Blok,3 pokoje,Łódź, Śródmieście
+460000.0,56.16,2,Wtórny,Blok,3 pokoje,Łódź, Bałuty
+365000.0,43.0,3,Wtórny,Blok,2 pokoje,Łódź, Śródmieście
+318000.0,37.0,5,Wtórny,Blok,2 pokoje,Łódź, Polesie
+399999.0,40.0,8,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+290000.0,40.89,3,Wtórny,Blok,2 pokoje,Łódź, Górna
+410000.0,44.0,3,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+259000.0,34.2,1,Wtórny,Blok,2 pokoje,Łódź, Polesie
+399999.0,44.7,5,Wtórny,Blok,2 pokoje,Łódź, Górna
+449000.0,65.46,10,Wtórny,Blok,3 pokoje,Łódź, Śródmieście
+299000.0,37.0,4,Wtórny,Blok,2 pokoje,Łódź, Polesie
+485000.0,53.0,2,Wtórny,Blok,3 pokoje,Łódź, Bałuty
+272000.0,27.0,Parter,Wtórny,Blok,1 pokój,Łódź, Polesie
+539000.0,52.0,3,Wtórny,Blok,3 pokoje,Łódź, Bałuty
+600000.0,62.0,4,Wtórny,Blok,3 pokoje,Łódź, Górna
+380000.0,50.17,2,Wtórny,Blok,2 pokoje,Łódź, Górna
+450000.0,60.0,1,Wtórny,Blok,2 pokoje,Łódź, Śródmieście
+428928.0,44.68,5,Pierwotny,Apartamentowiec,2 pokoje,Łódź, Polesie
+295000.0,27.0,3,Wtórny,Blok,2 pokoje,Łódź, Górna
+485000.0,45.0,2,Wtórny,Blok,3 pokoje,Łódź, Górna
+369000.0,37.0,2,Wtórny,Blok,2 pokoje,Łódź, Polesie
+413000.0,48.62,1,Pierwotny,Blok,2 pokoje,Łódź, Górna
+325000.0,42.0,Parter,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+589000.0,65.78,1,Pierwotny,Apartamentowiec,3 pokoje,Łódź, Śródmieście
+480000.0,43.17,Parter,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+279000.0,38.0,Parter,Wtórny,Blok,2 pokoje,Łódź, Polesie
+279000.0,37.0,2,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+302000.0,45.2,4,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+399000.0,51.49,2,Wtórny,Blok,2 pokoje,Łódź, Śródmieście
+250000.0,32.09,4,Wtórny,Blok,1 pokój,Łódź, Górna
+260000.0,37.0,2,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+658000.0,57.5,6,Wtórny,Apartamentowiec,2 pokoje,Łódź, Bałuty
+379000.0,37.0,4,Wtórny,Blok,2 pokoje,Łódź, Śródmieście
+780000.0,101.0,Parter,Wtórny,Loft,3 pokoje,Łódź, Śródmieście
+465000.0,48.0,3,Wtórny,Blok,3 pokoje,Łódź, Polesie
+385000.0,43.6,Parter,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+159600.0,21.0,2,Pierwotny,Kamienica,1 pokój,Łódź, Śródmieście
+349000.0,36.0,Parter,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+267000.0,22.0,1,Wtórny,Blok,1 pokój,Łódź, Polesie
+494900.0,55.0,Parter,Wtórny,Blok,3 pokoje,Łódź, Śródmieście
+449000.0,51.0,Parter,Pierwotny,Apartamentowiec,3 pokoje,Łódź, Górna
+690000.0,106.0,2,Pierwotny,Apartamentowiec,4 i więcej,Łódź, Widzew
+494790.0,57.0,3,Wtórny,Blok,3 pokoje,Łódź, Bałuty
+529000.0,65.0,1,Pierwotny,Apartamentowiec,3 pokoje,Łódź, Polesie
+485000.0,59.0,6,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+365000.0,45.0,3,Wtórny,Blok,2 pokoje,Łódź, Górna
+505384.0,57.43,3,Pierwotny,Apartamentowiec,3 pokoje,Łódź, Polesie
+518320.0,58.9,Parter,Pierwotny,Apartamentowiec,3 pokoje,Łódź, Polesie
+220000.0,28.5,3,Wtórny,Blok,1 pokój,Łódź, Górna
+421682.0,47.38,2,Pierwotny,Apartamentowiec,2 pokoje,Łódź, Widzew
+169000.0,25.1,2,Wtórny,Kamienica,1 pokój,Łódź, Górna
+345000.0,38.0,2,Wtórny,Blok,2 pokoje,Łódź, Śródmieście
+435000.0,48.0,2,Wtórny,Blok,2 pokoje,Łódź, Polesie
+439000.0,64.0,3,Wtórny,Kamienica,4 i więcej,Łódź, Śródmieście
+320000.0,36.0,4,Wtórny,Blok,2 pokoje,Łódź, Górna
+560000.0,52.84,3,Wtórny,Apartamentowiec,2 pokoje,Łódź, Górna
+440000.0,56.0,Parter,Wtórny,Blok,2 pokoje,Łódź, Górna
+590000.0,57.3,1,Wtórny,Apartamentowiec,3 pokoje,Łódź, Górna
+570000.0,50.05,1,Wtórny,Blok,2 pokoje,Łódź, Polesie
+375000.0,47.22,8,Wtórny,Blok,3 pokoje,Łódź, Widzew
+374000.0,49.98,4,Wtórny,Blok,2 pokoje,Łódź, Górna
+355000.0,43.19,4,Wtórny,Blok,2 pokoje,Łódź, Polesie
+242000.0,35.91,1,Wtórny,Kamienica,2 pokoje,Łódź, Polesie
+559000.0,85.0,2,Pierwotny,Apartamentowiec,4 i więcej,Łódź, Widzew
+825000.0,83.0,2,Wtórny,Kamienica,4 i więcej,Łódź, Śródmieście
+359000.0,27.0,5,Wtórny,Apartamentowiec,1 pokój,Łódź, Śródmieście
+434000.0,52.0,1,Wtórny,Blok,3 pokoje,Łódź, Widzew
+260000.0,33.81,6,Wtórny,Blok,2 pokoje,Łódź, Polesie
+560000.0,54.7,3,Wtórny,Apartamentowiec,2 pokoje,Łódź, Polesie
+749000.0,111.0,2,Wtórny,Kamienica,4 i więcej,Łódź, Śródmieście
+360000.0,46.0,Parter,Wtórny,Blok,2 pokoje,Łódź, Polesie
+497000.0,44.93,Parter,Wtórny,Kamienica,2 pokoje,Łódź, Śródmieście
+650000.0,55.0,2,Wtórny,Apartamentowiec,3 pokoje,Łódź, Śródmieście
+299000.0,45.13,4,Wtórny,Blok,2 pokoje,Łódź, Polesie
+350000.0,38.0,3,Wtórny,Blok,2 pokoje,Łódź, Górna
+439000.0,45.96,4,Wtórny,Blok,2 pokoje,Łódź, Widzew
+469999.0,47.0,2,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+375000.0,37.0,4,Wtórny,Blok,2 pokoje,Łódź, Górna
+178000.0,16.26,3,Wtórny,Kamienica,1 pokój,Łódź, Śródmieście
+360000.0,61.0,1,Wtórny,Kamienica,2 pokoje,Łódź, Śródmieście
+6000.0,16.0,2,Wtórny,Kamienica,1 pokój,Łódź, Górna
+324000.0,46.0,Parter,Wtórny,Blok,3 pokoje,Łódź, Bałuty
+629000.0,55.0,1,Wtórny,Blok,2 pokoje,Łódź, Widzew
+213000.0,28.0,Parter,Wtórny,Kamienica,1 pokój,Łódź, Śródmieście
+739000.0,63.0,2,Wtórny,Blok,3 pokoje,Łódź, Widzew
+420000.0,47.22,7,Wtórny,Blok,3 pokoje,Łódź, Widzew
+439000.0,39.83,4,Wtórny,Apartamentowiec,2 pokoje,Łódź, Górna
+399000.0,52.5,1,Pierwotny,Pozostałe,3 pokoje,Łódź, Widzew
+590000.0,66.0,1,Wtórny,Blok,3 pokoje,Łódź, Górna
+460000.0,54.14,2,Wtórny,Blok,3 pokoje,Łódź, Bałuty
+200000.0,24.35,3,Wtórny,Blok,1 pokój,Łódź, Górna
+418540.0,49.24,Parter,Pierwotny,Apartamentowiec,2 pokoje,Łódź, Górna
+247000.0,37.43,2,Wtórny,Blok,1 pokój,Łódź, Bałuty
+200000.0,28.67,2,Wtórny,Kamienica,1 pokój,Łódź, Śródmieście
+195000.0,25.0,1,Wtórny,Blok,1 pokój,Łódź, Górna
+470000.0,54.0,3,Wtórny,Blok,3 pokoje,Łódź, Polesie
+470000.0,51.27,1,Wtórny,Blok,2 pokoje,Łódź, Górna
+310000.0,46.55,5,Wtórny,Blok,2 pokoje,Łódź, Polesie
+271000.0,37.95,2,Wtórny,Blok,2 pokoje,Łódź, Polesie
+280000.0,33.45,1,Wtórny,Blok,1 pokój,Łódź, Bałuty
+320000.0,38.0,1,Wtórny,Blok,2 pokoje,Łódź, Górna
+365000.0,38.0,Parter,Wtórny,Blok,2 pokoje,Łódź, Górna
+415000.0,36.48,3,Wtórny,Blok,2 pokoje,Łódź, Polesie
+215000.0,18.7,Parter,Wtórny,Pozostałe,1 pokój,Łódź, Śródmieście
+395000.0,44.0,4,Wtórny,Blok,2 pokoje,Łódź, Górna
+399000.0,52.45,9,Wtórny,Blok,3 pokoje,Łódź, Bałuty
+520000.0,54.0,Parter,Wtórny,Blok,3 pokoje,Łódź, Bałuty
+255000.0,37.0,4,Wtórny,Blok,2 pokoje,Łódź, Polesie
+330000.0,43.5,3,Wtórny,Blok,2 pokoje,Łódź, Polesie
+279000.0,38.0,2,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+219000.0,32.05,3,Wtórny,Apartamentowiec,2 pokoje,Łódź, Polesie
+448000.0,54.09,2,Pierwotny,Apartamentowiec,2 pokoje,Łódź, Górna
+369000.0,46.0,1,Wtórny,Blok,2 pokoje,Łódź, Górna
+359000.0,42.23,2,Wtórny,Blok,2 pokoje,Łódź, Polesie
+509000.0,59.5,3,Wtórny,Blok,3 pokoje,Łódź, Widzew
+890000.0,104.0,2,Wtórny,Kamienica,4 i więcej,Łódź, Śródmieście
+460000.0,50.0,2,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+330000.0,37.0,2,Wtórny,Blok,2 pokoje,Łódź, Polesie
+299000.0,25.0,4,Wtórny,Apartamentowiec,1 pokój,Łódź, Polesie
+230000.0,27.0,Parter,Wtórny,Blok,1 pokój,Łódź, Widzew
+369000.0,67.0,2,Wtórny,Kamienica,2 pokoje,Łódź, Polesie
+350000.0,34.72,2,Wtórny,Kamienica,2 pokoje,Łódź, Polesie
+21000.0,66.0,3,Wtórny,Kamienica,2 pokoje,Łódź, Górna
+312000.0,37.48,3,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+418470.0,28.76,3,Pierwotny,Apartamentowiec,1 pokój,Łódź, Śródmieście
+690000.0,69.0,Parter,Wtórny,Loft,2 pokoje,Łódź, Bałuty
+479000.0,45.12,Parter,Wtórny,Blok,2 pokoje,Łódź, Śródmieście
+420000.0,52.97,3,Wtórny,Blok,3 pokoje,Łódź, Polesie
+397000.0,54.0,8,Wtórny,Blok,3 pokoje,Łódź, Górna
+399000.0,36.3,Parter,Wtórny,Loft,2 pokoje,Łódź, Górna
+10000.0,58.0,Parter,Wtórny,Kamienica,2 pokoje,Łódź, Górna
+195000.0,15.17,1,Wtórny,Kamienica,1 pokój,Łódź, Śródmieście
+270000.0,37.0,3,Wtórny,Blok,2 pokoje,Łódź, Widzew
+325000.0,48.0,2,Wtórny,Blok,3 pokoje,Łódź, Bałuty
+480000.0,40.18,2,Wtórny,Apartamentowiec,2 pokoje,Łódź, Polesie
+530000.0,67.09,Parter,Pierwotny,Pozostałe,3 pokoje,Łódź, Widzew
+490000.0,42.72,1,Wtórny,Blok,3 pokoje,Łódź, Śródmieście
+390000.0,43.0,1,Wtórny,Blok,2 pokoje,Łódź, Polesie
+525000.0,49.68,5,Pierwotny,Blok,3 pokoje,Łódź, Widzew
+399999.0,44.0,4,Wtórny,Blok,2 pokoje,Łódź, Polesie
+700000.0,83.0,4,Wtórny,Apartamentowiec,3 pokoje,Łódź, Górna
+999000.0,119.0,2,Wtórny,Apartamentowiec,4 i więcej,Łódź, Polesie
+430000.0,44.5,4,Wtórny,Blok,2 pokoje,Łódź, Widzew
+330900.0,46.97,2,Pierwotny,Blok,2 pokoje,Łódź, Bałuty
+315000.0,37.0,2,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+430000.0,42.98,Parter,Wtórny,Blok,2 pokoje,Łódź, Górna
+45000.0,36.0,2,Wtórny,Kamienica,2 pokoje,Łódź, Górna
+439000.0,45.0,3,Wtórny,Blok,2 pokoje,Łódź, Polesie
+490000.0,39.69,4,Pierwotny,Apartamentowiec,2 pokoje,Łódź, Polesie
+399999.0,38.0,2,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+459000.0,48.0,3,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+360000.0,37.0,Parter,Wtórny,Blok,2 pokoje,Łódź, Górna
+810000.0,48.0,1,Wtórny,Blok,2 pokoje,Łódź, Śródmieście
+359000.0,51.19,3,Wtórny,Blok,2 pokoje,Łódź, Górna
+20000.0,58.35,2,Wtórny,Kamienica,2 pokoje,Łódź, Polesie
+255000.0,20.0,3,Pierwotny,Apartamentowiec,1 pokój,Łódź, Śródmieście
+980000.0,108.0,3,Wtórny,Kamienica,3 pokoje,Łódź, Śródmieście
+311000.0,45.1,4,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+220000.0,37.0,3,Wtórny,Kamienica,1 pokój,Łódź, Polesie
+799000.0,95.21,2,Wtórny,Apartamentowiec,4 i więcej,Łódź, Górna
+168000.0,23.0,2,Wtórny,Kamienica,1 pokój,Łódź, Polesie
+303000.0,43.0,Parter,Wtórny,Blok,1 pokój,Łódź, Polesie
+475000.0,46.0,1,Wtórny,Apartamentowiec,2 pokoje,Łódź, Bałuty
+270990.0,25.0,Parter,Wtórny,Kamienica,1 pokój,Łódź, Górna
+249560.0,36.7,2,Wtórny,Blok,2 pokoje,Łódź, Śródmieście
+520000.0,62.0,Parter,Wtórny,Blok,3 pokoje,Łódź, Polesie
+247000.0,27.22,10,Wtórny,Blok,1 pokój,Łódź, Górna
+500000.0,62.0,5,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+335000.0,45.0,Parter,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+1090320.0,66.08,2,Wtórny,Kamienica,4 i więcej,Łódź, Śródmieście
+44000.0,49.0,1,Wtórny,Kamienica,2 pokoje,Łódź, Polesie
+370000.0,37.86,4,Wtórny,Blok,1 pokój,Łódź, Widzew
+325000.0,35.7,2,Wtórny,Blok,1 pokój,Łódź, Polesie
+274000.0,37.0,1,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+369000.0,45.0,1,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+350000.0,44.0,1,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+370000.0,42.42,3,Wtórny,Blok,2 pokoje,Łódź, Polesie
+800000.0,87.0,1,Wtórny,Loft,3 pokoje,Łódź, Śródmieście
+429000.0,45.11,Parter,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+260000.0,42.0,Poddasze,Wtórny,Kamienica,2 pokoje,Łódź, Górna
+390000.0,50.07,4,Wtórny,Blok,2 pokoje,Łódź, Widzew
+272000.0,34.89,4,Wtórny,Blok,1 pokój,Łódź, Górna
+580000.0,48.0,1,Wtórny,Apartamentowiec,2 pokoje,Łódź, Bałuty
+469000.0,51.32,3,Wtórny,Blok,2 pokoje,Łódź, Górna
+579000.0,55.0,7,Wtórny,Blok,3 pokoje,Łódź, Polesie
+255000.0,37.0,3,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+355000.0,38.0,10,Wtórny,Blok,2 pokoje,Łódź, Widzew
+450000.0,45.0,3,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+185000.0,58.12,3,Wtórny,Kamienica,2 pokoje,Łódź, Śródmieście
+535000.0,57.5,3,Wtórny,Blok,3 pokoje,Łódź, Górna
+328000.0,51.62,2,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+158000.0,16.0,Parter,Wtórny,Kamienica,1 pokój,Łódź, Górna
+892858.0,113.02,4,Pierwotny,Apartamentowiec,4 i więcej,Łódź, Polesie
+510000.0,46.0,Parter,Wtórny,Blok,2 pokoje,Łódź, Polesie
+859000.0,70.0,Parter,Wtórny,Apartamentowiec,3 pokoje,Łódź, Polesie
+300000.0,34.0,1,Wtórny,Blok,1 pokój,Łódź, Widzew
+410000.0,43.35,4,Wtórny,Blok,2 pokoje,Łódź, Górna
+20000.0,20.0,3,Wtórny,Kamienica,1 pokój,Łódź, Polesie
+30000.0,40.0,Parter,Wtórny,Kamienica,1 pokój,Łódź, Polesie
+427000.0,42.42,3,Wtórny,Blok,2 pokoje,Łódź, Polesie
+299888.0,31.0,6,Wtórny,Pozostałe,1 pokój,Łódź, Polesie
+464000.0,52.0,Parter,Wtórny,Blok,3 pokoje,Łódź, Górna
+299000.0,36.0,5,Wtórny,Blok,2 pokoje,Łódź, Górna
+425000.0,46.0,Parter,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+355000.0,49.0,Parter,Wtórny,Blok,3 pokoje,Łódź, Górna
+530000.0,60.0,Parter,Wtórny,Blok,2 pokoje,Łódź, Górna
+699000.0,59.0,4,Wtórny,Apartamentowiec,3 pokoje,Łódź, Bałuty
+335000.0,38.0,2,Wtórny,Blok,2 pokoje,Łódź, Górna
+270000.0,33.0,3,Wtórny,Blok,1 pokój,Łódź, Śródmieście
+250000.0,34.0,4,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+417000.0,64.7,Parter,Wtórny,Blok,4 i więcej,Łódź, Bałuty
+259900.0,37.0,4,Wtórny,Blok,2 pokoje,Łódź, Widzew
+517000.0,36.55,1,Pierwotny,Apartamentowiec,2 pokoje,Łódź, Śródmieście
+410000.0,39.0,4,Wtórny,Blok,1 pokój,Łódź, Śródmieście
+369000.0,43.19,1,Wtórny,Blok,2 pokoje,Łódź, Górna
+359000.0,48.55,Parter,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+310000.0,31.0,5,Wtórny,Blok,2 pokoje,Łódź, Polesie
+280000.0,36.6,Parter,Wtórny,Blok,2 pokoje,Łódź, Górna
+340000.0,48.0,2,Wtórny,Blok,2 pokoje,Łódź, Polesie
+342238.0,33.0,1,Pierwotny,Apartamentowiec,2 pokoje,Łódź, Śródmieście
+355000.0,43.0,10,Wtórny,Blok,2 pokoje,Łódź, Polesie
+355000.0,45.5,Parter,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+515000.0,89.08,2,Wtórny,Kamienica,3 pokoje,Łódź, Śródmieście
+395000.0,44.0,1,Wtórny,Blok,2 pokoje,Łódź, Górna
+485000.0,56.0,Parter,Wtórny,Blok,3 pokoje,Łódź, Bałuty
+305000.0,37.0,4,Wtórny,Blok,2 pokoje,Łódź, Widzew
+185000.0,20.0,2,Wtórny,Kamienica,1 pokój,Łódź, Bałuty
+350000.0,52.5,2,Wtórny,Blok,3 pokoje,Łódź, Polesie
+185000.0,27.6,2,Wtórny,Kamienica,1 pokój,Łódź, Polesie
+198000.0,27.0,1,Wtórny,Kamienica,1 pokój,Łódź, Bałuty
+550000.0,69.0,Parter,Wtórny,Blok,4 i więcej,Łódź, Widzew
+315000.0,45.0,4,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+339000.0,45.0,4,Wtórny,Blok,2 pokoje,Łódź, Górna
+329000.0,48.0,2,Wtórny,Blok,2 pokoje,Łódź, Polesie
+440000.0,54.0,9,Wtórny,Blok,3 pokoje,Łódź, Górna
+1100000.0,93.86,2,Wtórny,Apartamentowiec,3 pokoje,Łódź, Bałuty
+340000.0,35.0,3,Wtórny,Blok,1 pokój,Łódź, Śródmieście
+699000.0,74.0,2,Wtórny,Apartamentowiec,4 i więcej,Łódź, Górna
+55000.0,60.0,1,Wtórny,Kamienica,2 pokoje,Łódź, Śródmieście
+259000.0,25.0,2,Wtórny,Blok,1 pokój,Łódź, Bałuty
+425000.0,62.0,4,Wtórny,Blok,3 pokoje,Łódź, Górna
+551800.0,62.0,4,Wtórny,Blok,3 pokoje,Łódź, Górna
+370000.0,54.0,1,Wtórny,Blok,2 pokoje,Łódź, Polesie
+475000.0,61.76,2,Wtórny,Blok,3 pokoje,Łódź, Polesie
+399000.0,40.12,2,Wtórny,Blok,2 pokoje,Łódź, Bałuty
+815000.0,62.0,4,Wtórny,Blok,4 i więcej,Kraków, Bieńczyce
+930000.0,49.69,3,Wtórny,Apartamentowiec,2 pokoje,Kraków, Grzegórzki
+810000.0,51.0,Parter,Wtórny,Apartamentowiec,2 pokoje,Kraków, Grzegórzki
+680000.0,44.73,Parter,Wtórny,Blok,2 pokoje,Kraków, Bieńczyce
+925000.0,58.35,1,Wtórny,Blok,3 pokoje,Kraków, Czyżyny
+669000.0,32.36,2,Wtórny,Apartamentowiec,2 pokoje,Kraków, Czyżyny
+1074200.0,52.4,3,Wtórny,Blok,2 pokoje,Kraków, Grzegórzki
+648201.0,30.16,3,Wtórny,Blok,1 pokój,Kraków, Bronowice
+535000.0,39.0,4,Wtórny,Blok,2 pokoje,Kraków, Bieńczyce
+815000.0,70.64,3,Wtórny,Blok,4 i więcej,Kraków, Krowodrza
+619000.0,35.62,2,Wtórny,Blok,2 pokoje,Kraków, Dębniki
+689000.0,39.0,1,Wtórny,Blok,2 pokoje,Kraków, Łagiewniki-Borek Fałęcki
+890000.0,80.0,1,Wtórny,Kamienica,3 pokoje,Kraków, Prądnik Czerwony
+1470000.0,79.75,4,Wtórny,Blok,4 i więcej,Kraków, Podgórze
+760000.0,61.0,3,Wtórny,Blok,3 pokoje,Kraków, Bieżanów-Prokocim
+679000.0,39.0,1,Wtórny,Blok,2 pokoje,Kraków, Łagiewniki-Borek Fałęcki
+999999.0,69.0,Parter,Wtórny,Blok,3 pokoje,Kraków, Bieżanów-Prokocim
+690000.0,49.81,Parter,Wtórny,Blok,2 pokoje,Kraków, Wzgórza Krzesławickie
+1500000.0,100.0,2,Wtórny,Apartamentowiec,3 pokoje,Kraków, Dębniki
+990000.0,47.0,5,Wtórny,Blok,2 pokoje,Kraków, Czyżyny
+1080000.0,48.0,3,Wtórny,Kamienica,3 pokoje,Kraków, Grzegórzki
+635000.0,40.0,2,Pierwotny,Blok,2 pokoje,Kraków, Mistrzejowice
+100000.0,26.4,Parter,Wtórny,Kamienica,1 pokój,Kraków, Bronowice
+1341000.0,111.75,3,Wtórny,Pozostałe,3 pokoje,Kraków, Prądnik Biały
+860000.0,71.2,8,Wtórny,Blok,3 pokoje,Kraków, Bieżanów-Prokocim
+580000.0,37.0,10,Wtórny,Blok,2 pokoje,Kraków, Bieńczyce
+1290000.0,74.75,Parter,Wtórny,Blok,4 i więcej,Kraków, Dębniki
+850000.0,65.0,Parter,Wtórny,Blok,3 pokoje,Kraków, Łagiewniki-Borek Fałęcki
+560000.0,39.5,3,Wtórny,Blok,2 pokoje,Kraków, Dębniki
+1200000.0,86.8,Parter,Wtórny,Blok,4 i więcej,Kraków, Krowodrza
+680000.0,34.9,6,Wtórny,Apartamentowiec,2 pokoje,Kraków, Dębniki
+1178775.0,69.75,2,Pierwotny,Apartamentowiec,3 pokoje,Kraków, Krowodrza
+810000.0,51.0,Parter,Wtórny,Apartamentowiec,2 pokoje,Kraków, Grzegórzki
+539000.0,32.7,5,Wtórny,Blok,1 pokój,Kraków, Bieżanów-Prokocim
+670000.0,49.5,2,Wtórny,Blok,2 pokoje,Kraków, Bieżanów-Prokocim
+699000.0,51.0,3,Wtórny,Blok,2 pokoje,Kraków, Prądnik Czerwony
+499999.0,26.5,1,Wtórny,Blok,2 pokoje,Kraków, Podgórze Duchackie
+880000.0,63.3,Parter,Wtórny,Blok,3 pokoje,Kraków, Czyżyny
+699900.0,53.0,Parter,Wtórny,Blok,2 pokoje,Kraków, Wzgórza Krzesławickie
+489000.0,25.0,1,Wtórny,Blok,1 pokój,Kraków, Podgórze Duchackie
+1174999.0,66.53,4,Wtórny,Apartamentowiec,3 pokoje,Kraków, Podgórze
+650000.0,35.0,3,Wtórny,Blok,2 pokoje,Kraków, Krowodrza
+1170000.0,53.0,4,Wtórny,Apartamentowiec,2 pokoje,Kraków, Krowodrza
+637000.0,37.5,9,Wtórny,Blok,2 pokoje,Kraków, Krowodrza
+830000.0,54.0,2,Wtórny,Blok,2 pokoje,Kraków, Prądnik Biały
+599000.0,37.0,3,Wtórny,Blok,2 pokoje,Kraków, Bieńczyce
+845000.0,46.97,2,Wtórny,Kamienica,2 pokoje,Kraków, Krowodrza
+860000.0,60.66,1,Wtórny,Blok,3 pokoje,Kraków, Dębniki
+680000.0,40.0,8,Wtórny,Blok,3 pokoje,Kraków, Czyżyny
+699000.0,48.79,5,Wtórny,Blok,3 pokoje,Kraków, Nowa Huta
+529000.0,34.0,2,Wtórny,Blok,2 pokoje,Kraków, Dębniki
+560000.0,38.1,1,Wtórny,Blok,1 pokój,Kraków, Prądnik Czerwony
+950000.0,80.0,4,Wtórny,Blok,4 i więcej,Kraków, Krowodrza
+695000.0,39.0,1,Wtórny,Apartamentowiec,2 pokoje,Kraków, Dębniki
+1400000.0,73.0,5,Wtórny,Kamienica,2 pokoje,Kraków, Krowodrza
+1499000.0,66.0,Parter,Wtórny,Apartamentowiec,2 pokoje,Kraków, Zwierzyniec
+450000.0,36.0,Parter,Wtórny,Blok,2 pokoje,Kraków, Bieńczyce
+119000.0,14.5,Parter,Wtórny,Pozostałe,1 pokój,Kraków, Łagiewniki-Borek Fałęcki
+232000.0,13.0,Parter,Wtórny,Kamienica,1 pokój,Kraków, Łagiewniki-Borek Fałęcki
+225400.0,19.6,1,Wtórny,Kamienica,1 pokój,Kraków, Bieżanów-Prokocim
+242650.0,23.8,Poddasze,Wtórny,Kamienica,1 pokój,Kraków, Bieżanów-Prokocim
+297850.0,25.9,Parter,Wtórny,Kamienica,1 pokój,Kraków, Bieżanów-Prokocim
+770000.0,58.0,3,Wtórny,Blok,3 pokoje,Kraków, Krowodrza
+628000.0,39.0,Parter,Pierwotny,Kamienica,2 pokoje,Kraków, Stare Miasto
+465000.0,34.0,2,Wtórny,Blok,2 pokoje,Kraków, Wzgórza Krzesławickie
+610000.0,45.8,7,Wtórny,Blok,3 pokoje,Kraków, Prądnik Biały
+825000.0,50.0,3,Wtórny,Blok,3 pokoje,Kraków, Łagiewniki-Borek Fałęcki
+699000.0,38.5,3,Wtórny,Blok,2 pokoje,Kraków, Mistrzejowice
+1149000.0,79.61,2,Wtórny,Apartamentowiec,4 i więcej,Kraków, Podgórze
+499000.0,28.0,1,Wtórny,Blok,1 pokój,Kraków, Wzgórza Krzesławickie
+780000.0,65.7,1,Wtórny,Blok,3 pokoje,Kraków, Prądnik Biały
+1715500.0,73.0,5,Wtórny,Apartamentowiec,3 pokoje,Kraków, Grzegórzki
+690000.0,45.0,1,Wtórny,Blok,2 pokoje,Kraków, Podgórze
+610000.0,36.18,5,Wtórny,Apartamentowiec,2 pokoje,Kraków, Bieńczyce
+800000.0,42.0,2,Wtórny,Blok,2 pokoje,Kraków, Prądnik Biały
+1100000.0,45.0,1,Wtórny,Blok,2 pokoje,Kraków, Podgórze
+754000.0,42.0,1,Wtórny,Blok,2 pokoje,Kraków, Prądnik Biały
+3000000.0,120.0,1,Wtórny,Kamienica,3 pokoje,Kraków, Stare Miasto
+770000.0,52.5,3,Wtórny,Blok,2 pokoje,Kraków, Czyżyny
+699999.0,38.6,5,Wtórny,Blok,2 pokoje,Kraków, Prądnik Czerwony
+940000.0,67.0,1,Wtórny,Blok,3 pokoje,Kraków, Prądnik Czerwony
+685000.0,45.0,Parter,Wtórny,Blok,2 pokoje,Kraków, Podgórze Duchackie
+1129999.0,97.78,1,Wtórny,Pozostałe,4 i więcej,Kraków, Dębniki
+1360000.0,76.4,1,Wtórny,Blok,3 pokoje,Kraków, Zwierzyniec
+1219000.0,84.0,Parter,Wtórny,Kamienica,4 i więcej,Kraków, Podgórze
+920000.0,66.55,1,Wtórny,Blok,3 pokoje,Kraków, Mistrzejowice
+520000.0,27.0,2,Wtórny,Apartamentowiec,2 pokoje,Kraków, Grzegórzki
+259900.0,45.5,1,Wtórny,Blok,2 pokoje,Kraków, Podgórze
+666400.0,49.0,1,Wtórny,Blok,2 pokoje,Kraków, Nowa Huta
+647500.0,34.82,1,Wtórny,Kamienica,2 pokoje,Kraków, Stare Miasto
+630000.0,53.0,Powyżej 10,Wtórny,Blok,3 pokoje,Kraków, Podgórze Duchackie
+690000.0,47.09,Parter,Wtórny,Blok,3 pokoje,Kraków, Bieńczyce
+950000.0,67.0,3,Wtórny,Blok,3 pokoje,Kraków, Prądnik Czerwony
+621296.0,30.16,3,Wtórny,Blok,1 pokój,Kraków, Bronowice
+380000.0,20.0,4,Wtórny,Blok,1 pokój,Kraków, Nowa Huta
+950000.0,61.0,2,Wtórny,Blok,3 pokoje,Kraków, Bieżanów-Prokocim
+980000.0,97.4,3,Wtórny,Kamienica,3 pokoje,Kraków, Podgórze
+590000.0,44.2,Parter,Wtórny,Kamienica,2 pokoje,Kraków, Czyżyny
+1190000.0,47.0,7,Wtórny,Blok,2 pokoje,Kraków, Krowodrza
+699000.0,55.5,2,Wtórny,Blok,3 pokoje,Kraków, Nowa Huta
+750500.0,79.0,Parter,Wtórny,Pozostałe,3 pokoje,Kraków, Krowodrza
+600000.0,30.0,2,Pierwotny,Apartamentowiec,2 pokoje,Kraków, Krowodrza
+539000.0,36.4,2,Wtórny,Blok,2 pokoje,Kraków, Grzegórzki
+1292625.0,57.45,1,Wtórny,Blok,3 pokoje,Kraków, Krowodrza
+485000.0,28.3,Parter,Wtórny,Blok,1 pokój,Kraków, Czyżyny
+455000.0,32.3,10,Wtórny,Blok,1 pokój,Kraków, Bieżanów-Prokocim
+802800.0,35.68,1,Wtórny,Blok,2 pokoje,Kraków, Krowodrza
+699000.0,55.0,2,Wtórny,Blok,3 pokoje,Kraków, Łagiewniki-Borek Fałęcki
+660000.0,44.6,6,Wtórny,Blok,3 pokoje,Kraków, Prądnik Czerwony
+760000.0,36.0,2,Wtórny,Apartamentowiec,2 pokoje,Kraków, Krowodrza
+889000.0,57.0,3,Wtórny,Blok,3 pokoje,Kraków, Nowa Huta
+749000.0,54.3,1,Wtórny,Blok,2 pokoje,Kraków, Bieńczyce
+847900.0,38.18,2,Wtórny,Blok,2 pokoje,Kraków, Stare Miasto
+499000.0,31.0,3,Wtórny,Apartamentowiec,1 pokój,Kraków, Mistrzejowice
+1156450.0,50.5,2,Wtórny,Blok,2 pokoje,Kraków, Podgórze
+1290000.0,43.99,Parter,Wtórny,Apartamentowiec,3 pokoje,Kraków, Stare Miasto
+900000.0,43.0,3,Wtórny,Blok,2 pokoje,Kraków, Podgórze Duchackie
+430000.0,18.3,4,Wtórny,Blok,1 pokój,Kraków, Krowodrza
+879000.0,49.0,2,Wtórny,Blok,2 pokoje,Kraków, Bronowice
+1589000.0,74.92,1,Wtórny,Blok,3 pokoje,Kraków, Podgórze
+960000.0,65.0,7,Wtórny,Blok,4 i więcej,Kraków, Prądnik Czerwony
+650000.0,34.5,3,Wtórny,Apartamentowiec,2 pokoje,Kraków, Czyżyny
+629000.0,44.0,4,Wtórny,Blok,2 pokoje,Kraków, Podgórze Duchackie
+930000.0,80.8,3,Wtórny,Blok,3 pokoje,Kraków, Podgórze Duchackie
+954800.0,44.41,2,Wtórny,Blok,2 pokoje,Kraków, Stare Miasto
+879000.0,61.0,3,Wtórny,Blok,2 pokoje,Kraków, Mistrzejowice
+560000.0,48.3,1,Wtórny,Blok,2 pokoje,Kraków, Nowa Huta
+650000.0,59.39,4,Wtórny,Blok,3 pokoje,Kraków, Bieńczyce
+760000.0,47.0,Parter,Wtórny,Blok,2 pokoje,Kraków, Dębniki
+1096000.0,75.62,8,Wtórny,Blok,3 pokoje,Kraków, Bronowice
+802800.0,36.0,1,Wtórny,Blok,2 pokoje,Kraków, Krowodrza
+589000.0,26.0,Parter,Wtórny,Blok,1 pokój,Kraków, Krowodrza
+1400000.0,81.22,1,Wtórny,Blok,4 i więcej,Kraków, Czyżyny
+749000.0,48.15,4,Wtórny,Blok,2 pokoje,Kraków, Grzegórzki
+620000.0,45.0,3,Wtórny,Blok,2 pokoje,Kraków, Krowodrza
+875600.0,44.0,Parter,Wtórny,Blok,2 pokoje,Kraków, Czyżyny
+999999.0,48.39,1,Wtórny,Blok,3 pokoje,Kraków, Grzegórzki
+720000.0,50.0,1,Wtórny,Blok,2 pokoje,Kraków, Łagiewniki-Borek Fałęcki
+1100000.0,67.0,2,Wtórny,Blok,3 pokoje,Kraków, Nowa Huta
+553000.0,36.92,1,Pierwotny,Apartamentowiec,2 pokoje,Kraków, Bieżanów-Prokocim
+1510000.0,97.0,1,Wtórny,Pozostałe,4 i więcej,Kraków, Dębniki
+1280000.0,127.0,1,Pierwotny,Apartamentowiec,4 i więcej,Kraków, Prądnik Biały
+748000.0,49.0,2,Wtórny,Apartamentowiec,2 pokoje,Kraków, Mistrzejowice
+2650000.0,106.59,1,Wtórny,Apartamentowiec,4 i więcej,Kraków, Stare Miasto
+750000.0,33.58,4,Wtórny,Blok,2 pokoje,Kraków, Podgórze
+705000.0,43.0,1,Wtórny,Blok,3 pokoje,Kraków, Krowodrza
+1770000.0,96.0,2,Wtórny,Kamienica,3 pokoje,Kraków, Stare Miasto
+550000.0,38.0,8,Wtórny,Blok,2 pokoje,Kraków, Nowa Huta
+845000.0,46.0,1,Wtórny,Apartamentowiec,2 pokoje,Kraków, Grzegórzki
+780000.0,42.0,1,Wtórny,Blok,2 pokoje,Kraków, Prądnik Czerwony
+664000.0,49.5,9,Wtórny,Blok,3 pokoje,Kraków, Bieżanów-Prokocim
+1649000.0,102.0,1,Wtórny,Kamienica,3 pokoje,Kraków, Stare Miasto
+649000.0,50.0,7,Wtórny,Blok,2 pokoje,Kraków, Czyżyny
+1199000.0,76.0,Parter,Wtórny,Blok,3 pokoje,Kraków, Dębniki
+600000.0,42.0,10,Wtórny,Blok,2 pokoje,Kraków, Prądnik Czerwony
+680000.0,47.45,Parter,Wtórny,Blok,3 pokoje,Kraków, Łagiewniki-Borek Fałęcki
+1700000.0,94.0,Parter,Wtórny,Apartamentowiec,3 pokoje,Kraków, Zwierzyniec
+579000.0,36.0,2,Wtórny,Blok,2 pokoje,Kraków, Bronowice
+549000.0,40.0,Parter,Wtórny,Apartamentowiec,2 pokoje,Kraków, Bronowice
+890000.0,68.0,4,Wtórny,Blok,2 pokoje,Kraków, Podgórze
+565000.0,30.0,2,Wtórny,Blok,1 pokój,Kraków, Czyżyny
+840000.0,38.0,2,Wtórny,Apartamentowiec,2 pokoje,Kraków, Grzegórzki
+495000.0,27.5,2,Wtórny,Blok,1 pokój,Kraków, Dębniki
+1250000.0,56.38,1,Wtórny,Apartamentowiec,3 pokoje,Kraków, Podgórze
+750000.0,43.0,1,Wtórny,Blok,2 pokoje,Kraków, Podgórze
+1096000.0,75.62,8,Wtórny,Blok,3 pokoje,Kraków, Bronowice
+1170000.0,64.0,4,Wtórny,Kamienica,2 pokoje,Kraków, Stare Miasto
+505000.0,28.0,2,Wtórny,Blok,1 pokój,Kraków, Prądnik Czerwony
+449000.0,71.96,1,Wtórny,Pozostałe,1 pokój,Kraków, Dębniki
+850000.0,52.5,2,Wtórny,Kamienica,2 pokoje,Kraków, Stare Miasto
+749900.0,49.47,8,Pierwotny,Blok,3 pokoje,Kraków, Prądnik Biały
+770000.0,53.0,Parter,Wtórny,Blok,2 pokoje,Kraków, Bieńczyce
+620000.0,53.0,2,Wtórny,Blok,2 pokoje,Kraków, Bieńczyce
+820000.0,52.0,1,Wtórny,Blok,3 pokoje,Kraków, Dębniki
+828000.0,50.72,4,Wtórny,Blok,3 pokoje,Kraków, Prądnik Biały
+570000.0,40.9,4,Wtórny,Blok,2 pokoje,Kraków, Bronowice
+495000.0,24.4,1,Wtórny,Kamienica,1 pokój,Kraków, Grzegórzki
+695000.0,45.32,Parter,Wtórny,Kamienica,1 pokój,Kraków, Grzegórzki
+479000.0,26.7,3,Wtórny,Blok,2 pokoje,Kraków, Bieżanów-Prokocim
+519000.0,37.4,3,Wtórny,Blok,2 pokoje,Kraków, Prądnik Biały
+1299000.0,74.05,2,Wtórny,Blok,4 i więcej,Kraków, Czyżyny
+959000.0,60.06,Parter,Wtórny,Apartamentowiec,3 pokoje,Kraków, Mistrzejowice
+885000.0,52.3,2,Wtórny,Blok,3 pokoje,Kraków, Prądnik Czerwony
+560000.0,29.06,Parter,Wtórny,Blok,1 pokój,Kraków, Prądnik Biały
+830000.0,50.0,1,Wtórny,Blok,2 pokoje,Kraków, Dębniki
+820000.0,49.66,1,Wtórny,Blok,2 pokoje,Kraków, Stare Miasto
+690000.0,46.18,2,Wtórny,Blok,3 pokoje,Kraków, Dębniki
+389000.0,21.0,1,Wtórny,Blok,1 pokój,Kraków, Nowa Huta
+782000.0,59.0,2,Pierwotny,Apartamentowiec,3 pokoje,Kraków, Bieżanów-Prokocim
+926000.0,71.3,2,Pierwotny,Apartamentowiec,4 i więcej,Kraków, Bieżanów-Prokocim
+629000.0,42.0,4,Wtórny,Blok,2 pokoje,Kraków, Bronowice
+800000.0,52.0,4,Wtórny,Blok,2 pokoje,Kraków, Prądnik Czerwony
+670000.0,31.0,4,Wtórny,Kamienica,2 pokoje,Kraków, Zwierzyniec
+867000.0,51.0,3,Wtórny,Apartamentowiec,2 pokoje,Kraków, Zwierzyniec
+1489950.0,54.17,1,Wtórny,Apartamentowiec,2 pokoje,Kraków, Grzegórzki
+680000.0,58.0,2,Wtórny,Blok,4 i więcej,Kraków, Krowodrza
+930400.0,57.0,8,Wtórny,Blok,3 pokoje,Kraków, Dębniki
+498000.0,29.7,4,Wtórny,Blok,1 pokój,Kraków, Krowodrza
+229000.0,36.0,1,Wtórny,Blok,1 pokój,Kraków, Podgórze Duchackie
+580000.0,38.2,Parter,Wtórny,Blok,2 pokoje,Kraków, Mistrzejowice
+1225000.0,45.41,2,Wtórny,Apartamentowiec,2 pokoje,Kraków, Stare Miasto
+836000.0,33.29,1,Wtórny,Apartamentowiec,2 pokoje,Kraków, Stare Miasto
+1095000.0,50.5,1,Wtórny,Kamienica,2 pokoje,Kraków, Stare Miasto
+915000.0,78.89,1,Wtórny,Blok,3 pokoje,Kraków, Mistrzejowice
+1650000.0,99.0,5,Wtórny,Kamienica,3 pokoje,Kraków, Krowodrza
+690000.0,46.36,2,Wtórny,Loft,1 pokój,Kraków, Krowodrza
+1019000.0,60.0,Parter,Wtórny,Blok,3 pokoje,Kraków, Prądnik Czerwony
+940000.0,57.0,1,Wtórny,Kamienica,3 pokoje,Kraków, Stare Miasto
+2100000.0,110.0,1,Wtórny,Blok,4 i więcej,Kraków, Bronowice
+610000.0,36.18,5,Wtórny,Blok,2 pokoje,Kraków, Bieńczyce
+830000.0,53.9,2,Wtórny,Blok,3 pokoje,Kraków, Bronowice
+790000.0,63.0,9,Wtórny,Blok,3 pokoje,Kraków, Bieżanów-Prokocim
+615000.0,52.0,Parter,Wtórny,Blok,2 pokoje,Kraków, Nowa Huta
+249000.0,21.0,Parter,Wtórny,Pozostałe,1 pokój,Kraków, Swoszowice
+760000.0,49.91,1,Wtórny,Blok,3 pokoje,Kraków, Swoszowice
+770000.0,34.5,Parter,Wtórny,Kamienica,2 pokoje,Kraków, Stare Miasto
+721860.0,45.4,4,Wtórny,Blok,3 pokoje,Kraków, Krowodrza
+419000.0,30.8,Parter,Wtórny,Blok,1 pokój,Kraków, Bieńczyce
+620000.0,52.0,Powyżej 10,Wtórny,Blok,3 pokoje,Kraków, Podgórze Duchackie
+689000.0,43.62,4,Wtórny,Apartamentowiec,1 pokój,Kraków, Dębniki
+420000.0,29.5,1,Pierwotny,Blok,2 pokoje,Kraków, Bieżanów-Prokocim
+640000.0,35.0,Parter,Wtórny,Blok,2 pokoje,Wrocław, Fabryczna
+1560000.0,162.0,1,Wtórny,Apartamentowiec,4 i więcej,Wrocław, Krzyki
+539000.0,42.0,Parter,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+599999.0,30.14,2,Wtórny,Apartamentowiec,1 pokój,Wrocław, Stare Miasto
+539000.0,54.0,4,Wtórny,Kamienica,2 pokoje,Wrocław, Śródmieście
+389000.0,19.0,4,Wtórny,Blok,1 pokój,Wrocław, Krzyki
+779000.0,50.0,1,Wtórny,Kamienica,2 pokoje,Wrocław, Stare Miasto
+835000.0,49.46,Parter,Pierwotny,Apartamentowiec,3 pokoje,Wrocław, Stare Miasto
+590000.0,56.48,4,Wtórny,Blok,3 pokoje,Wrocław, Krzyki
+630000.0,43.75,2,Wtórny,Blok,2 pokoje,Wrocław, Fabryczna
+875000.0,50.36,4,Pierwotny,Apartamentowiec,3 pokoje,Wrocław, Stare Miasto
+549000.0,30.0,4,Wtórny,Apartamentowiec,1 pokój,Wrocław, Stare Miasto
+2880000.0,131.0,4,Wtórny,Loft,4 i więcej,Wrocław, Stare Miasto
+1690000.0,70.0,Parter,Wtórny,Apartamentowiec,3 pokoje,Wrocław, Fabryczna
+349900.0,68.0,3,Wtórny,Kamienica,4 i więcej,Wrocław, Fabryczna
+800000.0,69.0,1,Wtórny,Blok,2 pokoje,Wrocław, Fabryczna
+659999.0,63.0,4,Wtórny,Blok,4 i więcej,Wrocław, Fabryczna
+750000.0,34.02,4,Wtórny,Apartamentowiec,2 pokoje,Wrocław, Stare Miasto
+1199000.0,71.0,1,Wtórny,Apartamentowiec,3 pokoje,Wrocław, Stare Miasto
+675000.0,52.0,1,Pierwotny,Blok,2 pokoje,Wrocław, Stare Miasto
+479000.0,38.9,3,Wtórny,Blok,2 pokoje,Wrocław, Psie Pole
+838000.0,42.0,1,Wtórny,Apartamentowiec,2 pokoje,Wrocław, Stare Miasto
+729500.0,63.0,2,Wtórny,Blok,3 pokoje,Wrocław, Krzyki
+888000.0,43.57,2,Wtórny,Apartamentowiec,2 pokoje,Wrocław, Stare Miasto
+408900.0,35.0,Parter,Wtórny,Kamienica,2 pokoje,Wrocław, Psie Pole
+599000.0,57.8,7,Wtórny,Blok,3 pokoje,Wrocław, Fabryczna
+550000.0,46.0,5,Wtórny,Kamienica,2 pokoje,Wrocław, Śródmieście
+1550000.0,114.0,4,Wtórny,Kamienica,3 pokoje,Wrocław, Stare Miasto
+735000.0,46.85,3,Wtórny,Apartamentowiec,3 pokoje,Wrocław, Fabryczna
+689000.0,46.1,Parter,Wtórny,Blok,2 pokoje,Wrocław, Fabryczna
+769000.0,61.0,4,Wtórny,Kamienica,2 pokoje,Wrocław, Stare Miasto
+869000.0,68.9,1,Wtórny,Kamienica,3 pokoje,Wrocław, Krzyki
+574944.0,36.16,6,Wtórny,Blok,2 pokoje,Wrocław, Fabryczna
+690000.0,28.77,4,Wtórny,Apartamentowiec,1 pokój,Wrocław, Śródmieście
+623700.0,37.8,3,Wtórny,Blok,2 pokoje,Wrocław, Śródmieście
+669000.0,58.42,1,Wtórny,Blok,2 pokoje,Wrocław, Śródmieście
+519000.0,48.0,3,Wtórny,Blok,2 pokoje,Wrocław, Fabryczna
+285000.0,22.6,4,Wtórny,Blok,1 pokój,Wrocław, Psie Pole
+469000.0,30.0,3,Wtórny,Kamienica,1 pokój,Wrocław, Stare Miasto
+985000.0,107.0,2,Wtórny,Kamienica,3 pokoje,Wrocław, Śródmieście
+880000.0,65.0,Parter,Wtórny,Blok,3 pokoje,Wrocław, Fabryczna
+529000.0,36.0,3,Wtórny,Blok,2 pokoje,Wrocław, Śródmieście
+849000.0,72.21,1,Wtórny,Kamienica,3 pokoje,Wrocław, Stare Miasto
+619000.0,52.0,7,Wtórny,Blok,3 pokoje,Wrocław, Stare Miasto
+450000.0,31.09,2,Wtórny,Pozostałe,1 pokój,Wrocław, Stare Miasto
+799000.0,54.0,Parter,Wtórny,Pozostałe,2 pokoje,Wrocław, Krzyki
+599250.0,47.0,Parter,Wtórny,Blok,2 pokoje,Wrocław, Fabryczna
+333000.0,20.0,4,Wtórny,Blok,1 pokój,Wrocław, Fabryczna
+680000.0,47.6,1,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+535000.0,37.0,1,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+399900.0,40.0,4,Wtórny,Kamienica,2 pokoje,Wrocław, Śródmieście
+1075750.0,86.06,2,Wtórny,Kamienica,3 pokoje,Wrocław, Stare Miasto
+545000.0,49.23,4,Wtórny,Kamienica,2 pokoje,Wrocław, Stare Miasto
+728000.0,54.1,3,Wtórny,Blok,3 pokoje,Wrocław, Stare Miasto
+660000.0,41.0,2,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+540000.0,46.0,1,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+629000.0,42.0,6,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+785000.0,67.2,10,Wtórny,Blok,3 pokoje,Wrocław, Fabryczna
+790000.0,53.0,2,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+875000.0,50.36,4,Wtórny,Apartamentowiec,3 pokoje,Wrocław, Stare Miasto
+569000.0,45.0,1,Wtórny,Blok,3 pokoje,Wrocław, Krzyki
+839000.0,90.0,3,Wtórny,Kamienica,4 i więcej,Wrocław, Krzyki
+599000.0,38.31,1,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+419000.0,28.9,2,Wtórny,Kamienica,2 pokoje,Wrocław, Śródmieście
+780000.0,103.0,3,Wtórny,Kamienica,3 pokoje,Wrocław, Stare Miasto
+699000.0,32.0,7,Wtórny,Apartamentowiec,2 pokoje,Wrocław, Stare Miasto
+869000.0,48.5,3,Wtórny,Apartamentowiec,2 pokoje,Wrocław, Stare Miasto
+1050000.0,97.21,3,Wtórny,Kamienica,4 i więcej,Wrocław, Stare Miasto
+885000.0,68.52,4,Wtórny,Blok,3 pokoje,Wrocław, Śródmieście
+675000.0,36.0,3,Wtórny,Apartamentowiec,1 pokój,Wrocław, Stare Miasto
+690000.0,40.88,3,Pierwotny,Blok,2 pokoje,Wrocław, Krzyki
+606000.0,44.0,4,Wtórny,Blok,2 pokoje,Wrocław, Śródmieście
+630000.0,57.0,1,Wtórny,Blok,2 pokoje,Wrocław, Psie Pole
+339000.0,26.0,5,Wtórny,Blok,2 pokoje,Wrocław, Stare Miasto
+770000.0,66.1,2,Wtórny,Kamienica,2 pokoje,Wrocław, Śródmieście
+629000.0,45.0,2,Wtórny,Blok,3 pokoje,Wrocław, Stare Miasto
+530000.0,45.0,2,Wtórny,Blok,2 pokoje,Wrocław, Stare Miasto
+970000.0,59.0,3,Wtórny,Apartamentowiec,3 pokoje,Wrocław, Fabryczna
+850000.0,65.03,2,Wtórny,Blok,3 pokoje,Wrocław, Śródmieście
+550000.0,34.44,2,Wtórny,Kamienica,2 pokoje,Wrocław, Krzyki
+550000.0,40.0,5,Wtórny,Blok,2 pokoje,Wrocław, Fabryczna
+687500.0,55.0,2,Wtórny,Blok,3 pokoje,Wrocław, Fabryczna
+699000.0,58.1,1,Wtórny,Blok,3 pokoje,Wrocław, Śródmieście
+848852.0,61.96,2,Wtórny,Blok,3 pokoje,Wrocław, Fabryczna
+499000.0,33.0,Parter,Wtórny,Kamienica,2 pokoje,Wrocław, Śródmieście
+529000.0,49.0,Parter,Wtórny,Blok,3 pokoje,Wrocław, Krzyki
+580000.0,39.0,1,Pierwotny,Apartamentowiec,2 pokoje,Wrocław, Psie Pole
+969000.0,68.39,Parter,Wtórny,Blok,3 pokoje,Wrocław, Krzyki
+913500.0,43.5,2,Wtórny,Apartamentowiec,2 pokoje,Wrocław, Stare Miasto
+689000.0,46.0,6,Wtórny,Apartamentowiec,2 pokoje,Wrocław, Krzyki
+845000.0,65.0,3,Wtórny,Blok,3 pokoje,Wrocław, Krzyki
+525000.0,34.0,3,Wtórny,Kamienica,2 pokoje,Wrocław, Stare Miasto
+730000.0,52.0,1,Wtórny,Apartamentowiec,2 pokoje,Wrocław, Krzyki
+355000.0,26.0,Parter,Wtórny,Blok,2 pokoje,Wrocław, Psie Pole
+570000.0,56.4,4,Wtórny,Blok,3 pokoje,Wrocław, Fabryczna
+1020000.0,64.18,2,Wtórny,Blok,3 pokoje,Wrocław, Stare Miasto
+880000.0,93.0,3,Wtórny,Kamienica,4 i więcej,Wrocław, Śródmieście
+555000.0,38.06,1,Wtórny,Kamienica,1 pokój,Wrocław, Stare Miasto
+595000.0,54.0,4,Wtórny,Blok,3 pokoje,Wrocław, Stare Miasto
+599000.0,70.0,3,Wtórny,Blok,4 i więcej,Wrocław, Fabryczna
+450000.0,55.0,Parter,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+1160000.0,93.0,3,Wtórny,Kamienica,4 i więcej,Wrocław, Śródmieście
+660000.0,50.0,Parter,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+970000.0,81.1,2,Wtórny,Blok,3 pokoje,Wrocław, Fabryczna
+690000.0,52.66,2,Wtórny,Blok,3 pokoje,Wrocław, Stare Miasto
+690000.0,30.0,2,Wtórny,Apartamentowiec,2 pokoje,Wrocław, Krzyki
+753000.0,52.0,Parter,Wtórny,Apartamentowiec,3 pokoje,Wrocław, Krzyki
+489000.0,31.0,1,Wtórny,Loft,1 pokój,Wrocław, Psie Pole
+795000.0,48.0,5,Wtórny,Apartamentowiec,2 pokoje,Wrocław, Stare Miasto
+570000.0,44.8,1,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+548150.0,29.0,4,Wtórny,Apartamentowiec,1 pokój,Wrocław, Stare Miasto
+750000.0,43.0,1,Wtórny,Pozostałe,2 pokoje,Wrocław, Stare Miasto
+420000.0,26.0,2,Wtórny,Blok,1 pokój,Wrocław, Śródmieście
+690000.0,38.0,Parter,Pierwotny,Pozostałe,2 pokoje,Wrocław, Fabryczna
+715000.0,65.0,2,Wtórny,Blok,3 pokoje,Wrocław, Fabryczna
+600000.0,55.0,4,Wtórny,Blok,3 pokoje,Wrocław, Krzyki
+595000.0,36.0,Parter,Wtórny,Blok,2 pokoje,Wrocław, Stare Miasto
+499000.0,33.0,9,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+599900.0,51.44,2,Wtórny,Blok,2 pokoje,Wrocław, Fabryczna
+89000.0,36.0,1,Wtórny,Blok,2 pokoje,Wrocław, Fabryczna
+495000.0,36.0,5,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+1025000.0,63.53,4,Wtórny,Blok,4 i więcej,Wrocław, Fabryczna
+1000049.0,62.0,2,Wtórny,Blok,3 pokoje,Wrocław, Śródmieście
+539900.0,43.0,Parter,Wtórny,Blok,2 pokoje,Wrocław, Krzyki
+1100000.0,58.19,2,Wtórny,Kamienica,3 pokoje,Wrocław, Fabryczna
+560000.0,49.0,10,Wtórny,Blok,2 pokoje,Wrocław, Fabryczna
+685000.0,49.86,Parter,Wtórny,Blok,2 pokoje,Wrocław, Psie Pole
+440000.0,50.0,3,Wtórny,Kamienica,2 pokoje,Wrocław, Stare Miasto
+1250000.0,89.0,1,Wtórny,Pozostałe,4 i więcej,Wrocław, Krzyki
+890000.0,68.5,2,Wtórny,Blok,3 pokoje,Wrocław, Fabryczna
+569000.0,45.39,4,Wtórny,Blok,3 pokoje,Wrocław, Stare Miasto
+659000.0,49.6,6,Wtórny,Blok,2 pokoje,Wrocław, Fabryczna
+258000.0,16.0,4,Wtórny,Blok,1 pokój,Wrocław, Fabryczna
+758930.0,79.0,1,Wtórny,Blok,3 pokoje,Wrocław, Fabryczna
+949000.0,82.4,2,Wtórny,Kamienica,3 pokoje,Wrocław, Stare Miasto
+749000.0,63.55,4,Wtórny,Blok,3 pokoje,Wrocław, Stare Miasto
+650000.0,71.0,4,Wtórny,Kamienica,3 pokoje,Wrocław, Fabryczna
+522000.0,36.0,4,Wtórny,Blok,2 pokoje,Wrocław, Stare Miasto
+915000.0,100.0,2,Wtórny,Blok,4 i więcej,Wrocław, Fabryczna
+840000.0,62.04,2,Wtórny,Blok,3 pokoje,Poznań, Naramowice
+470000.0,39.2,1,Wtórny,Blok,2 pokoje,Poznań, Naramowice
+595000.0,54.0,3,Wtórny,Blok,2 pokoje,Poznań, Ogrody
+259000.0,20.0,5,Wtórny,Kamienica,1 pokój,Poznań, Stare Miasto
+455000.0,46.8,10,Wtórny,Blok,2 pokoje,Poznań, Grunwald
+219000.0,19.1,Parter,Wtórny,Pozostałe,1 pokój,Poznań, Dębiec
+599000.0,34.56,1,Wtórny,Apartamentowiec,2 pokoje,Poznań, Grunwald
+370000.0,38.0,Parter,Wtórny,Blok,2 pokoje,Poznań, Sołacz
+795000.0,62.5,1,Wtórny,Blok,3 pokoje,Poznań, Wilda
+890000.0,100.0,Parter,Wtórny,Pozostałe,3 pokoje,Poznań, Wilda
+890000.0,100.0,1,Wtórny,Pozostałe,3 pokoje,Poznań, Wilda
+620000.0,62.0,5,Wtórny,Kamienica,3 pokoje,Poznań, Łazarz
+650000.0,49.3,1,Wtórny,Blok,2 pokoje,Poznań, Łazarz
+419000.0,38.0,1,Wtórny,Blok,2 pokoje,Poznań, Grunwald
+799000.0,48.58,2,Wtórny,Blok,2 pokoje,Poznań, Jeżyce
+330000.0,31.0,8,Wtórny,Blok,1 pokój,Poznań, Rataje
+330000.0,42.2,1,Pierwotny,Blok,2 pokoje,Poznań, Szczepankowo
+695000.0,51.0,4,Wtórny,Apartamentowiec,2 pokoje,Poznań, Naramowice
+489000.0,26.45,3,Pierwotny,Blok,1 pokój,Poznań, Grunwald
+1100000.0,93.0,3,Wtórny,Kamienica,3 pokoje,Poznań, Wilda
+649000.0,47.96,Parter,Wtórny,Blok,2 pokoje,Poznań, Strzeszyn
+550000.0,44.6,Parter,Wtórny,Blok,2 pokoje,Poznań, Grunwald
+305000.0,21.0,4,Wtórny,Apartamentowiec,1 pokój,Poznań, Chartowo
+560000.0,44.0,1,Wtórny,Apartamentowiec,3 pokoje,Poznań, Dębiec
+589000.0,38.0,2,Wtórny,Blok,1 pokój,Poznań, Strzeszyn
+426500.0,34.12,2,Wtórny,Blok,1 pokój,Poznań, Strzeszyn
+330000.0,27.0,4,Wtórny,Blok,1 pokój,Poznań, Winogrady
+353000.0,21.7,2,Wtórny,Apartamentowiec,1 pokój,Poznań, Stare Miasto
+530000.0,47.2,2,Wtórny,Blok,2 pokoje,Poznań, Rataje
+320000.0,56.8,1,Wtórny,Blok,2 pokoje,Poznań, Wilda
+395000.0,38.1,4,Wtórny,Blok,2 pokoje,Poznań, Winogrady
+550000.0,48.6,8,Wtórny,Blok,2 pokoje,Poznań, Wilda
+420000.0,49.0,3,Wtórny,Blok,2 pokoje,Poznań, Łacina
+790000.0,45.25,3,Wtórny,Apartamentowiec,2 pokoje,Poznań, Winogrady
+994400.0,68.8,2,Wtórny,Apartamentowiec,3 pokoje,Poznań, Ogrody
+410000.0,32.3,2,Wtórny,Blok,1 pokój,Poznań, Warszawskie
+599000.0,56.0,10,Wtórny,Blok,3 pokoje,Poznań, Grunwald
+387000.0,29.0,3,Wtórny,Blok,1 pokój,Poznań, Sołacz
+557000.0,46.5,2,Wtórny,Blok,2 pokoje,Poznań, Grunwald
+339000.0,31.0,3,Wtórny,Blok,1 pokój,Poznań, Grunwald
+715000.0,50.0,1,Pierwotny,Blok,2 pokoje,Poznań, Grunwald
+373240.0,26.66,3,Wtórny,Blok,1 pokój,Poznań, Grunwald
+570000.0,47.6,Parter,Wtórny,Blok,3 pokoje,Poznań, Winogrady
+565000.0,48.9,5,Wtórny,Blok,3 pokoje,Poznań, Jeżyce
+640000.0,53.2,4,Wtórny,Blok,2 pokoje,Poznań, Piątkowo
+450000.0,37.0,Parter,Wtórny,Blok,2 pokoje,Poznań, Stare Miasto
+552500.0,42.5,Parter,Wtórny,Blok,2 pokoje,Poznań, Rataje
+420000.0,44.1,Parter,Wtórny,Blok,2 pokoje,Poznań, Jeżyce
+515000.0,50.61,2,Wtórny,Blok,2 pokoje,Poznań, Naramowice
+979000.0,109.0,1,Wtórny,Kamienica,3 pokoje,Poznań, Stare Miasto
+530000.0,52.8,3,Wtórny,Blok,3 pokoje,Poznań, Winogrady
+637000.0,60.0,2,Wtórny,Kamienica,3 pokoje,Poznań, Łazarz
+570000.0,46.37,2,Wtórny,Blok,2 pokoje,Poznań, Wilda
+421000.0,35.4,Parter,Wtórny,Apartamentowiec,1 pokój,Poznań, Grunwald
+1260000.0,82.0,5,Wtórny,Blok,3 pokoje,Poznań, Grunwald
+512985.0,31.09,2,Wtórny,Blok,1 pokój,Poznań, Jeżyce
+850000.0,59.46,3,Wtórny,Blok,3 pokoje,Poznań, Starołęka
+535000.0,49.0,Powyżej 10,Wtórny,Blok,2 pokoje,Poznań, Chartowo
+309000.0,35.66,3,Wtórny,Kamienica,1 pokój,Poznań, Jeżyce
+459000.0,41.3,2,Wtórny,Blok,2 pokoje,Poznań, Chartowo
+398000.0,38.0,7,Wtórny,Blok,2 pokoje,Poznań, Winogrady
+362000.0,26.3,3,Wtórny,Blok,1 pokój,Poznań, Grunwald
+629000.0,56.85,2,Wtórny,Blok,3 pokoje,Poznań, Naramowice
+490000.0,45.0,3,Wtórny,Kamienica,2 pokoje,Poznań, Wilda
+730000.0,53.0,9,Wtórny,Blok,3 pokoje,Poznań, Grunwald
+594000.0,46.17,4,Wtórny,Kamienica,2 pokoje,Poznań, Stare Miasto
+730000.0,49.0,Powyżej 10,Pierwotny,Blok,2 pokoje,Poznań, Dębiec
+615000.0,46.0,4,Wtórny,Blok,2 pokoje,Poznań, Jeżyce
+550000.0,48.6,8,Wtórny,Blok,2 pokoje,Poznań, Dębiec
+779000.0,60.0,2,Wtórny,Blok,3 pokoje,Poznań, Rataje
+1350000.0,75.44,4,Wtórny,Apartamentowiec,3 pokoje,Poznań, Grunwald
+462500.0,43.8,3,Wtórny,Blok,2 pokoje,Poznań, Dębiec
+443000.0,30.0,4,Wtórny,Blok,1 pokój,Poznań, Łazarz
+395000.0,37.0,1,Wtórny,Blok,2 pokoje,Poznań, Jeżyce
+619000.0,62.9,3,Wtórny,Blok,3 pokoje,Poznań, Warszawskie
+719000.0,62.9,5,Wtórny,Blok,3 pokoje,Poznań, Piątkowo
+560000.0,87.0,1,Wtórny,Kamienica,3 pokoje,Poznań, Stare Miasto
+519000.0,38.8,Parter,Wtórny,Apartamentowiec,2 pokoje,Poznań, Jeżyce
+450000.0,33.2,2,Wtórny,Blok,2 pokoje,Poznań, Strzeszyn
+580000.0,53.5,3,Wtórny,Blok,4 i więcej,Poznań, Winogrady
+949000.0,140.88,Parter,Pierwotny,Pozostałe,4 i więcej,Poznań, Ogrody
+449900.0,45.5,Parter,Wtórny,Blok,2 pokoje,Poznań, Rataje
+375000.0,31.0,10,Wtórny,Blok,1 pokój,Poznań, Piątkowo
+619000.0,59.0,3,Wtórny,Blok,3 pokoje,Poznań, Piątkowo
+698031.0,67.77,3,Pierwotny,Blok,3 pokoje,Poznań, Ogrody
+691730.0,53.21,2,Wtórny,Blok,3 pokoje,Poznań, Górczyn
+380000.0,42.0,Suterena,Pierwotny,Kamienica,1 pokój,Poznań, Wilda
+750000.0,80.0,3,Wtórny,Blok,3 pokoje,Poznań, Chartowo
+495000.0,49.0,1,Wtórny,Blok,2 pokoje,Poznań, Rataje
+711850.0,61.9,Parter,Wtórny,Blok,3 pokoje,Poznań, Piątkowo
+480000.0,57.0,4,Wtórny,Blok,3 pokoje,Poznań, Naramowice
+498000.0,43.3,6,Wtórny,Blok,2 pokoje,Poznań, Rataje
+610000.0,67.0,4,Wtórny,Blok,3 pokoje,Poznań, Rataje
+615000.0,44.0,Parter,Wtórny,Blok,2 pokoje,Poznań, Grunwald
+599000.0,64.9,2,Wtórny,Blok,4 i więcej,Poznań, Jeżyce
+500000.0,43.7,2,Wtórny,Blok,2 pokoje,Poznań, Rataje
+708000.0,47.25,Parter,Wtórny,Apartamentowiec,2 pokoje,Poznań, Grunwald
+455000.0,43.34,6,Wtórny,Blok,2 pokoje,Poznań, Rataje
+979000.0,140.31,Parter,Pierwotny,Pozostałe,4 i więcej,Poznań, Jeżyce
+580000.0,63.0,Parter,Wtórny,Blok,3 pokoje,Poznań, Piątkowo
+463350.0,33.1,9,Wtórny,Apartamentowiec,1 pokój,Poznań, Rataje
+649000.0,62.0,Parter,Wtórny,Blok,3 pokoje,Poznań, Piątkowo
+417700.0,33.49,1,Pierwotny,Apartamentowiec,2 pokoje,Poznań, Jeżyce
+969000.0,141.26,2,Pierwotny,Pozostałe,4 i więcej,Poznań, Smochowice
+429000.0,27.0,1,Wtórny,Blok,1 pokój,Gdańsk, Przymorze Wielkie
+399000.0,75.0,Parter,Pierwotny,Pozostałe,3 pokoje,Gdańsk, Chełm z dzielnicą Gdańsk Południe
+580000.0,44.7,Parter,Wtórny,Blok,3 pokoje,Gdańsk, Orunia
+560000.0,40.15,1,Wtórny,Blok,2 pokoje,Gdańsk, Stogi z Przeróbką
+1090000.0,78.82,4,Wtórny,Apartamentowiec,3 pokoje,Gdańsk, Letnica
+610000.0,56.2,3,Wtórny,Blok,3 pokoje,Gdańsk, Orunia
+1745000.0,66.01,2,Wtórny,Apartamentowiec,3 pokoje,Gdańsk, Oliwa
+735000.0,50.7,1,Wtórny,Blok,4 i więcej,Gdańsk, Zaspa Młyniec
+710000.0,42.0,1,Wtórny,Blok,2 pokoje,Gdańsk, Piecki-Migowo
+1194000.0,64.77,9,Wtórny,Apartamentowiec,3 pokoje,Gdańsk, Letnica
+895000.0,68.5,1,Wtórny,Blok,3 pokoje,Gdańsk, Jasień
+120000.0,39.0,2,Pierwotny,Pozostałe,2 pokoje,Gdańsk, Śródmieście
+769000.0,62.0,3,Wtórny,Blok,3 pokoje,Gdańsk, Matarnia
+1180000.0,53.0,Parter,Wtórny,Kamienica,2 pokoje,Gdańsk, Śródmieście
+799000.0,45.0,3,Wtórny,Blok,2 pokoje,Gdańsk, Przymorze Wielkie
+1139000.0,64.77,Powyżej 10,Wtórny,Apartamentowiec,3 pokoje,Gdańsk, Młyniska
+819000.0,82.0,1,Wtórny,Kamienica,3 pokoje,Gdańsk, Orunia
+890000.0,72.0,4,Wtórny,Kamienica,3 pokoje,Gdańsk, Chełm z dzielnicą Gdańsk Południe
+1880000.0,110.0,Parter,Wtórny,Kamienica,4 i więcej,Gdańsk, Wrzeszcz
+520000.0,29.0,5,Wtórny,Blok,1 pokój,Gdańsk, Wrzeszcz
+966000.0,48.35,2,Wtórny,Apartamentowiec,2 pokoje,Gdańsk, Brzeźno
+525000.0,20.0,1,Wtórny,Blok,1 pokój,Gdańsk, Śródmieście
+799000.0,74.0,3,Wtórny,Blok,3 pokoje,Gdańsk, Nowy Port
+690000.0,43.0,6,Wtórny,Blok,2 pokoje,Gdańsk, Zaspa Młyniec
+418000.0,25.2,8,Wtórny,Blok,1 pokój,Gdańsk, Stogi z Przeróbką
+530000.0,30.9,8,Wtórny,Blok,1 pokój,Gdańsk, Żabianka
+1750000.0,78.0,1,Wtórny,Apartamentowiec,4 i więcej,Gdańsk, Brzeźno
+670000.0,48.0,8,Wtórny,Blok,2 pokoje,Gdańsk, Zaspa Rozstaje
+435000.0,25.06,2,Wtórny,Apartamentowiec,1 pokój,Gdańsk, Ujeścisko
+380000.0,33.5,1,Wtórny,Blok,1 pokój,Gdańsk, Wzgórze Mickiewicza
+539000.0,41.22,4,Wtórny,Blok,2 pokoje,Gdańsk, Stogi z Przeróbką
+585000.0,48.0,2,Wtórny,Blok,3 pokoje,Gdańsk, Żabianka
+700000.0,32.38,6,Pierwotny,Apartamentowiec,2 pokoje,Gdańsk, Letnica
+990000.0,62.0,Parter,Wtórny,Blok,3 pokoje,Gdańsk, Brzeźno
+958170.0,37.42,2,Wtórny,Apartamentowiec,2 pokoje,Gdańsk, Śródmieście
+879000.0,79.0,Parter,Wtórny,Pozostałe,2 pokoje,Gdańsk, Brętowo
+667000.0,56.5,1,Wtórny,Blok,3 pokoje,Gdańsk, Żabianka
+630000.0,37.5,1,Wtórny,Blok,2 pokoje,Gdańsk, Chełm z dzielnicą Gdańsk Południe
+199000.0,54.0,3,Wtórny,Blok,3 pokoje,Gdańsk, Jasień
+189000.0,51.0,1,Wtórny,Blok,2 pokoje,Gdańsk, Jasień
+600000.0,39.0,2,Wtórny,Blok,2 pokoje,Gdańsk, Piecki-Migowo
+539000.0,45.7,3,Wtórny,Blok,2 pokoje,Gdańsk, Jasień
+1080000.0,56.6,9,Wtórny,Apartamentowiec,3 pokoje,Gdańsk, Letnica
+509000.0,36.0,5,Wtórny,Blok,2 pokoje,Gdańsk, Siedlce
+500000.0,31.0,Parter,Wtórny,Blok,1 pokój,Gdańsk, Krakowiec
+430000.0,26.0,3,Wtórny,Blok,2 pokoje,Gdańsk, Śródmieście
+372300.0,17.0,5,Wtórny,Blok,1 pokój,Gdańsk, Przymorze Wielkie
+745000.0,61.19,2,Wtórny,Blok,3 pokoje,Gdańsk, Ujeścisko
+570000.0,30.0,3,Wtórny,Kamienica,2 pokoje,Gdańsk, Wrzeszcz
+560000.0,35.3,10,Wtórny,Blok,2 pokoje,Gdańsk, Żabianka
+949000.0,38.0,9,Wtórny,Blok,2 pokoje,Gdańsk, Piecki-Migowo
+620000.0,52.8,1,Wtórny,Blok,3 pokoje,Gdańsk, Ujeścisko
+555000.0,30.0,4,Wtórny,Blok,2 pokoje,Gdańsk, Brzeźno
+629000.0,52.0,Parter,Wtórny,Blok,3 pokoje,Gdańsk, Orunia
+920000.0,76.0,1,Wtórny,Blok,4 i więcej,Gdańsk, Wzgórze Mickiewicza
+465000.0,38.0,2,Wtórny,Blok,2 pokoje,Gdańsk, Przymorze Małe
+455000.0,35.73,Parter,Pierwotny,Blok,2 pokoje,Gdańsk, Orunia
+677000.0,54.7,3,Wtórny,Blok,2 pokoje,Gdańsk, Piecki-Migowo
+465000.0,39.5,4,Wtórny,Blok,2 pokoje,Gdańsk, Stogi z Przeróbką
+636000.0,53.0,3,Wtórny,Blok,3 pokoje,Gdańsk, Piecki-Migowo
+450000.0,30.94,6,Wtórny,Blok,1 pokój,Gdańsk, Siedlce
+799000.0,55.95,3,Pierwotny,Apartamentowiec,3 pokoje,Gdańsk, Letnica
+649000.0,38.0,2,Wtórny,Blok,2 pokoje,Gdańsk, Przymorze Wielkie
+1750000.0,70.0,6,Wtórny,Apartamentowiec,3 pokoje,Gdańsk, Śródmieście
+699000.0,55.3,1,Wtórny,Blok,3 pokoje,Gdańsk, Matarnia
+635000.0,28.0,5,Wtórny,Apartamentowiec,1 pokój,Gdańsk, Wrzeszcz
+650000.0,45.0,Parter,Wtórny,Blok,2 pokoje,Gdańsk, Piecki-Migowo
+719000.0,62.0,Parter,Wtórny,Kamienica,3 pokoje,Gdańsk, Śródmieście
+770000.0,58.0,3,Wtórny,Blok,3 pokoje,Gdańsk, Żabianka
+1075000.0,55.01,4,Wtórny,Apartamentowiec,3 pokoje,Gdańsk, Wrzeszcz
+769000.0,63.0,Parter,Wtórny,Blok,3 pokoje,Gdańsk, Oliwa
+548000.0,37.0,2,Wtórny,Blok,2 pokoje,Gdańsk, Jasień
+399000.0,27.0,Parter,Wtórny,Blok,1 pokój,Gdańsk, Przymorze Wielkie
+820000.0,44.0,1,Wtórny,Kamienica,2 pokoje,Gdańsk, Śródmieście
+830000.0,69.0,2,Wtórny,Blok,3 pokoje,Gdańsk, Piecki-Migowo
+1780000.0,73.4,5,Wtórny,Blok,4 i więcej,Gdańsk, Brzeźno
+162000.0,33.3,2,Wtórny,Blok,2 pokoje,Gdańsk, Chełm z dzielnicą Gdańsk Południe
+510000.0,43.0,1,Pierwotny,Apartamentowiec,2 pokoje,Gdańsk, Jasień
+576000.0,48.0,6,Wtórny,Blok,2 pokoje,Gdańsk, Nowy Port
+1336400.0,104.0,2,Wtórny,Kamienica,4 i więcej,Gdańsk, Wrzeszcz
+1320000.0,93.17,1,Wtórny,Kamienica,4 i więcej,Gdańsk, Wrzeszcz
+500000.0,28.0,1,Wtórny,Blok,1 pokój,Gdańsk, Strzyża
+1220000.0,68.0,10,Wtórny,Apartamentowiec,3 pokoje,Gdańsk, Strzyża
+730000.0,63.98,4,Wtórny,Blok,3 pokoje,Lublin,
+579000.0,52.0,4,Wtórny,Blok,2 pokoje,Lublin,
+529000.0,47.2,1,Wtórny,Blok,2 pokoje,Lublin,
+629000.0,48.42,4,Pierwotny,Blok,3 pokoje,Lublin,
+821000.0,65.72,Parter,Wtórny,Apartamentowiec,3 pokoje,Lublin,
+600000.0,58.76,Parter,Wtórny,Blok,3 pokoje,Lublin,
+455000.0,38.0,2,Wtórny,Blok,3 pokoje,Lublin,
+720500.0,65.5,3,Wtórny,Blok,3 pokoje,Lublin,
+509000.0,36.0,3,Wtórny,Blok,2 pokoje,Lublin,
+512800.0,49.0,4,Wtórny,Blok,3 pokoje,Lublin,
+489000.0,65.0,Parter,Wtórny,Blok,3 pokoje,Lublin,
+449000.0,49.1,8,Wtórny,Blok,2 pokoje,Lublin,
+770000.0,58.0,1,Wtórny,Blok,3 pokoje,Lublin,
+479000.0,48.17,1,Wtórny,Blok,3 pokoje,Lublin,
+520000.0,58.0,1,Wtórny,Blok,3 pokoje,Lublin,
+480000.0,39.0,Parter,Wtórny,Blok,1 pokój,Lublin,
+490000.0,55.0,2,Wtórny,Blok,3 pokoje,Lublin,
+289000.0,19.5,1,Wtórny,Kamienica,1 pokój,Lublin,
+399000.0,45.0,2,Wtórny,Blok,3 pokoje,Lublin,
+515000.0,49.6,Parter,Wtórny,Blok,2 pokoje,Lublin,
+499000.0,48.5,Parter,Wtórny,Blok,3 pokoje,Lublin,
+340000.0,31.0,2,Wtórny,Blok,2 pokoje,Lublin,
+291000.0,19.5,1,Wtórny,Kamienica,1 pokój,Lublin,
+619000.0,72.5,4,Wtórny,Blok,4 i więcej,Lublin,
+369765.0,27.39,3,Wtórny,Blok,1 pokój,Lublin,
+490000.0,56.41,2,Wtórny,Blok,3 pokoje,Lublin,
+230000.0,14.5,1,Wtórny,Kamienica,1 pokój,Lublin,
+645000.0,85.0,4,Wtórny,Blok,4 i więcej,Lublin,
+685000.0,52.16,5,Pierwotny,Blok,3 pokoje,Lublin,
+573400.0,57.34,Parter,Pierwotny,Blok,2 pokoje,Lublin,
+652000.0,65.2,1,Pierwotny,Blok,3 pokoje,Lublin,
+610000.0,47.0,1,Wtórny,Blok,2 pokoje,Lublin,
+677000.0,55.0,2,Wtórny,Blok,3 pokoje,Lublin,
+445000.0,49.0,4,Wtórny,Blok,3 pokoje,Lublin,
+295000.0,37.1,5,Wtórny,Blok,1 pokój,Lublin,
+428705.0,47.9,3,Wtórny,Blok,3 pokoje,Lublin,
+650000.0,45.0,2,Wtórny,Blok,2 pokoje,Lublin,
+495000.0,38.9,2,Wtórny,Blok,2 pokoje,Lublin,
+555000.0,41.0,5,Wtórny,Blok,2 pokoje,Lublin,
+580000.0,39.12,6,Pierwotny,Apartamentowiec,2 pokoje,Lublin,
+510000.0,49.47,2,Wtórny,Blok,3 pokoje,Lublin,
+569000.0,41.0,2,Wtórny,Blok,2 pokoje,Lublin,
+480000.0,51.0,1,Wtórny,Blok,2 pokoje,Lublin,
+598000.0,60.07,1,Wtórny,Blok,3 pokoje,Lublin,
+710000.0,56.0,1,Wtórny,Blok,3 pokoje,Lublin,
+650000.0,63.0,2,Wtórny,Blok,3 pokoje,Lublin,
+442000.0,32.58,2,Wtórny,Apartamentowiec,2 pokoje,Lublin,
+679000.0,55.0,3,Wtórny,Blok,3 pokoje,Lublin,
+700000.0,58.0,2,Wtórny,Blok,3 pokoje,Lublin,
+681352.0,74.06,Parter,Pierwotny,Blok,4 i więcej,Lublin,
+580000.0,45.0,1,Wtórny,Blok,2 pokoje,Lublin,
+429000.0,40.0,Parter,Wtórny,Blok,3 pokoje,Lublin,
+525000.0,56.9,5,Wtórny,Blok,3 pokoje,Lublin,
+645000.0,55.0,1,Wtórny,Apartamentowiec,3 pokoje,Lublin,
+1100000.0,100.63,3,Wtórny,Blok,4 i więcej,Lublin,
+300000.0,24.1,7,Wtórny,Blok,1 pokój,Lublin,
+525000.0,52.0,3,Wtórny,Blok,2 pokoje,Lublin,
+595000.0,72.0,10,Wtórny,Blok,3 pokoje,Lublin,
+355000.0,32.5,Parter,Wtórny,Blok,2 pokoje,Lublin,
+495600.0,41.26,3,Pierwotny,Apartamentowiec,2 pokoje,Lublin,
+400000.0,48.0,2,Wtórny,Blok,2 pokoje,Lublin,
+460000.0,50.0,4,Wtórny,Blok,2 pokoje,Lublin,
+447000.0,32.0,6,Pierwotny,Apartamentowiec,2 pokoje,Lublin,
+320000.0,32.0,2,Wtórny,Blok,2 pokoje,Lublin,
+449000.0,47.9,4,Pierwotny,Blok,3 pokoje,Lublin,
+625000.0,48.5,1,Wtórny,Blok,2 pokoje,Lublin,
+358000.0,32.0,Parter,Wtórny,Blok,1 pokój,Lublin,
+675000.0,65.19,Parter,Wtórny,Blok,3 pokoje,Lublin,
+650000.0,70.0,7,Wtórny,Blok,3 pokoje,Lublin,
+599000.0,76.6,3,Wtórny,Blok,3 pokoje,Lublin,
+610000.0,60.0,2,Wtórny,Blok,3 pokoje,Lublin,
+685000.0,57.0,4,Wtórny,Apartamentowiec,3 pokoje,Lublin,
+595000.0,48.6,2,Wtórny,Blok,2 pokoje,Lublin,
+450000.0,60.0,4,Wtórny,Blok,2 pokoje,Lublin,
+539000.0,50.0,2,Wtórny,Blok,2 pokoje,Lublin,
+695000.0,72.76,Parter,Wtórny,Blok,4 i więcej,Lublin,
+549000.0,50.45,Parter,Wtórny,Blok,4 i więcej,Lublin,
+410000.0,35.0,3,Wtórny,Blok,2 pokoje,Lublin,
+425000.0,31.5,Parter,Wtórny,Blok,2 pokoje,Lublin,
+849000.0,65.0,4,Wtórny,Blok,3 pokoje,Lublin,
+640000.0,60.0,7,Wtórny,Blok,3 pokoje,Lublin,
+439800.0,32.0,6,Wtórny,Blok,2 pokoje,Lublin,
+523000.0,48.2,Parter,Wtórny,Blok,3 pokoje,Lublin,
+169000.0,16.0,Parter,Wtórny,Pozostałe,1 pokój,Lublin,
+558000.0,61.0,2,Wtórny,Blok,3 pokoje,Lublin,
+538000.0,49.0,1,Wtórny,Blok,2 pokoje,Lublin,
+439000.0,45.68,2,Wtórny,Blok,2 pokoje,Lublin,
+475000.0,37.84,4,Wtórny,Blok,2 pokoje,Lublin,
+550000.0,51.0,1,Wtórny,Blok,2 pokoje,Lublin,
+509000.0,62.2,1,Wtórny,Blok,4 i więcej,Lublin,
+679000.0,60.0,1,Wtórny,Blok,3 pokoje,Lublin,
+573000.0,52.15,Parter,Wtórny,Blok,2 pokoje,Lublin,
+460000.0,49.12,3,Wtórny,Blok,3 pokoje,Lublin,
+489000.0,57.0,3,Wtórny,Blok,3 pokoje,Lublin,
+459000.0,54.0,4,Wtórny,Blok,2 pokoje,Lublin,
+439000.0,48.0,3,Wtórny,Blok,3 pokoje,Lublin,
+520000.0,47.9,Parter,Wtórny,Blok,2 pokoje,Lublin,
+575000.0,62.3,4,Wtórny,Blok,3 pokoje,Lublin,
+360000.0,34.0,8,Wtórny,Blok,1 pokój,Lublin,
+635000.0,58.0,Parter,Wtórny,Blok,3 pokoje,Lublin,
+558000.0,61.2,1,Wtórny,Blok,3 pokoje,Lublin,
+859000.0,60.71,Parter,Wtórny,Blok,3 pokoje,Lublin,
+499000.0,61.0,4,Wtórny,Blok,3 pokoje,Lublin,
+335000.0,37.72,2,Wtórny,Blok,1 pokój,Lublin,
+629000.0,49.27,Parter,Wtórny,Blok,3 pokoje,Lublin,
+325900.0,31.5,Parter,Pierwotny,Blok,2 pokoje,Lublin,
+599000.0,60.2,3,Wtórny,Blok,3 pokoje,Lublin,
+728000.0,71.85,2,Wtórny,Blok,4 i więcej,Lublin,
+520000.0,60.8,Parter,Wtórny,Blok,3 pokoje,Lublin,
+530000.0,53.0,Parter,Wtórny,Blok,2 pokoje,Lublin,
+558000.0,62.0,2,Wtórny,Blok,3 pokoje,Lublin,
+520000.0,49.1,Parter,Wtórny,Blok,3 pokoje,Lublin,
+501414.0,38.6,3,Wtórny,Blok,2 pokoje,Lublin,
+370080.0,46.26,4,Wtórny,Blok,2 pokoje,Lublin,
+396500.0,30.5,Parter,Wtórny,Blok,1 pokój,Lublin,
+430000.0,38.0,3,Wtórny,Kamienica,2 pokoje,Lublin,
+798000.0,61.42,7,Wtórny,Apartamentowiec,3 pokoje,Lublin,
+315000.0,30.0,2,Pierwotny,Blok,1 pokój,Lublin,
+569000.0,45.51,1,Wtórny,Blok,2 pokoje,Lublin,
+780000.0,68.0,1,Wtórny,Blok,3 pokoje,Lublin,
+235000.0,23.2,Powyżej 10,Wtórny,Blok,1 pokój,Lublin,
+650000.0,71.53,3,Wtórny,Blok,3 pokoje,Lublin,
+535000.0,57.84,Parter,Wtórny,Blok,3 pokoje,Lublin,
+375000.0,43.0,Parter,Wtórny,Kamienica,2 pokoje,Lublin,
+570000.0,55.0,4,Wtórny,Blok,3 pokoje,Lublin,
+600000.0,62.0,8,Wtórny,Blok,3 pokoje,Lublin,
+469000.0,56.45,3,Wtórny,Blok,4 i więcej,Lublin,
+580000.0,61.0,2,Wtórny,Blok,3 pokoje,Lublin,
+340000.0,26.0,5,Pierwotny,Pozostałe,1 pokój,Lublin,
+480000.0,48.0,2,Wtórny,Blok,2 pokoje,Lublin,
+480000.0,48.0,1,Pierwotny,Blok,2 pokoje,Lublin,
+409000.0,31.0,4,Wtórny,Apartamentowiec,1 pokój,Lublin,
+750000.0,83.99,5,Wtórny,Pozostałe,3 pokoje,Lublin,
+548000.0,45.7,2,Pierwotny,Blok,2 pokoje,Lublin,
+510000.0,49.4,6,Wtórny,Blok,3 pokoje,Lublin,
+529000.0,54.8,3,Wtórny,Blok,3 pokoje,Lublin,
+649000.0,61.22,Parter,Wtórny,Blok,4 i więcej,Lublin,
+455000.0,50.0,3,Pierwotny,Blok,2 pokoje,Lublin,
+415000.0,39.03,Parter,Wtórny,Blok,2 pokoje,Lublin,
+570000.0,47.44,1,Wtórny,Blok,3 pokoje,Lublin,
+550000.0,53.0,Parter,Wtórny,Blok,2 pokoje,Lublin,
+547000.0,69.0,3,Wtórny,Blok,4 i więcej,Lublin,
+620000.0,56.3,2,Wtórny,Kamienica,2 pokoje,Lublin,
+439000.0,60.0,4,Wtórny,Blok,3 pokoje,Lublin,
+555000.0,52.9,Parter,Wtórny,Blok,2 pokoje,Lublin,
+650000.0,60.0,3,Wtórny,Blok,3 pokoje,Lublin,
+349000.0,37.31,2,Wtórny,Blok,1 pokój,Lublin,
+595000.0,60.0,6,Wtórny,Blok,3 pokoje,Lublin,
+950000.0,72.0,1,Wtórny,Blok,4 i więcej,Lublin,
+285000.0,23.0,7,Wtórny,Blok,1 pokój,Lublin,
+475000.0,68.74,4,Wtórny,Blok,3 pokoje,Lublin,
+480000.0,32.0,2,Wtórny,Apartamentowiec,2 pokoje,Lublin,
+395000.0,47.44,2,Wtórny,Blok,3 pokoje,Lublin,
+390000.0,32.61,2,Wtórny,Blok,2 pokoje,Lublin,
+520000.0,45.2,1,Wtórny,Blok,2 pokoje,Lublin,
+870000.0,94.0,2,Wtórny,Blok,4 i więcej,Lublin,
+703000.0,70.3,2,Wtórny,Blok,3 pokoje,Lublin,
+675000.0,54.0,5,Wtórny,Blok,3 pokoje,Lublin,
+315000.0,26.5,4,Wtórny,Blok,1 pokój,Lublin,
+429000.0,49.0,2,Pierwotny,Blok,3 pokoje,Lublin,
+600000.0,72.0,2,Wtórny,Blok,3 pokoje,Lublin,
+216000.0,23.0,Parter,Wtórny,Kamienica,1 pokój,Lublin,
+695000.0,50.0,1,Wtórny,Blok,3 pokoje,Lublin,
+530000.0,43.0,3,Wtórny,Blok,2 pokoje,Lublin,
+465000.0,47.2,7,Wtórny,Blok,2 pokoje,Lublin,
+599000.0,71.7,3,Wtórny,Blok,4 i więcej,Lublin,
+559000.0,66.0,4,Wtórny,Blok,3 pokoje,Lublin,
+640000.0,52.0,1,Wtórny,Blok,3 pokoje,Lublin,
+650000.0,54.91,2,Wtórny,Blok,2 pokoje,Lublin,
+552000.0,60.0,Parter,Wtórny,Blok,3 pokoje,Lublin,
+595000.0,60.07,1,Wtórny,Blok,3 pokoje,Lublin,
+497000.0,39.09,3,Pierwotny,Blok,2 pokoje,Lublin,
+550000.0,55.0,Parter,Wtórny,Blok,4 i więcej,Lublin,
+369000.0,42.0,3,Wtórny,Kamienica,2 pokoje,Lublin,
+850000.0,64.13,4,Wtórny,Blok,3 pokoje,Lublin,
+569000.0,45.0,1,Wtórny,Blok,2 pokoje,Lublin,
+426000.0,36.84,3,Wtórny,Blok,2 pokoje,Lublin,
+510000.0,59.5,4,Wtórny,Blok,2 pokoje,Lublin,
+420000.0,48.5,2,Wtórny,Blok,3 pokoje,Lublin,
+410000.0,37.0,9,Wtórny,Blok,2 pokoje,Lublin,
+525000.0,60.0,4,Wtórny,Blok,3 pokoje,Lublin,
+389000.0,26.5,2,Wtórny,Blok,1 pokój,Lublin,
+385000.0,36.06,3,Wtórny,Blok,2 pokoje,Lublin,
+785000.0,78.5,2,Wtórny,Blok,3 pokoje,Lublin,
+659500.0,46.81,3,Wtórny,Blok,2 pokoje,Lublin,
+410000.0,40.0,3,Pierwotny,Blok,2 pokoje,Lublin,
+349000.0,24.9,Parter,Wtórny,Blok,1 pokój,Lublin,
+435000.0,47.83,1,Wtórny,Blok,3 pokoje,Lublin,
+370000.0,40.63,3,Wtórny,Blok,2 pokoje,Lublin,
+240000.0,32.0,Suterena,Wtórny,Kamienica,3 pokoje,Lublin,
+340000.0,46.0,4,Wtórny,Blok,2 pokoje,Lublin,
+409900.0,29.87,Parter,Wtórny,Blok,2 pokoje,Lublin,
+315000.0,30.0,Parter,Wtórny,Blok,1 pokój,Lublin,
+509000.0,52.0,Parter,Wtórny,Blok,3 pokoje,Lublin,
+569000.0,47.86,4,Wtórny,Blok,2 pokoje,Lublin,
+420000.0,48.0,4,Wtórny,Blok,2 pokoje,Lublin,
+288000.0,72.0,2,Wtórny,Blok,3 pokoje,Lublin,
+620000.0,60.0,4,Wtórny,Blok,3 pokoje,Lublin,
+860000.0,108.0,3,Wtórny,Kamienica,4 i więcej,Lublin,
+495000.0,60.0,3,Wtórny,Blok,3 pokoje,Lublin,
+460000.0,36.0,4,Wtórny,Blok,2 pokoje,Lublin,
+349000.0,39.0,4,Wtórny,Blok,2 pokoje,Lublin,
+499000.0,60.0,4,Wtórny,Blok,3 pokoje,Lublin,
+320000.0,30.0,Parter,Wtórny,Blok,1 pokój,Lublin,
+475000.0,47.9,5,Wtórny,Blok,3 pokoje,Lublin,
+440000.0,31.0,Parter,Wtórny,Blok,1 pokój,Lublin,
+436000.0,43.0,1,Wtórny,Blok,3 pokoje,Lublin,
+389000.0,51.0,4,Wtórny,Blok,3 pokoje,Lublin,
+900000.0,161.0,2,Wtórny,Blok,4 i więcej,Lublin,
+550000.0,62.0,3,Wtórny,Blok,2 pokoje,Lublin,
+749000.0,72.2,1,Pierwotny,Apartamentowiec,3 pokoje,Lublin,
+550000.0,52.0,3,Wtórny,Blok,2 pokoje,Lublin,
+395000.0,31.0,7,Pierwotny,Blok,1 pokój,Lublin,
+600000.0,65.21,3,Wtórny,Blok,3 pokoje,Lublin,
+690000.0,61.08,1,Wtórny,Blok,3 pokoje,Lublin,
+410000.0,32.0,3,Wtórny,Blok,1 pokój,Lublin,
+480000.0,48.0,Parter,Wtórny,Blok,3 pokoje,Lublin,
+420000.0,37.0,4,Wtórny,Blok,2 pokoje,Lublin,
+560000.0,62.0,2,Wtórny,Blok,4 i więcej,Lublin,
+419000.0,36.1,2,Wtórny,Blok,2 pokoje,Lublin,
+718000.0,66.56,1,Wtórny,Blok,3 pokoje,Lublin,
+460000.0,39.0,7,Wtórny,Blok,2 pokoje,Lublin,
+490000.0,60.0,4,Wtórny,Blok,3 pokoje,Lublin,
+449000.0,49.0,6,Wtórny,Blok,2 pokoje,Lublin,
+390000.0,39.0,3,Wtórny,Blok,2 pokoje,Lublin,
+679000.0,68.0,4,Wtórny,Blok,3 pokoje,Lublin,
+340000.0,39.2,Parter,Wtórny,Blok,1 pokój,Lublin,
+600000.0,63.0,Parter,Wtórny,Blok,3 pokoje,Lublin,
+699000.0,57.0,3,Wtórny,Blok,3 pokoje,Lublin,
+391000.0,51.0,3,Wtórny,Blok,2 pokoje,Lublin,
+695000.0,105.0,3,Wtórny,Blok,3 pokoje,Lublin,
+395000.0,47.4,1,Wtórny,Blok,2 pokoje,Lublin,
+629000.0,49.22,1,Wtórny,Blok,3 pokoje,Lublin,
+430000.0,49.0,1,Wtórny,Blok,3 pokoje,Lublin,
+459000.0,52.0,2,Wtórny,Blok,3 pokoje,Lublin,
+570000.0,50.0,3,Wtórny,Blok,2 pokoje,Lublin,
+445000.0,49.0,3,Wtórny,Blok,2 pokoje,Lublin,
+349000.0,27.0,2,Pierwotny,Blok,1 pokój,Lublin,
+474000.0,45.4,Parter,Pierwotny,Apartamentowiec,2 pokoje,Lublin,
+515000.0,61.5,1,Wtórny,Blok,4 i więcej,Lublin,
+559000.0,54.0,3,Wtórny,Blok,2 pokoje,Lublin,
+799000.0,77.5,3,Wtórny,Blok,3 pokoje,Lublin,
+765000.0,57.0,1,Wtórny,Apartamentowiec,3 pokoje,Lublin,
+420000.0,28.0,Parter,Wtórny,Pozostałe,1 pokój,Lublin,
+650000.0,68.5,4,Wtórny,Blok,4 i więcej,Lublin,
+705000.0,61.23,4,Wtórny,Blok,4 i więcej,Lublin,
+310000.0,35.0,2,Wtórny,Kamienica,1 pokój,Szczecin, Świerczewo
+495000.0,37.0,3,Wtórny,Blok,2 pokoje,Szczecin, Centrum
+319000.0,37.0,Parter,Wtórny,Blok,2 pokoje,Szczecin, Centrum
+535000.0,42.0,2,Wtórny,Blok,2 pokoje,Szczecin, Gumieńce
+440000.0,42.0,1,Wtórny,Kamienica,2 pokoje,Szczecin, Centrum
+682500.0,70.0,2,Wtórny,Kamienica,4 i więcej,Szczecin, Centrum
+420000.0,44.88,3,Wtórny,Kamienica,2 pokoje,Szczecin, Centrum
+599000.0,48.86,Parter,Wtórny,Pozostałe,3 pokoje,Szczecin, Warszewo
+519000.0,56.2,3,Wtórny,Blok,2 pokoje,Szczecin, Centrum
+330000.0,31.55,1,Wtórny,Blok,2 pokoje,Szczecin, Pogodno
+1566600.0,70.0,8,Wtórny,Apartamentowiec,2 pokoje,Szczecin, Centrum
+399000.0,35.0,5,Wtórny,Blok,2 pokoje,Szczecin, Świerczewo
+650000.0,89.48,2,Wtórny,Kamienica,3 pokoje,Szczecin, Centrum
+490000.0,56.0,2,Wtórny,Blok,2 pokoje,Szczecin, Krzekowo
+590000.0,65.5,3,Wtórny,Blok,3 pokoje,Szczecin, Pogodno
+470000.0,31.48,3,Wtórny,Blok,2 pokoje,Szczecin, Warszewo
+479000.0,68.91,4,Wtórny,Blok,3 pokoje,Szczecin, Golęcino
+399000.0,44.01,Parter,Wtórny,Pozostałe,3 pokoje,Szczecin, Pogodno
+599999.0,84.0,3,Wtórny,Kamienica,3 pokoje,Szczecin, Niebuszewo
+35000.0,62.0,2,Wtórny,Blok,3 pokoje,Szczecin, Centrum
+380000.0,44.0,Parter,Wtórny,Blok,2 pokoje,Szczecin, Pogodno
+469000.0,47.0,7,Wtórny,Blok,2 pokoje,Szczecin, Niebuszewo
+650000.0,111.89,1,Wtórny,Kamienica,4 i więcej,Szczecin, Pomorzany
+499000.0,62.7,1,Wtórny,Kamienica,3 pokoje,Szczecin, Bukowo
+419000.0,37.0,1,Wtórny,Blok,2 pokoje,Szczecin, Pomorzany
+430000.0,43.0,4,Wtórny,Kamienica,2 pokoje,Szczecin, Niebuszewo
+629000.0,35.57,6,Wtórny,Blok,2 pokoje,Szczecin, Centrum
+420000.0,46.0,4,Wtórny,Blok,2 pokoje,Szczecin, Świerczewo
+430000.0,59.98,1,Wtórny,Kamienica,3 pokoje,Szczecin, Zdroje
+850000.0,84.17,Parter,Wtórny,Apartamentowiec,4 i więcej,Szczecin, Warszewo
+299000.0,29.0,2,Wtórny,Blok,2 pokoje,Szczecin, Niebuszewo
+845000.0,112.0,2,Wtórny,Kamienica,3 pokoje,Szczecin, Centrum
+583000.0,63.56,3,Wtórny,Blok,4 i więcej,Szczecin, Gumieńce
+580000.0,76.0,4,Wtórny,Blok,4 i więcej,Szczecin, Niebuszewo
+329000.0,39.5,2,Wtórny,Kamienica,2 pokoje,Szczecin, Centrum
+310000.0,35.0,4,Wtórny,Blok,2 pokoje,Szczecin, Niebuszewo
+499000.0,46.8,3,Wtórny,Blok,2 pokoje,Szczecin, Pogodno
+750000.0,89.62,1,Wtórny,Kamienica,4 i więcej,Szczecin, Gumieńce
+479000.0,58.0,1,Wtórny,Blok,3 pokoje,Szczecin, Pogodno
+550000.0,52.34,1,Wtórny,Blok,2 pokoje,Szczecin, Gumieńce
+383000.0,56.02,Parter,Wtórny,Kamienica,2 pokoje,Szczecin, Centrum
+580000.0,76.19,4,Wtórny,Kamienica,3 pokoje,Szczecin, Niebuszewo
+700000.0,63.66,1,Pierwotny,Apartamentowiec,3 pokoje,Szczecin, Niebuszewo
+465000.0,50.0,9,Wtórny,Blok,2 pokoje,Szczecin, Bukowe
+349000.0,27.0,3,Wtórny,Blok,1 pokój,Szczecin, Centrum
+720000.0,55.23,1,Wtórny,Blok,3 pokoje,Szczecin, Warszewo
+580000.0,70.42,6,Wtórny,Blok,3 pokoje,Szczecin, Centrum
+288000.0,25.0,1,Wtórny,Blok,1 pokój,Szczecin, Niebuszewo
+650000.0,72.0,2,Wtórny,Blok,4 i więcej,Szczecin, Warszewo
+399000.0,42.9,4,Wtórny,Blok,3 pokoje,Szczecin, Centrum
+248000.0,67.0,1,Wtórny,Pozostałe,3 pokoje,Szczecin, Centrum
+430000.0,46.0,1,Wtórny,Blok,2 pokoje,Szczecin, Dąbie
+310000.0,36.0,3,Wtórny,Blok,1 pokój,Szczecin, Centrum
+669000.0,53.0,1,Wtórny,Apartamentowiec,2 pokoje,Szczecin, Bukowe
+364000.0,38.32,1,Wtórny,Blok,2 pokoje,Szczecin, Bukowo
+559000.0,79.65,4,Wtórny,Kamienica,3 pokoje,Szczecin, Pomorzany
+449000.0,63.6,3,Wtórny,Blok,3 pokoje,Szczecin, Zdroje
+530000.0,54.3,7,Wtórny,Blok,2 pokoje,Szczecin, Niebuszewo
+359000.0,30.94,9,Wtórny,Blok,1 pokój,Szczecin, Centrum
+435000.0,31.0,3,Wtórny,Apartamentowiec,1 pokój,Szczecin, Gumieńce
+349000.0,36.0,7,Wtórny,Blok,2 pokoje,Szczecin, Centrum
+690000.0,58.0,3,Wtórny,Apartamentowiec,3 pokoje,Szczecin, Gumieńce
+540000.0,57.66,3,Wtórny,Kamienica,3 pokoje,Szczecin, Niebuszewo
+480000.0,54.0,Parter,Wtórny,Blok,2 pokoje,Szczecin, Dąbie
+380000.0,52.0,4,Wtórny,Kamienica,2 pokoje,Szczecin, Centrum
+570000.0,53.0,2,Wtórny,Blok,3 pokoje,Szczecin, Słoneczne
+890000.0,55.02,1,Wtórny,Blok,3 pokoje,Szczecin, Centrum
+415875.0,55.45,Parter,Pierwotny,Blok,3 pokoje,Szczecin, Gumieńce
+329797.0,28.9,9,Wtórny,Blok,1 pokój,Szczecin, Pomorzany
+419000.0,37.0,Parter,Wtórny,Kamienica,2 pokoje,Szczecin, Centrum
+320000.0,29.0,3,Wtórny,Blok,1 pokój,Szczecin, Pomorzany
+860000.0,93.0,1,Wtórny,Kamienica,4 i więcej,Szczecin, Centrum
+349000.0,27.0,3,Wtórny,Blok,1 pokój,Szczecin, Pomorzany
+520000.0,62.08,2,Wtórny,Kamienica,2 pokoje,Szczecin, Centrum
+430000.0,46.31,2,Wtórny,Blok,2 pokoje,Szczecin, Centrum
+340000.0,31.0,6,Wtórny,Blok,1 pokój,Szczecin, Centrum
+325000.0,31.0,10,Wtórny,Blok,1 pokój,Szczecin, Słoneczne
+459000.0,28.0,5,Wtórny,Apartamentowiec,1 pokój,Szczecin, Centrum
+425000.0,44.2,8,Wtórny,Blok,2 pokoje,Szczecin, Świerczewo
+350000.0,42.0,Parter,Wtórny,Blok,2 pokoje,Szczecin, Centrum
+455000.0,41.61,2,Wtórny,Blok,2 pokoje,Szczecin, Zdroje
+265000.0,35.0,Parter,Wtórny,Kamienica,1 pokój,Szczecin, Centrum
+979000.0,49.0,Powyżej 10,Wtórny,Apartamentowiec,2 pokoje,Szczecin, Centrum
+699000.0,62.0,5,Wtórny,Blok,3 pokoje,Szczecin, Pogodno
+1170000.0,58.68,Powyżej 10,Wtórny,Apartamentowiec,2 pokoje,Szczecin, Centrum
+299000.0,47.0,3,Wtórny,Blok,2 pokoje,Szczecin, Dąbie
+289000.0,25.05,7,Wtórny,Blok,1 pokój,Szczecin, Centrum
+399000.0,57.92,4,Wtórny,Kamienica,3 pokoje,Szczecin, Centrum
+449000.0,49.59,4,Wtórny,Kamienica,2 pokoje,Szczecin, Centrum
+550000.0,52.0,3,Wtórny,Apartamentowiec,2 pokoje,Szczecin, Gumieńce
+375000.0,34.0,6,Wtórny,Blok,2 pokoje,Szczecin, Centrum
+469000.0,41.13,3,Wtórny,Blok,3 pokoje,Szczecin, Centrum
+580000.0,45.0,2,Wtórny,Apartamentowiec,2 pokoje,Szczecin, Warszewo
+590000.0,131.0,4,Wtórny,Kamienica,3 pokoje,Szczecin, Niebuszewo
+750000.0,75.0,2,Wtórny,Pozostałe,3 pokoje,Szczecin, Gumieńce
+350000.0,42.4,2,Wtórny,Kamienica,2 pokoje,Szczecin, Niebuszewo
+599000.0,58.87,3,Wtórny,Blok,3 pokoje,Szczecin, Niebuszewo
+230000.0,42.0,2,Wtórny,Kamienica,2 pokoje,Szczecin, Golęcino
+390000.0,32.0,2,Wtórny,Kamienica,2 pokoje,Szczecin, Pogodno
+370000.0,31.0,Parter,Wtórny,Blok,2 pokoje,Szczecin, Słoneczne
+245000.0,17.29,4,Wtórny,Kamienica,1 pokój,Szczecin, Centrum
+1300000.0,94.04,1,Wtórny,Kamienica,4 i więcej,Szczecin, Centrum
+452200.0,45.22,4,Wtórny,Kamienica,1 pokój,Szczecin, Centrum
+402380.0,36.58,4,Wtórny,Kamienica,1 pokój,Szczecin, Centrum
+440000.0,39.32,Parter,Wtórny,Blok,2 pokoje,Szczecin, Warszewo
+499000.0,46.5,6,Wtórny,Blok,2 pokoje,Szczecin, Centrum
+350000.0,39.0,Parter,Wtórny,Kamienica,2 pokoje,Szczecin, Bukowo
+650000.0,70.0,8,Wtórny,Blok,4 i więcej,Szczecin, Słoneczne
+695000.0,67.3,Parter,Wtórny,Blok,3 pokoje,Szczecin, Gumieńce
+650000.0,52.0,1,Wtórny,Apartamentowiec,3 pokoje,Szczecin, Golęcino
+445000.0,47.28,3,Wtórny,Blok,2 pokoje,Szczecin, Niebuszewo
+439000.0,48.0,5,Wtórny,Blok,3 pokoje,Szczecin, Centrum
+385000.0,38.0,1,Wtórny,Apartamentowiec,2 pokoje,Szczecin, Zdroje
+799000.0,39.0,2,Wtórny,Apartamentowiec,2 pokoje,Szczecin, Centrum
+595000.0,66.0,1,Wtórny,Blok,2 pokoje,Szczecin, Bukowe
+420000.0,51.0,1,Wtórny,Blok,3 pokoje,Szczecin, Centrum
+505000.0,57.0,2,Wtórny,Blok,3 pokoje,Szczecin, Słoneczne
+678000.0,87.6,4,Wtórny,Pozostałe,4 i więcej,Szczecin, Golęcino
+389999.0,36.67,3,Wtórny,Blok,2 pokoje,Szczecin, Niebuszewo
+560000.0,50.0,9,Wtórny,Blok,2 pokoje,Szczecin, Świerczewo
+559000.0,52.0,6,Wtórny,Blok,3 pokoje,Szczecin, Niebuszewo
+599000.0,63.0,1,Wtórny,Blok,3 pokoje,Szczecin, Centrum
+450000.0,57.7,2,Wtórny,Blok,3 pokoje,Szczecin, Centrum
+422000.0,34.57,2,Wtórny,Blok,2 pokoje,Szczecin, Pomorzany
+585000.0,61.0,Parter,Wtórny,Blok,3 pokoje,Szczecin, Pomorzany
+665000.0,70.4,1,Wtórny,Blok,4 i więcej,Szczecin, Pomorzany
+860000.0,66.7,1,Wtórny,Apartamentowiec,3 pokoje,Szczecin, Gumieńce
+345000.0,31.0,7,Wtórny,Blok,1 pokój,Szczecin, Centrum
+578000.0,53.8,Parter,Wtórny,Blok,2 pokoje,Szczecin, Kijewo
+899000.0,74.2,3,Wtórny,Pozostałe,3 pokoje,Szczecin, Pogodno
+599000.0,56.0,3,Wtórny,Blok,3 pokoje,Szczecin, Centrum
+332500.0,69.54,2,Wtórny,Blok,2 pokoje,Szczecin, Golęcino
+950000.0,85.78,Parter,Wtórny,Pozostałe,3 pokoje,Szczecin, Gumieńce
+340000.0,65.09,3,Wtórny,Kamienica,3 pokoje,Szczecin, Bukowo
+419000.0,47.65,1,Wtórny,Blok,2 pokoje,Szczecin, Pomorzany
+485000.0,43.87,5,Wtórny,Blok,2 pokoje,Szczecin, Centrum
+368900.0,33.76,Parter,Wtórny,Blok,1 pokój,Szczecin, Pogodno
+350000.0,38.5,4,Wtórny,Blok,2 pokoje,Szczecin, Dąbie
+399000.0,49.4,2,Wtórny,Kamienica,2 pokoje,Szczecin, Centrum
+550000.0,45.0,4,Wtórny,Blok,2 pokoje,Szczecin, Centrum
+425000.0,60.0,Parter,Wtórny,Kamienica,2 pokoje,Szczecin, Świerczewo
+335000.0,36.4,Parter,Wtórny,Blok,2 pokoje,Szczecin, Bukowo
+650000.0,90.0,3,Wtórny,Kamienica,3 pokoje,Szczecin, Centrum
+276650.0,25.15,4,Wtórny,Kamienica,1 pokój,Szczecin, Centrum
+275660.0,25.06,4,Wtórny,Kamienica,1 pokój,Szczecin, Centrum
+379500.0,37.95,4,Wtórny,Kamienica,2 pokoje,Szczecin, Centrum
+275550.0,25.05,4,Wtórny,Kamienica,1 pokój,Szczecin, Centrum
+333060.0,31.72,4,Wtórny,Kamienica,1 pokój,Szczecin, Centrum
+529000.0,60.0,2,Wtórny,Blok,3 pokoje,Szczecin, Słoneczne
+459000.0,47.2,2,Wtórny,Blok,2 pokoje,Szczecin, Niebuszewo
+445000.0,31.13,2,Wtórny,Apartamentowiec,1 pokój,Szczecin, Gumieńce
+469000.0,61.0,2,Wtórny,Kamienica,2 pokoje,Szczecin, Pogodno
+560000.0,56.2,3,Wtórny,Blok,3 pokoje,Szczecin, Słoneczne
+500000.0,85.0,Parter,Wtórny,Kamienica,2 pokoje,Szczecin, Centrum
+349000.0,46.5,2,Wtórny,Blok,2 pokoje,Szczecin, Dąbie
+498000.0,64.34,3,Wtórny,Blok,3 pokoje,Szczecin, Gumieńce
+350000.0,30.0,10,Wtórny,Blok,1 pokój,Szczecin, Centrum
+598000.0,58.0,3,Wtórny,Pozostałe,3 pokoje,Szczecin, Pogodno
+500000.0,47.0,3,Wtórny,Blok,3 pokoje,Szczecin, Niebuszewo
+699990.0,73.0,4,Pierwotny,Kamienica,2 pokoje,Szczecin, Centrum
+797000.0,62.87,2,Wtórny,Apartamentowiec,3 pokoje,Szczecin, Gumieńce
+340000.0,27.0,10,Wtórny,Blok,1 pokój,Szczecin, Centrum
+290000.0,38.5,2,Wtórny,Blok,1 pokój,Szczecin, Świerczewo
+399000.0,30.0,4,Wtórny,Blok,1 pokój,Szczecin, Pogodno
+420000.0,48.0,Parter,Wtórny,Blok,2 pokoje,Szczecin, Niebuszewo
+450000.0,59.4,4,Wtórny,Blok,3 pokoje,Szczecin, Świerczewo
+500000.0,47.0,9,Wtórny,Blok,3 pokoje,Szczecin, Niebuszewo
+650000.0,62.0,3,Wtórny,Blok,3 pokoje,Szczecin, Niebuszewo
+455000.0,45.0,2,Wtórny,Blok,2 pokoje,Szczecin, Centrum
+350000.0,37.0,9,Wtórny,Blok,1 pokój,Szczecin, Centrum
+430000.0,48.25,Parter,Wtórny,Blok,3 pokoje,Bydgoszcz,
+519000.0,56.0,2,Wtórny,Blok,4 i więcej,Bydgoszcz,
+359000.0,49.83,2,Wtórny,Kamienica,2 pokoje,Bydgoszcz,
+479000.0,48.0,3,Wtórny,Kamienica,2 pokoje,Bydgoszcz,
+825000.0,75.0,Parter,Pierwotny,Blok,3 pokoje,Bydgoszcz,
+650000.0,48.1,9,Pierwotny,Blok,2 pokoje,Bydgoszcz,
+238000.0,26.71,3,Wtórny,Blok,1 pokój,Bydgoszcz,
+575000.0,65.0,2,Wtórny,Blok,4 i więcej,Bydgoszcz,
+315000.0,48.0,2,Wtórny,Blok,2 pokoje,Bydgoszcz,
+260000.0,25.0,2,Wtórny,Blok,1 pokój,Bydgoszcz,
+850000.0,70.0,Parter,Wtórny,Apartamentowiec,4 i więcej,Bydgoszcz,
+435000.0,64.74,2,Wtórny,Blok,3 pokoje,Bydgoszcz,
+379000.0,39.0,10,Wtórny,Blok,2 pokoje,Bydgoszcz,
+343000.0,39.39,2,Pierwotny,Blok,2 pokoje,Bydgoszcz,
+440000.0,45.5,2,Wtórny,Blok,3 pokoje,Bydgoszcz,
+299000.0,35.8,Parter,Wtórny,Pozostałe,2 pokoje,Bydgoszcz,
+499000.0,53.0,Parter,Wtórny,Blok,3 pokoje,Bydgoszcz,
+329000.0,31.5,2,Wtórny,Blok,2 pokoje,Bydgoszcz,
+699000.0,64.55,3,Wtórny,Blok,2 pokoje,Bydgoszcz,
+520000.0,72.87,4,Wtórny,Blok,4 i więcej,Bydgoszcz,
+499000.0,69.7,3,Wtórny,Blok,4 i więcej,Bydgoszcz,
+365000.0,53.0,4,Wtórny,Blok,3 pokoje,Bydgoszcz,
+519000.0,56.0,5,Wtórny,Blok,3 pokoje,Bydgoszcz,
+345000.0,51.2,2,Wtórny,Blok,2 pokoje,Bydgoszcz,
+409000.0,56.0,3,Wtórny,Blok,3 pokoje,Bydgoszcz,
+500000.0,67.0,2,Wtórny,Blok,3 pokoje,Bydgoszcz,
+399000.0,29.0,1,Wtórny,Blok,2 pokoje,Bydgoszcz,
+257000.0,33.0,5,Wtórny,Blok,1 pokój,Bydgoszcz,
+279000.0,47.0,Parter,Wtórny,Kamienica,2 pokoje,Bydgoszcz,
+286000.0,39.0,2,Wtórny,Kamienica,2 pokoje,Bydgoszcz,
+423000.0,61.5,2,Wtórny,Blok,3 pokoje,Bydgoszcz,
+329000.0,37.0,Parter,Wtórny,Blok,1 pokój,Bydgoszcz,
+220000.0,28.0,2,Wtórny,Blok,1 pokój,Bydgoszcz,
+399000.0,55.4,Powyżej 10,Wtórny,Blok,3 pokoje,Bydgoszcz,
+220000.0,30.0,Parter,Wtórny,Kamienica,1 pokój,Bydgoszcz,
+330000.0,56.3,3,Wtórny,Blok,3 pokoje,Bydgoszcz,
+418500.0,50.0,1,Pierwotny,Blok,2 pokoje,Bydgoszcz,
+335000.0,46.9,Parter,Wtórny,Blok,3 pokoje,Bydgoszcz,
+399000.0,69.0,3,Wtórny,Blok,3 pokoje,Bydgoszcz,
+345000.0,52.0,2,Wtórny,Blok,2 pokoje,Bydgoszcz,
+597000.0,94.06,1,Wtórny,Kamienica,4 i więcej,Bydgoszcz,
+359900.0,40.0,3,Wtórny,Blok,1 pokój,Bydgoszcz,
+339000.0,34.0,3,Wtórny,Blok,2 pokoje,Bydgoszcz,
+449000.0,41.21,1,Pierwotny,Apartamentowiec,2 pokoje,Bydgoszcz,
+915000.0,71.0,2,Wtórny,Apartamentowiec,3 pokoje,Bydgoszcz,
+319000.0,50.5,Parter,Wtórny,Blok,2 pokoje,Bydgoszcz,
+528000.0,71.0,1,Wtórny,Pozostałe,3 pokoje,Bydgoszcz,
+239000.0,26.0,3,Wtórny,Blok,1 pokój,Bydgoszcz,
+309000.0,51.0,3,Wtórny,Blok,2 pokoje,Bydgoszcz,
+510000.0,72.9,4,Wtórny,Blok,4 i więcej,Bydgoszcz,
+295000.0,45.0,4,Wtórny,Blok,3 pokoje,Bydgoszcz,
+865000.0,83.0,5,Wtórny,Apartamentowiec,3 pokoje,Bydgoszcz,
+450000.0,69.4,1,Wtórny,Blok,4 i więcej,Bydgoszcz,
+400000.0,57.0,3,Wtórny,Blok,3 pokoje,Bydgoszcz,
+416000.0,42.0,1,Wtórny,Blok,2 pokoje,Bydgoszcz,
+565000.0,84.0,2,Wtórny,Blok,4 i więcej,Bydgoszcz,
+535000.0,59.0,1,Wtórny,Blok,3 pokoje,Bydgoszcz,
+200000.0,19.9,Parter,Wtórny,Blok,1 pokój,Bydgoszcz,
+245000.0,50.0,3,Wtórny,Kamienica,2 pokoje,Bydgoszcz,
+380000.0,42.42,3,Wtórny,Blok,2 pokoje,Bydgoszcz,
+457000.0,73.0,3,Wtórny,Kamienica,4 i więcej,Bydgoszcz,
+190000.0,59.41,Suterena,Wtórny,Pozostałe,2 pokoje,Bydgoszcz,
+830000.0,90.5,2,Wtórny,Blok,4 i więcej,Bydgoszcz,
+265000.0,34.0,3,Wtórny,Blok,1 pokój,Bydgoszcz,
+1350000.0,250.0,Parter,Wtórny,Kamienica,4 i więcej,Bydgoszcz,
+174000.0,26.0,1,Wtórny,Kamienica,1 pokój,Bydgoszcz,
+399999.0,55.0,8,Wtórny,Blok,3 pokoje,Bydgoszcz,
+600000.0,70.9,3,Wtórny,Blok,3 pokoje,Bydgoszcz,
+279000.0,29.0,6,Pierwotny,Apartamentowiec,2 pokoje,Bydgoszcz,
+659000.0,75.0,1,Wtórny,Blok,4 i więcej,Bydgoszcz,
+335000.0,48.3,3,Wtórny,Blok,2 pokoje,Bydgoszcz,
+430000.0,64.97,2,Wtórny,Blok,3 pokoje,Bydgoszcz,
+305000.0,47.26,3,Wtórny,Blok,2 pokoje,Bydgoszcz,
+635000.0,55.0,3,Pierwotny,Apartamentowiec,3 pokoje,Bydgoszcz,
+420000.0,57.0,10,Pierwotny,Blok,3 pokoje,Bydgoszcz,
+300000.0,42.4,4,Wtórny,Blok,2 pokoje,Bydgoszcz,
+325000.0,56.9,Parter,Wtórny,Blok,3 pokoje,Bydgoszcz,
+199900.0,25.0,2,Wtórny,Kamienica,1 pokój,Bydgoszcz,
+490000.0,63.0,3,Wtórny,Blok,3 pokoje,Bydgoszcz,
+499000.0,47.0,1,Wtórny,Blok,2 pokoje,Bydgoszcz,
+319000.0,42.42,Parter,Wtórny,Blok,2 pokoje,Bydgoszcz,
+260000.0,35.0,3,Wtórny,Blok,1 pokój,Bydgoszcz,
+319000.0,35.5,1,Wtórny,Blok,2 pokoje,Bydgoszcz,
+350000.0,33.0,1,Wtórny,Apartamentowiec,2 pokoje,Bydgoszcz,
+413100.0,50.0,Parter,Wtórny,Blok,2 pokoje,Bydgoszcz,
+305000.0,47.11,3,Wtórny,Blok,2 pokoje,Bydgoszcz,
+599000.0,56.51,2,Wtórny,Blok,3 pokoje,Bydgoszcz,
+298000.0,46.6,4,Wtórny,Blok,3 pokoje,Bydgoszcz,
+519000.0,53.0,4,Wtórny,Blok,2 pokoje,Bydgoszcz,
+420000.0,58.0,3,Wtórny,Blok,3 pokoje,Bydgoszcz,
+528000.0,72.57,Parter,Wtórny,Kamienica,3 pokoje,Bydgoszcz,
+290000.0,47.53,Parter,Wtórny,Kamienica,2 pokoje,Bydgoszcz,
+385000.0,37.0,1,Wtórny,Blok,2 pokoje,Bydgoszcz,
+398000.0,43.0,Parter,Wtórny,Blok,2 pokoje,Bydgoszcz,
+432000.0,56.0,5,Wtórny,Blok,3 pokoje,Bydgoszcz,
+379000.0,53.0,1,Wtórny,Blok,3 pokoje,Bydgoszcz,
+290000.0,35.14,Parter,Wtórny,Blok,2 pokoje,Bydgoszcz,
+349000.0,34.0,4,Pierwotny,Blok,2 pokoje,Bydgoszcz,
+429000.0,48.0,4,Wtórny,Blok,3 pokoje,Bydgoszcz,
+279000.0,34.0,4,Wtórny,Blok,2 pokoje,Bydgoszcz,
+505000.0,62.47,Parter,Pierwotny,Blok,3 pokoje,Bydgoszcz,
+359000.0,44.0,3,Wtórny,Kamienica,2 pokoje,Bydgoszcz,
+610000.0,61.11,Parter,Wtórny,Apartamentowiec,3 pokoje,Bydgoszcz,
+412000.0,46.01,Parter,Wtórny,Kamienica,2 pokoje,Bydgoszcz,
+385000.0,52.4,2,Wtórny,Blok,2 pokoje,Bydgoszcz,
+273000.0,38.09,7,Wtórny,Blok,2 pokoje,Bydgoszcz,
+360000.0,52.0,1,Wtórny,Pozostałe,2 pokoje,Bydgoszcz,
+340000.0,32.0,3,Wtórny,Blok,1 pokój,Bydgoszcz,
+284900.0,35.3,4,Wtórny,Blok,2 pokoje,Bydgoszcz,
+305000.0,40.56,Parter,Wtórny,Blok,2 pokoje,Bydgoszcz,
+356500.0,45.0,5,Wtórny,Blok,3 pokoje,Bydgoszcz,
+489000.0,60.0,2,Wtórny,Blok,3 pokoje,Bydgoszcz,
+645000.0,68.5,3,Wtórny,Pozostałe,3 pokoje,Bydgoszcz,
+694230.0,69.43,3,Pierwotny,Apartamentowiec,4 i więcej,Bydgoszcz,
+1592920.0,107.89,Powyżej 10,Pierwotny,Apartamentowiec,4 i więcej,Bydgoszcz,
+734551.0,67.39,4,Pierwotny,Apartamentowiec,4 i więcej,Bydgoszcz,
+60000.0,12.0,Suterena,Wtórny,Kamienica,1 pokój,Bydgoszcz,
+100000.0,22.0,Suterena,Wtórny,Kamienica,1 pokój,Bydgoszcz,
+800000.0,82.81,3,Wtórny,Blok,3 pokoje,Bydgoszcz,
+199000.0,25.0,Parter,Wtórny,Pozostałe,1 pokój,Bydgoszcz,
+439000.0,60.8,Parter,Wtórny,Blok,3 pokoje,Bydgoszcz,
+388000.0,37.0,2,Wtórny,Blok,2 pokoje,Bydgoszcz,
+450000.0,56.0,7,Wtórny,Blok,3 pokoje,Bydgoszcz,
+429300.0,57.21,1,Wtórny,Kamienica,2 pokoje,Bydgoszcz,
+267540.0,44.59,Poddasze,Wtórny,Kamienica,2 pokoje,Bydgoszcz,
+320000.0,37.2,3,Wtórny,Blok,2 pokoje,Bydgoszcz,
+795000.0,80.0,Parter,Wtórny,Apartamentowiec,4 i więcej,Bydgoszcz,
+349000.0,42.5,2,Wtórny,Kamienica,2 pokoje,Bydgoszcz,
+221000.0,25.0,Parter,Wtórny,Kamienica,1 pokój,Bydgoszcz,
+520000.0,47.25,2,Wtórny,Blok,2 pokoje,Bydgoszcz,
+205000.0,25.0,Parter,Wtórny,Pozostałe,1 pokój,Bydgoszcz,
+185000.0,20.0,Parter,Wtórny,Kamienica,1 pokój,Bydgoszcz,
+460000.0,50.0,3,Wtórny,Blok,2 pokoje,Bydgoszcz,
+315000.0,51.0,1,Pierwotny,Kamienica,2 pokoje,Bydgoszcz,
+255000.0,35.0,4,Wtórny,Blok,2 pokoje,Bydgoszcz,
+550000.0,100.25,2,Wtórny,Kamienica,3 pokoje,Bydgoszcz,
+439000.0,62.5,Parter,Wtórny,Blok,3 pokoje,Bydgoszcz,
+275000.0,44.82,Parter,Wtórny,Blok,2 pokoje,Bydgoszcz,
+300000.0,42.0,3,Wtórny,Blok,2 pokoje,Bydgoszcz,
+299000.0,38.0,4,Wtórny,Blok,2 pokoje,Bydgoszcz,
+449000.0,59.0,Powyżej 10,Wtórny,Blok,3 pokoje,Bydgoszcz,
+485000.0,58.0,3,Wtórny,Blok,3 pokoje,Bydgoszcz,
+370000.0,42.4,5,Wtórny,Blok,2 pokoje,Bydgoszcz,
+180000.0,43.0,Suterena,Wtórny,Kamienica,2 pokoje,Bydgoszcz,
+312000.0,42.0,2,Wtórny,Blok,2 pokoje,Bydgoszcz,
+450000.0,74.0,3,Wtórny,Blok,4 i więcej,Bydgoszcz,
+649000.0,55.91,6,Pierwotny,Apartamentowiec,3 pokoje,Bydgoszcz,
+620000.0,55.49,Parter,Pierwotny,Blok,3 pokoje,Bydgoszcz,
+399000.0,46.5,2,Wtórny,Blok,2 pokoje,Bydgoszcz,
+390000.0,48.0,1,Wtórny,Blok,3 pokoje,Bydgoszcz,
+289000.0,50.0,1,Wtórny,Blok,2 pokoje,Bydgoszcz,
+449000.0,42.0,3,Wtórny,Blok,2 pokoje,Bydgoszcz,
+460000.0,46.0,4,Wtórny,Blok,2 pokoje,Bydgoszcz,
+505000.0,39.02,3,Wtórny,Blok,2 pokoje,Bydgoszcz,
+180000.0,23.0,Parter,Wtórny,Kamienica,1 pokój,Bydgoszcz,
+289000.0,47.1,2,Wtórny,Blok,3 pokoje,Bydgoszcz,
+325000.0,37.2,9,Wtórny,Blok,2 pokoje,Bydgoszcz,
+299000.0,45.0,2,Wtórny,Pozostałe,2 pokoje,Bydgoszcz,
+485000.0,66.6,Parter,Wtórny,Blok,3 pokoje,Bydgoszcz,
+799448.0,76.87,2,Pierwotny,Blok,4 i więcej,Bydgoszcz,
+664277.0,65.77,Parter,Pierwotny,Blok,4 i więcej,Bydgoszcz,
+703698.0,68.99,2,Pierwotny,Blok,4 i więcej,Bydgoszcz,
+370000.0,42.2,Parter,Wtórny,Blok,2 pokoje,Bydgoszcz,
+390000.0,63.36,Parter,Wtórny,Blok,3 pokoje,Bydgoszcz,
+560000.0,83.0,2,Wtórny,Kamienica,3 pokoje,Bydgoszcz,
+1080000.0,117.0,2,Wtórny,Blok,4 i więcej,Bydgoszcz,
+510000.0,61.0,7,Wtórny,Blok,3 pokoje,Białystok, Sienkiewicza
+600000.0,48.28,1,Wtórny,Blok,2 pokoje,Białystok, Piasta I
+749000.0,60.8,2,Wtórny,Blok,3 pokoje,Białystok, Wygoda
+440000.0,50.0,3,Wtórny,Blok,2 pokoje,Białystok, Centrum
+620000.0,64.7,3,Wtórny,Blok,3 pokoje,Białystok, Kawaleryjskie
+420000.0,40.2,6,Wtórny,Blok,2 pokoje,Białystok, Nowe Miasto
+519000.0,52.0,3,Wtórny,Blok,3 pokoje,Białystok, Centrum
+765000.0,68.0,6,Wtórny,Blok,3 pokoje,Białystok, Wysoki Stoczek
+560000.0,60.2,3,Wtórny,Blok,3 pokoje,Białystok, Sienkiewicza
+1500000.0,110.1,1,Wtórny,Blok,3 pokoje,Białystok, Bema
+450000.0,37.0,2,Wtórny,Blok,2 pokoje,Białystok, Białostoczek
+749000.0,60.0,1,Pierwotny,Blok,3 pokoje,Białystok, Białostoczek
+579000.0,56.2,1,Wtórny,Blok,3 pokoje,Białystok, Piaski
+740000.0,73.0,10,Wtórny,Blok,3 pokoje,Białystok, Centrum
+524000.0,49.0,Parter,Wtórny,Blok,3 pokoje,Białystok, Nowe Miasto
+819000.0,65.0,5,Wtórny,Blok,2 pokoje,Białystok, Centrum
+699000.0,46.0,1,Wtórny,Kamienica,2 pokoje,Białystok, Centrum
+489900.0,44.0,Parter,Wtórny,Blok,3 pokoje,Białystok, Piaski
+480000.0,60.0,1,Wtórny,Blok,3 pokoje,Białystok, Wysoki Stoczek
+580000.0,60.0,3,Wtórny,Blok,4 i więcej,Białystok, Słoneczny Stok
+370000.0,35.0,4,Wtórny,Blok,2 pokoje,Białystok, Centrum
+485000.0,38.0,5,Wtórny,Apartamentowiec,2 pokoje,Białystok, Sienkiewicza
+527900.0,48.2,1,Pierwotny,Apartamentowiec,2 pokoje,Białystok, Skorupy
+759000.0,66.37,3,Wtórny,Apartamentowiec,4 i więcej,Białystok, Bojary
+454000.0,39.0,3,Wtórny,Blok,3 pokoje,Białystok, Piasta II
+447900.0,39.0,3,Wtórny,Blok,3 pokoje,Białystok, Piasta II
+585000.0,46.0,2,Wtórny,Blok,2 pokoje,Białystok, Wygoda
+2800000.0,252.2,7,Wtórny,Blok,4 i więcej,Białystok, Bema
+399000.0,43.1,2,Wtórny,Blok,2 pokoje,Białystok, Mickiewicza
+510000.0,60.0,4,Wtórny,Blok,3 pokoje,Białystok, Sienkiewicza
+409000.0,47.5,4,Wtórny,Blok,2 pokoje,Białystok, Mickiewicza
+609000.0,52.05,7,Wtórny,Apartamentowiec,3 pokoje,Białystok, Nowe Miasto
+424900.0,40.0,3,Wtórny,Blok,2 pokoje,Białystok, Bojary
+660000.0,33.36,6,Wtórny,Apartamentowiec,2 pokoje,Białystok, Centrum
+599000.0,48.1,1,Wtórny,Blok,2 pokoje,Białystok, Centrum
+600000.0,50.6,1,Wtórny,Blok,3 pokoje,Białystok, Nowe Miasto
+345000.0,32.1,8,Wtórny,Blok,1 pokój,Białystok, Centrum
+649000.0,69.9,4,Wtórny,Blok,3 pokoje,Białystok, Centrum
+655000.0,59.43,1,Wtórny,Blok,3 pokoje,Białystok, Wygoda
+320000.0,33.0,2,Wtórny,Pozostałe,2 pokoje,Białystok, Bema
+570000.0,45.6,2,Wtórny,Blok,2 pokoje,Białystok, Białostoczek
+579000.0,61.3,1,Pierwotny,Blok,3 pokoje,Białystok, Centrum
+399000.0,36.3,3,Wtórny,Blok,2 pokoje,Białystok, Centrum
+335000.0,36.0,3,Wtórny,Blok,2 pokoje,Białystok, Młodych
+475000.0,35.0,Parter,Wtórny,Kamienica,1 pokój,Białystok, Centrum
+485000.0,54.0,2,Wtórny,Blok,2 pokoje,Białystok, Antoniuk
+478000.0,44.3,3,Wtórny,Blok,2 pokoje,Białystok, Wygoda
+285000.0,30.6,2,Wtórny,Blok,1 pokój,Białystok, Centrum
+625000.0,61.3,3,Wtórny,Blok,3 pokoje,Białystok, Kawaleryjskie
+529750.0,40.0,9,Wtórny,Blok,3 pokoje,Białystok, Sienkiewicza
+398000.0,31.7,Parter,Wtórny,Pozostałe,2 pokoje,Białystok, Zawady
+354000.0,33.0,1,Wtórny,Blok,2 pokoje,Białystok, Piasta I
+360000.0,37.0,4,Wtórny,Blok,2 pokoje,Białystok, Centrum
+545000.0,60.0,8,Wtórny,Blok,4 i więcej,Białystok, Bema
+459000.0,48.0,3,Wtórny,Blok,3 pokoje,Białystok, Piasta I
+435360.0,36.28,Parter,Wtórny,Apartamentowiec,2 pokoje,Białystok, Bojary
+610000.0,61.6,4,Wtórny,Blok,3 pokoje,Białystok, Sienkiewicza
+710000.0,56.31,4,Wtórny,Blok,3 pokoje,Białystok, Bojary
+299000.0,32.0,Parter,Wtórny,Blok,2 pokoje,Białystok, Przydworcowe
+480000.0,57.0,2,Wtórny,Blok,3 pokoje,Białystok, Nowe Miasto
+560000.0,49.0,2,Wtórny,Blok,3 pokoje,Białystok, Wygoda
+366000.0,29.5,4,Wtórny,Blok,2 pokoje,Białystok, Piaski
+850000.0,67.7,4,Wtórny,Blok,3 pokoje,Białystok, Sienkiewicza
+410000.0,39.0,5,Wtórny,Blok,2 pokoje,Białystok, Antoniuk
+550000.0,49.03,2,Wtórny,Blok,3 pokoje,Białystok, Wygoda
+1990000.0,1.0,Parter,Wtórny,Pozostałe,4 i więcej,Białystok, Jaroszówka
+390000.0,39.0,4,Wtórny,Blok,1 pokój,Białystok, Centrum
+960000.0,80.0,5,Wtórny,Apartamentowiec,3 pokoje,Białystok, Nowe Miasto
+849000.0,71.0,Parter,Wtórny,Blok,4 i więcej,Białystok, Nowe Miasto
+449000.0,52.4,4,Wtórny,Blok,2 pokoje,Białystok, Leśna Dolina
+729000.0,59.35,2,Wtórny,Blok,3 pokoje,Białystok, Bojary
+380000.0,35.58,3,Wtórny,Blok,1 pokój,Białystok, Centrum
+369000.0,34.0,2,Wtórny,Kamienica,1 pokój,Białystok, Centrum
+455000.0,47.7,3,Wtórny,Blok,2 pokoje,Białystok, Dziesięciny II
+370000.0,36.3,3,Wtórny,Blok,2 pokoje,Białystok, Antoniuk
+570000.0,63.94,4,Wtórny,Blok,4 i więcej,Białystok, Bojary
+530000.0,42.5,4,Wtórny,Blok,1 pokój,Białystok, Nowe Miasto
+347000.0,42.0,Parter,Wtórny,Blok,2 pokoje,Białystok, Antoniuk
+518500.0,61.0,Parter,Wtórny,Blok,3 pokoje,Białystok, Centrum
+399000.0,47.0,Parter,Wtórny,Blok,2 pokoje,Białystok, Centrum
+486000.0,54.1,1,Wtórny,Blok,3 pokoje,Białystok, Antoniuk
+330000.0,36.4,6,Wtórny,Blok,2 pokoje,Białystok, Przydworcowe
+639000.0,80.2,4,Wtórny,Blok,3 pokoje,Białystok, Dziesięciny I
+420000.0,49.0,1,Wtórny,Blok,3 pokoje,Białystok, Jaroszówka
+820000.0,110.0,1,Wtórny,Pozostałe,4 i więcej,Białystok, Dziesięciny I
+449000.0,60.6,Parter,Pierwotny,Pozostałe,3 pokoje,Białystok, Bacieczki
+420000.0,43.51,1,Pierwotny,Apartamentowiec,2 pokoje,Białystok, Białostoczek
+327000.0,24.0,1,Wtórny,Blok,1 pokój,Białystok, Centrum
+449000.0,60.0,4,Wtórny,Blok,3 pokoje,Białystok, Wysoki Stoczek
+499000.0,48.69,3,Wtórny,Blok,2 pokoje,Białystok, Leśna Dolina
+420000.0,35.6,4,Wtórny,Blok,2 pokoje,Białystok, Piaski
+580000.0,52.0,4,Wtórny,Blok,3 pokoje,Białystok, Piaski
+569000.0,45.0,Parter,Wtórny,Blok,2 pokoje,Białystok, Wygoda
+450000.0,60.45,4,Wtórny,Blok,3 pokoje,Białystok, Dziesięciny II
+550000.0,42.73,3,Wtórny,Blok,2 pokoje,Białystok, Bema
+540000.0,63.0,2,Wtórny,Blok,3 pokoje,Białystok, Leśna Dolina
+409000.0,32.2,Parter,Wtórny,Blok,2 pokoje,Białystok, Zielone Wzgórza
+480000.0,54.5,1,Wtórny,Blok,2 pokoje,Białystok, Centrum
+519000.0,48.4,4,Wtórny,Blok,3 pokoje,Białystok, Białostoczek
+620000.0,38.0,4,Wtórny,Apartamentowiec,2 pokoje,Białystok, Centrum
+510000.0,48.2,2,Wtórny,Blok,2 pokoje,Białystok, Bacieczki
+490000.0,56.0,2,Wtórny,Blok,3 pokoje,Białystok, Nowe Miasto
+350000.0,36.0,7,Wtórny,Blok,2 pokoje,Białystok, Antoniuk
+390000.0,34.4,5,Wtórny,Blok,2 pokoje,Białystok, Centrum
+485000.0,44.0,4,Wtórny,Blok,2 pokoje,Białystok, Centrum
+700000.0,65.94,1,Wtórny,Blok,3 pokoje,Białystok, Antoniuk
+530000.0,51.2,4,Wtórny,Blok,2 pokoje,Białystok, Centrum
+649000.0,56.0,1,Wtórny,Blok,3 pokoje,Białystok, Bojary
+799000.0,70.0,1,Wtórny,Kamienica,4 i więcej,Białystok, Centrum
+360000.0,46.0,2,Wtórny,Blok,2 pokoje,Białystok, Bacieczki
+408000.0,47.9,1,Wtórny,Blok,3 pokoje,Białystok, Bema
+340000.0,46.14,Poddasze,Wtórny,Blok,2 pokoje,Białystok, Centrum
+306000.0,25.0,7,Wtórny,Blok,1 pokój,Białystok, Centrum
+569000.0,51.7,4,Wtórny,Blok,3 pokoje,Białystok, Leśna Dolina
+560000.0,45.0,7,Wtórny,Blok,2 pokoje,Białystok, Nowe Miasto
+450000.0,47.1,8,Wtórny,Blok,2 pokoje,Białystok, Dziesięciny II
+529900.0,54.0,1,Wtórny,Blok,3 pokoje,Białystok, Dziesięciny I
+530000.0,56.0,2,Wtórny,Blok,3 pokoje,Białystok, Nowe Miasto
+530000.0,57.0,2,Wtórny,Blok,3 pokoje,Białystok, Przydworcowe
+999000.0,84.0,4,Wtórny,Apartamentowiec,4 i więcej,Białystok, Centrum
+399000.0,36.6,2,Wtórny,Kamienica,1 pokój,Białystok, Centrum
+485000.0,48.0,2,Wtórny,Blok,2 pokoje,Białystok, Słoneczny Stok
+498000.0,55.3,3,Wtórny,Blok,3 pokoje,Białystok, Bojary
+430000.0,46.0,1,Wtórny,Blok,2 pokoje,Białystok, Skorupy
+515000.0,61.0,Parter,Wtórny,Blok,3 pokoje,Białystok, Dziesięciny I
+859000.0,60.05,7,Wtórny,Apartamentowiec,3 pokoje,Białystok, Centrum
+439000.0,50.05,1,Wtórny,Blok,2 pokoje,Białystok, Centrum
+433000.0,42.0,2,Wtórny,Kamienica,1 pokój,Białystok, Centrum
+550000.0,60.0,8,Wtórny,Blok,3 pokoje,Białystok, Dziesięciny II
+549000.0,48.3,8,Wtórny,Blok,3 pokoje,Białystok, Centrum
+699997.0,64.56,1,Pierwotny,Blok,3 pokoje,Białystok, Centrum
+870000.0,65.0,5,Wtórny,Apartamentowiec,3 pokoje,Białystok, Nowe Miasto
+400000.0,42.44,4,Wtórny,Blok,2 pokoje,Białystok, Nowe Miasto
+325000.0,27.0,3,Wtórny,Blok,1 pokój,Białystok, Antoniuk
+284000.0,24.4,Powyżej 10,Wtórny,Blok,1 pokój,Białystok, Piasta I
+491900.0,52.3,3,Wtórny,Blok,3 pokoje,Białystok, Leśna Dolina
+530000.0,52.0,Parter,Wtórny,Blok,3 pokoje,Białystok, Słoneczny Stok
+1050000.0,57.0,5,Pierwotny,Apartamentowiec,2 pokoje,Białystok, Centrum
+420000.0,48.6,2,Wtórny,Blok,2 pokoje,Białystok, Białostoczek
+310000.0,28.5,4,Wtórny,Blok,1 pokój,Białystok, Nowe Miasto
+770000.0,58.0,1,Wtórny,Blok,4 i więcej,Białystok, Bojary
+319000.0,38.0,1,Wtórny,Blok,2 pokoje,Białystok, Antoniuk
+419000.0,39.0,2,Wtórny,Blok,2 pokoje,Białystok, Słoneczny Stok
+415000.0,37.0,4,Wtórny,Blok,2 pokoje,Białystok, Centrum
+450000.0,37.9,5,Wtórny,Blok,2 pokoje,Katowice, Osiedle Tysiąclecia
+500000.0,50.0,1,Wtórny,Blok,2 pokoje,Katowice, Ligota-Panewniki
+375000.0,30.0,1,Pierwotny,Kamienica,2 pokoje,Katowice, Śródmieście
+309960.0,32.8,3,Wtórny,Kamienica,2 pokoje,Katowice, Śródmieście
+399000.0,42.0,4,Wtórny,Blok,3 pokoje,Katowice, Załęska Hałda-Brynów cz. Zach.
+340000.0,46.4,Parter,Wtórny,Blok,2 pokoje,Katowice, Kostuchna
+490000.0,82.45,10,Wtórny,Blok,4 i więcej,Katowice, Bogucice
+680000.0,45.85,1,Wtórny,Apartamentowiec,2 pokoje,Katowice, Osiedle Paderewskiego-Muchowiec
+309000.0,28.0,Parter,Wtórny,Blok,1 pokój,Katowice, Piotrowice-Ochojec
+440000.0,42.2,1,Wtórny,Blok,2 pokoje,Katowice, Dąb
+310000.0,38.0,9,Wtórny,Blok,2 pokoje,Katowice, Śródmieście
+435000.0,47.3,3,Wtórny,Blok,2 pokoje,Katowice, Śródmieście
+800000.0,78.9,10,Wtórny,Blok,4 i więcej,Katowice, Osiedle Paderewskiego-Muchowiec
+430000.0,48.0,Parter,Wtórny,Blok,2 pokoje,Katowice, Piotrowice-Ochojec
+349000.0,39.74,3,Wtórny,Blok,1 pokój,Katowice, Ligota-Panewniki
+40000.0,38.0,1,Wtórny,Kamienica,1 pokój,Katowice, Bogucice
+395000.0,53.0,3,Wtórny,Blok,2 pokoje,Katowice, Osiedle Tysiąclecia
+429000.0,56.0,4,Wtórny,Blok,3 pokoje,Katowice, Giszowiec
+249000.0,29.0,Parter,Wtórny,Kamienica,1 pokój,Katowice, Załęże
+360000.0,38.0,5,Wtórny,Blok,2 pokoje,Katowice, Śródmieście
+727000.0,77.2,Parter,Wtórny,Apartamentowiec,3 pokoje,Katowice, Śródmieście
+264000.0,42.78,2,Wtórny,Blok,2 pokoje,Katowice, Janów-Nikiszowiec
+410000.0,43.0,5,Wtórny,Blok,2 pokoje,Katowice, Osiedle Paderewskiego-Muchowiec
+285000.0,47.48,2,Wtórny,Blok,2 pokoje,Katowice, Giszowiec
+599000.0,73.0,4,Wtórny,Kamienica,3 pokoje,Katowice, Osiedle Paderewskiego-Muchowiec
+281000.0,35.14,Parter,Wtórny,Kamienica,2 pokoje,Katowice, Dąbrówka Mała
+695000.0,72.0,3,Wtórny,Blok,3 pokoje,Katowice, Wełnowiec-Józefowiec
+215000.0,30.6,4,Wtórny,Blok,1 pokój,Katowice, Murcki
+315000.0,39.0,2,Wtórny,Blok,2 pokoje,Katowice, Szopienice-Burowiec
+350000.0,48.11,3,Wtórny,Blok,2 pokoje,Katowice, Ligota-Panewniki
+630000.0,53.96,1,Wtórny,Kamienica,3 pokoje,Katowice, Janów-Nikiszowiec
+285000.0,34.0,3,Wtórny,Blok,1 pokój,Katowice, Wełnowiec-Józefowiec
+350000.0,53.29,8,Wtórny,Blok,3 pokoje,Katowice, Giszowiec
+485000.0,59.0,Powyżej 10,Wtórny,Blok,3 pokoje,Katowice, Osiedle Tysiąclecia
+340000.0,49.29,1,Wtórny,Blok,2 pokoje,Katowice, Ligota-Panewniki
+295000.0,34.11,3,Wtórny,Kamienica,2 pokoje,Katowice, Śródmieście
+390000.0,54.64,5,Wtórny,Blok,2 pokoje,Katowice, Ligota-Panewniki
+360000.0,63.6,2,Wtórny,Kamienica,2 pokoje,Katowice, Janów-Nikiszowiec
+489000.0,78.0,Parter,Wtórny,Blok,4 i więcej,Katowice, Podlesie
+1375000.0,76.21,6,Wtórny,Apartamentowiec,3 pokoje,Katowice, Bogucice
+790000.0,70.0,Parter,Wtórny,Apartamentowiec,3 pokoje,Katowice, Piotrowice-Ochojec
+480000.0,50.5,2,Wtórny,Blok,3 pokoje,Katowice, Piotrowice-Ochojec
+360000.0,50.3,2,Wtórny,Blok,2 pokoje,Katowice, Zawodzie
+420000.0,70.0,Parter,Wtórny,Kamienica,3 pokoje,Katowice, Janów-Nikiszowiec
+390000.0,52.3,6,Wtórny,Blok,3 pokoje,Katowice, Brynów-cz. Wsch.-Osiedle Zgrzebioka
+649000.0,60.0,Powyżej 10,Wtórny,Blok,3 pokoje,Katowice, Bogucice
+420000.0,52.2,7,Wtórny,Blok,3 pokoje,Katowice, Giszowiec
+399000.0,50.59,2,Wtórny,Blok,2 pokoje,Katowice, Piotrowice-Ochojec
+490000.0,26.0,Powyżej 10,Wtórny,Apartamentowiec,1 pokój,Katowice, Załęże
+399000.0,60.0,Parter,Wtórny,Blok,3 pokoje,Katowice, Koszutka
+146000.0,40.0,Parter,Wtórny,Kamienica,1 pokój,Katowice, Szopienice-Burowiec
+550000.0,43.0,Parter,Wtórny,Pozostałe,3 pokoje,Katowice, Zarzecze
+439000.0,53.0,1,Wtórny,Blok,2 pokoje,Katowice, Osiedle Tysiąclecia
+425000.0,42.7,2,Wtórny,Blok,3 pokoje,Katowice, Piotrowice-Ochojec
+320000.0,44.5,4,Wtórny,Blok,2 pokoje,Katowice, Wełnowiec-Józefowiec
+380550.0,50.74,3,Wtórny,Blok,2 pokoje,Katowice, Piotrowice-Ochojec
+360000.0,49.33,9,Wtórny,Blok,3 pokoje,Katowice, Szopienice-Burowiec
+290000.0,38.0,4,Wtórny,Blok,2 pokoje,Katowice, Wełnowiec-Józefowiec
+585000.0,45.45,3,Wtórny,Apartamentowiec,2 pokoje,Katowice, Osiedle Paderewskiego-Muchowiec
+300000.0,38.0,3,Wtórny,Blok,2 pokoje,Katowice, Śródmieście
+254760.0,25.4,2,Wtórny,Kamienica,1 pokój,Katowice, Śródmieście
+385000.0,43.0,7,Wtórny,Blok,2 pokoje,Katowice, Śródmieście
+299000.0,45.0,2,Wtórny,Kamienica,3 pokoje,Katowice, Zawodzie
+443000.0,49.26,3,Wtórny,Blok,2 pokoje,Katowice, Piotrowice-Ochojec
+425000.0,51.3,10,Wtórny,Blok,2 pokoje,Katowice, Zawodzie
+839000.0,72.1,2,Wtórny,Apartamentowiec,3 pokoje,Katowice, Piotrowice-Ochojec
+349000.0,42.0,3,Pierwotny,Blok,2 pokoje,Katowice, Dąbrówka Mała
+239000.0,25.5,3,Wtórny,Blok,1 pokój,Katowice, Bogucice
+575000.0,71.4,Parter,Wtórny,Blok,3 pokoje,Katowice, Ligota-Panewniki
+205000.0,23.0,3,Wtórny,Blok,1 pokój,Katowice, Dąb
+390000.0,47.2,4,Wtórny,Kamienica,2 pokoje,Katowice, Śródmieście
+300000.0,40.65,4,Wtórny,Kamienica,1 pokój,Katowice, Śródmieście
+350000.0,48.0,4,Wtórny,Blok,3 pokoje,Katowice, Wełnowiec-Józefowiec
+349000.0,35.0,2,Wtórny,Kamienica,2 pokoje,Katowice, Śródmieście
+360000.0,45.0,2,Pierwotny,Blok,2 pokoje,Katowice, Bogucice
+320000.0,53.44,3,Wtórny,Blok,3 pokoje,Katowice, Janów-Nikiszowiec
+380000.0,49.0,1,Wtórny,Blok,2 pokoje,Katowice, Koszutka
+230000.0,48.0,4,Wtórny,Blok,2 pokoje,Katowice, Janów-Nikiszowiec
+528000.0,40.0,5,Wtórny,Blok,2 pokoje,Katowice, Wełnowiec-Józefowiec
+410000.0,35.0,Parter,Pierwotny,Blok,1 pokój,Katowice, Ligota-Panewniki
+440000.0,46.0,Powyżej 10,Wtórny,Blok,2 pokoje,Katowice, Śródmieście
+839000.0,123.0,1,Wtórny,Kamienica,3 pokoje,Katowice, Śródmieście
+608000.0,60.8,Parter,Wtórny,Kamienica,2 pokoje,Katowice, Janów-Nikiszowiec
+407000.0,45.0,8,Wtórny,Blok,2 pokoje,Katowice, Osiedle Paderewskiego-Muchowiec
+525000.0,66.5,8,Wtórny,Blok,3 pokoje,Katowice, Zawodzie
+990000.0,148.67,2,Wtórny,Kamienica,4 i więcej,Katowice, Śródmieście
+582000.0,50.68,4,Wtórny,Blok,2 pokoje,Katowice, Dąb
+558000.0,62.0,2,Wtórny,Blok,3 pokoje,Katowice, Piotrowice-Ochojec
+479000.0,62.8,Powyżej 10,Wtórny,Blok,3 pokoje,Katowice, Wełnowiec-Józefowiec
+250000.0,30.0,2,Wtórny,Blok,2 pokoje,Katowice, Kostuchna
+514000.0,42.23,1,Wtórny,Apartamentowiec,2 pokoje,Katowice, Brynów-cz. Wsch.-Osiedle Zgrzebioka
+450000.0,64.0,4,Wtórny,Blok,3 pokoje,Katowice, Ligota-Panewniki
+439000.0,58.3,4,Wtórny,Kamienica,3 pokoje,Katowice, Śródmieście
+359000.0,27.0,5,Wtórny,Apartamentowiec,1 pokój,Katowice, Osiedle Paderewskiego-Muchowiec
+405000.0,46.5,4,Wtórny,Blok,2 pokoje,Katowice, Koszutka
+449000.0,61.0,Parter,Wtórny,Blok,3 pokoje,Katowice, Osiedle Witosa
+459000.0,55.0,6,Wtórny,Blok,3 pokoje,Katowice, Ligota-Panewniki
+590000.0,122.62,1,Wtórny,Kamienica,4 i więcej,Katowice, Kostuchna
+390000.0,55.0,1,Wtórny,Blok,3 pokoje,Katowice, Załęska Hałda-Brynów cz. Zach.
+323000.0,40.5,1,Wtórny,Blok,2 pokoje,Katowice, Bogucice
+379000.0,44.4,8,Wtórny,Blok,3 pokoje,Katowice, Osiedle Tysiąclecia
+465000.0,50.04,1,Wtórny,Blok,2 pokoje,Katowice, Ligota-Panewniki
+430000.0,73.0,1,Wtórny,Kamienica,3 pokoje,Katowice, Załęże
+840000.0,67.58,1,Wtórny,Apartamentowiec,3 pokoje,Katowice, Dąb
+315000.0,38.0,2,Wtórny,Apartamentowiec,1 pokój,Katowice, Ligota-Panewniki
+387000.0,54.0,4,Wtórny,Blok,3 pokoje,Katowice, Piotrowice-Ochojec
+219000.0,33.0,2,Wtórny,Kamienica,2 pokoje,Katowice, Dąbrówka Mała
+385000.0,51.0,2,Wtórny,Blok,2 pokoje,Katowice, Piotrowice-Ochojec
+438000.0,90.0,3,Wtórny,Pozostałe,2 pokoje,Katowice, Murcki
+1125000.0,113.0,2,Wtórny,Kamienica,4 i więcej,Katowice, Śródmieście
+399999.0,40.0,1,Wtórny,Kamienica,4 i więcej,Katowice, Śródmieście
+459000.0,62.5,2,Wtórny,Kamienica,2 pokoje,Katowice, Janów-Nikiszowiec
+490000.0,48.65,4,Wtórny,Blok,2 pokoje,Katowice, Osiedle Witosa
+490000.0,59.0,8,Wtórny,Blok,3 pokoje,Katowice, Osiedle Tysiąclecia
+399999.0,54.0,2,Wtórny,Blok,3 pokoje,Katowice, Ligota-Panewniki
+568462.0,50.53,1,Wtórny,Blok,2 pokoje,Rzeszów,
+655000.0,64.36,1,Pierwotny,Blok,3 pokoje,Rzeszów,
+368000.0,32.5,Parter,Wtórny,Blok,1 pokój,Rzeszów,
+599000.0,50.0,3,Wtórny,Blok,3 pokoje,Rzeszów,
+315000.0,20.0,3,Wtórny,Blok,1 pokój,Rzeszów,
+569000.0,48.0,2,Wtórny,Blok,3 pokoje,Rzeszów,
+589000.0,51.0,4,Wtórny,Blok,2 pokoje,Rzeszów,
+599000.0,52.0,Parter,Wtórny,Blok,3 pokoje,Rzeszów,
+980000.0,69.47,Powyżej 10,Wtórny,Apartamentowiec,3 pokoje,Rzeszów,
+599000.0,60.0,1,Wtórny,Blok,3 pokoje,Rzeszów,
+630000.0,50.0,1,Wtórny,Blok,3 pokoje,Rzeszów,
+795000.0,62.0,Parter,Wtórny,Blok,3 pokoje,Rzeszów,
+420000.0,42.7,1,Wtórny,Blok,2 pokoje,Rzeszów,
+420000.0,39.0,4,Wtórny,Blok,2 pokoje,Rzeszów,
+459000.0,42.0,Parter,Wtórny,Kamienica,1 pokój,Rzeszów,
+485317.0,54.53,1,Pierwotny,Blok,3 pokoje,Rzeszów,
+457000.0,31.0,Parter,Wtórny,Apartamentowiec,1 pokój,Rzeszów,
+625000.0,67.6,7,Wtórny,Blok,3 pokoje,Rzeszów,
+449000.0,63.0,1,Pierwotny,Pozostałe,4 i więcej,Rzeszów,
+649000.0,65.0,1,Wtórny,Pozostałe,3 pokoje,Rzeszów,
+498000.0,49.5,Parter,Wtórny,Blok,2 pokoje,Rzeszów,
+678600.0,78.0,Powyżej 10,Wtórny,Blok,3 pokoje,Rzeszów,
+485000.0,61.1,1,Wtórny,Blok,4 i więcej,Rzeszów,
+665000.0,62.17,3,Wtórny,Blok,4 i więcej,Rzeszów,
+655000.0,64.82,3,Wtórny,Blok,3 pokoje,Rzeszów,
+769000.0,75.49,1,Wtórny,Pozostałe,4 i więcej,Rzeszów,
+479000.0,41.4,Parter,Wtórny,Blok,2 pokoje,Rzeszów,
+435000.0,52.0,Parter,Wtórny,Blok,3 pokoje,Rzeszów,
+775000.0,54.0,2,Wtórny,Blok,3 pokoje,Rzeszów,
+580000.0,37.1,Powyżej 10,Wtórny,Apartamentowiec,1 pokój,Rzeszów,
+539000.0,47.95,5,Wtórny,Blok,3 pokoje,Rzeszów,
+588000.0,49.0,1,Wtórny,Blok,2 pokoje,Rzeszów,
+915000.0,86.16,4,Wtórny,Blok,3 pokoje,Rzeszów,
+570000.0,59.0,2,Wtórny,Blok,3 pokoje,Rzeszów,
+655000.0,78.0,4,Wtórny,Blok,4 i więcej,Rzeszów,
+725000.0,72.0,Parter,Wtórny,Blok,4 i więcej,Rzeszów,
+550000.0,44.3,Parter,Wtórny,Blok,2 pokoje,Rzeszów,
+1093750.0,87.5,1,Wtórny,Apartamentowiec,4 i więcej,Rzeszów,
+459000.0,43.0,1,Wtórny,Blok,2 pokoje,Rzeszów,
+469000.0,160.0,1,Wtórny,Pozostałe,4 i więcej,Rzeszów,
+605000.0,61.5,3,Wtórny,Apartamentowiec,3 pokoje,Rzeszów,
+340000.0,29.7,1,Wtórny,Blok,2 pokoje,Rzeszów,
+980000.0,83.0,3,Pierwotny,Apartamentowiec,4 i więcej,Rzeszów,
+849999.0,57.0,3,Wtórny,Blok,3 pokoje,Rzeszów,
+459000.0,40.0,Parter,Wtórny,Blok,2 pokoje,Rzeszów,
+650000.0,54.1,1,Wtórny,Blok,2 pokoje,Rzeszów,
+649000.0,64.0,3,Wtórny,Blok,4 i więcej,Rzeszów,
+51864.0,49.9,Parter,Wtórny,Blok,3 pokoje,Rzeszów,
+650000.0,50.0,5,Wtórny,Blok,3 pokoje,Rzeszów,
+549000.0,62.0,4,Wtórny,Blok,3 pokoje,Rzeszów,
+730000.0,62.14,Parter,Wtórny,Blok,3 pokoje,Rzeszów,
+640000.0,63.1,3,Wtórny,Blok,3 pokoje,Rzeszów,
+530000.0,50.0,Parter,Wtórny,Blok,2 pokoje,Rzeszów,
+494000.0,52.73,2,Wtórny,Kamienica,2 pokoje,Rzeszów,
+650000.0,52.77,2,Wtórny,Blok,3 pokoje,Rzeszów,
+749000.0,60.0,1,Wtórny,Blok,4 i więcej,Rzeszów,
+609000.0,72.32,Parter,Wtórny,Kamienica,4 i więcej,Rzeszów,
+725000.0,74.0,Parter,Wtórny,Blok,4 i więcej,Rzeszów,
+720000.0,45.0,2,Wtórny,Apartamentowiec,2 pokoje,Rzeszów,
+750000.0,42.0,2,Wtórny,Apartamentowiec,3 pokoje,Rzeszów,
+849000.0,85.39,1,Wtórny,Apartamentowiec,4 i więcej,Rzeszów,
+599000.0,54.0,10,Wtórny,Blok,3 pokoje,Rzeszów,
+742000.0,53.0,2,Wtórny,Blok,2 pokoje,Rzeszów,
+570000.0,52.6,7,Wtórny,Blok,3 pokoje,Rzeszów,
+535000.0,44.0,1,Wtórny,Apartamentowiec,2 pokoje,Rzeszów,
+499000.0,64.0,3,Wtórny,Blok,3 pokoje,Rzeszów,
+460200.0,39.0,Parter,Wtórny,Apartamentowiec,2 pokoje,Rzeszów,
+790000.0,80.0,1,Wtórny,Pozostałe,4 i więcej,Rzeszów,
+980000.0,80.0,2,Wtórny,Apartamentowiec,4 i więcej,Rzeszów,
+429000.0,39.7,1,Wtórny,Blok,2 pokoje,Rzeszów,
+645000.0,55.85,2,Wtórny,Blok,2 pokoje,Rzeszów,
+505000.0,44.0,1,Wtórny,Blok,2 pokoje,Rzeszów,
+445000.0,50.0,3,Wtórny,Blok,3 pokoje,Rzeszów,
+695607.0,65.01,6,Pierwotny,Apartamentowiec,3 pokoje,Rzeszów,
+390000.0,28.4,Parter,Wtórny,Blok,1 pokój,Rzeszów,
+695000.0,75.0,2,Wtórny,Blok,4 i więcej,Rzeszów,
+745000.0,44.0,3,Wtórny,Apartamentowiec,2 pokoje,Rzeszów,
+1080000.0,90.0,1,Wtórny,Blok,4 i więcej,Rzeszów,
+700000.0,65.0,7,Wtórny,Blok,3 pokoje,Rzeszów,
+620000.0,100.0,Parter,Pierwotny,Pozostałe,4 i więcej,Rzeszów,
+849000.0,70.0,6,Wtórny,Apartamentowiec,2 pokoje,Rzeszów,
+659000.0,51.6,1,Wtórny,Blok,2 pokoje,Rzeszów,
+519000.0,40.96,Parter,Wtórny,Blok,2 pokoje,Rzeszów,
+323000.0,26.0,4,Wtórny,Blok,1 pokój,Rzeszów,
+830300.0,71.01,2,Wtórny,Blok,3 pokoje,Rzeszów,
+549000.0,43.0,2,Wtórny,Blok,2 pokoje,Rzeszów,
+415000.0,30.5,8,Wtórny,Blok,2 pokoje,Rzeszów,
+660000.0,75.44,3,Wtórny,Blok,3 pokoje,Rzeszów,
+625000.0,75.42,1,Pierwotny,Blok,4 i więcej,Rzeszów,
+829000.0,63.3,8,Wtórny,Blok,3 pokoje,Rzeszów,
+345000.0,25.0,2,Wtórny,Blok,1 pokój,Rzeszów,
+499000.0,39.0,Parter,Wtórny,Blok,2 pokoje,Rzeszów,
+547000.0,45.0,2,Wtórny,Blok,2 pokoje,Rzeszów,
+649000.0,61.5,3,Wtórny,Blok,4 i więcej,Rzeszów,
+579000.0,51.0,3,Wtórny,Blok,2 pokoje,Rzeszów,
+580000.0,63.9,6,Wtórny,Blok,3 pokoje,Rzeszów,
+575000.0,54.0,1,Wtórny,Blok,3 pokoje,Gdynia, Chylonia
+985000.0,51.0,1,Wtórny,Kamienica,3 pokoje,Gdynia, Śródmieście
+700000.0,68.0,1,Wtórny,Blok,3 pokoje,Gdynia, Cisowa
+540000.0,48.0,1,Wtórny,Blok,3 pokoje,Gdynia, Chylonia
+520000.0,53.0,Parter,Wtórny,Blok,3 pokoje,Gdynia, Cisowa
+549000.0,46.0,2,Wtórny,Blok,3 pokoje,Gdynia, Obłuże
+699000.0,60.0,4,Wtórny,Blok,3 pokoje,Gdynia, Karwiny
+469000.0,37.0,Parter,Wtórny,Blok,2 pokoje,Gdynia, Chylonia
+650000.0,39.0,5,Wtórny,Kamienica,2 pokoje,Gdynia, Śródmieście
+649000.0,60.0,10,Wtórny,Blok,3 pokoje,Gdynia, Obłuże
+521000.0,45.98,4,Wtórny,Blok,3 pokoje,Gdynia, Chylonia
+525000.0,54.0,7,Wtórny,Blok,3 pokoje,Gdynia, Obłuże
+539000.0,63.0,Parter,Wtórny,Blok,3 pokoje,Gdynia, Dąbrowa
+515000.0,47.2,Parter,Wtórny,Loft,2 pokoje,Gdynia, Chylonia
+499000.0,45.0,3,Wtórny,Blok,2 pokoje,Gdynia, Chylonia
+496000.0,48.8,4,Wtórny,Blok,2 pokoje,Gdynia, Karwiny
+790000.0,57.3,2,Wtórny,Apartamentowiec,3 pokoje,Gdynia, Witomino-Leśniczówka
+770000.0,47.0,Parter,Wtórny,Blok,2 pokoje,Gdynia, Wzgórze Świętego Maksymiliana
+550000.0,56.0,4,Wtórny,Blok,3 pokoje,Gdynia, Pogórze
+565000.0,57.1,Parter,Wtórny,Blok,3 pokoje,Gdynia, Leszczynki
+799000.0,65.0,1,Wtórny,Blok,3 pokoje,Gdynia, Chylonia
+727000.0,72.9,1,Wtórny,Blok,4 i więcej,Gdynia, Oksywie
+829000.0,58.0,3,Wtórny,Blok,3 pokoje,Gdynia, Cisowa
+540000.0,35.0,2,Wtórny,Kamienica,2 pokoje,Gdynia, Wzgórze Świętego Maksymiliana
+480000.0,47.0,9,Wtórny,Blok,2 pokoje,Gdynia, Chylonia
+525000.0,63.0,4,Wtórny,Blok,3 pokoje,Gdynia, Obłuże
+600000.0,31.0,Parter,Wtórny,Blok,2 pokoje,Gdynia, Wzgórze Świętego Maksymiliana
+490000.0,47.2,1,Wtórny,Blok,2 pokoje,Gdynia, Dąbrowa
+530000.0,40.0,4,Wtórny,Blok,2 pokoje,Gdynia, Chylonia
+409000.0,47.5,Parter,Wtórny,Blok,3 pokoje,Gdynia, Oksywie
+549000.0,47.0,Parter,Wtórny,Blok,3 pokoje,Gdynia, Obłuże
+652000.0,75.9,3,Wtórny,Kamienica,3 pokoje,Gdynia, Oksywie
+525000.0,54.0,4,Wtórny,Blok,3 pokoje,Gdynia, Cisowa
+609000.0,71.5,4,Wtórny,Blok,4 i więcej,Gdynia, Dąbrowa
+815000.0,72.0,Parter,Wtórny,Blok,3 pokoje,Gdynia, Grabówek
+540000.0,45.9,2,Wtórny,Blok,3 pokoje,Gdynia, Oksywie
+699000.0,63.0,3,Wtórny,Blok,4 i więcej,Gdynia, Obłuże
+520000.0,39.8,Parter,Wtórny,Pozostałe,2 pokoje,Gdynia, Wzgórze Świętego Maksymiliana
+1100000.0,76.0,Parter,Pierwotny,Blok,3 pokoje,Gdynia, Grabówek
+569000.0,42.0,2,Pierwotny,Blok,3 pokoje,Gdynia, Grabówek
+469000.0,35.0,4,Wtórny,Blok,2 pokoje,Gdynia, Witomino-Leśniczówka
+410000.0,36.06,1,Wtórny,Kamienica,1 pokój,Gdynia, Grabówek
+631000.0,63.5,4,Wtórny,Blok,3 pokoje,Gdynia, Dąbrowa
+545500.0,47.0,5,Wtórny,Apartamentowiec,3 pokoje,Gdynia, Chylonia
+360000.0,32.3,2,Wtórny,Blok,2 pokoje,Gdynia, Obłuże
+555000.0,47.0,8,Wtórny,Blok,2 pokoje,Gdynia, Działki Leśne
+459000.0,44.7,1,Wtórny,Blok,2 pokoje,Gdynia, Leszczynki
+419000.0,30.0,2,Wtórny,Blok,2 pokoje,Gdynia, Chylonia
+450000.0,34.0,2,Wtórny,Kamienica,1 pokój,Gdynia, Chylonia
+650000.0,43.0,Parter,Wtórny,Blok,2 pokoje,Gdynia, Wzgórze Świętego Maksymiliana
+610000.0,43.5,1,Pierwotny,Blok,2 pokoje,Gdynia, Chwarzno-Wiczlino
+579000.0,37.0,Parter,Wtórny,Kamienica,2 pokoje,Gdynia, Kamienna Góra
+454000.0,45.4,4,Wtórny,Blok,3 pokoje,Gdynia, Chylonia
+498000.0,37.0,1,Wtórny,Blok,2 pokoje,Gdynia, Chylonia
+329000.0,17.0,1,Wtórny,Blok,1 pokój,Gdynia, Chylonia
+580000.0,46.52,3,Wtórny,Blok,2 pokoje,Gdynia, Oksywie
+720000.0,50.5,3,Wtórny,Blok,2 pokoje,Gdynia, Śródmieście
+540000.0,57.0,2,Wtórny,Kamienica,3 pokoje,Gdynia, Oksywie
+630000.0,53.5,Parter,Wtórny,Blok,3 pokoje,Gdynia, Chylonia
+910000.0,84.0,1,Wtórny,Blok,4 i więcej,Gdynia, Wielki Kack
+1600000.0,75.0,1,Wtórny,Apartamentowiec,3 pokoje,Gdynia, Karwiny
+549000.0,53.0,4,Wtórny,Blok,2 pokoje,Gdynia, Dąbrowa
+480000.0,46.0,3,Wtórny,Blok,2 pokoje,Gdynia, Chylonia
+465000.0,48.0,4,Wtórny,Blok,3 pokoje,Gdynia, Chylonia
+369000.0,38.0,6,Wtórny,Blok,2 pokoje,Gdynia, Chylonia
+520000.0,31.0,Parter,Wtórny,Kamienica,2 pokoje,Gdynia, Wzgórze Świętego Maksymiliana
+250000.0,31.0,6,Wtórny,Blok,1 pokój,Gdynia, Obłuże
+650000.0,56.0,1,Wtórny,Blok,3 pokoje,Gdynia, Pogórze
+480000.0,40.0,3,Wtórny,Blok,2 pokoje,Gdynia, Cisowa
+79000.0,68.0,Parter,Wtórny,Pozostałe,1 pokój,Gdynia, Cisowa
+570000.0,49.0,1,Wtórny,Blok,2 pokoje,Gdynia, Cisowa
+499000.0,44.97,3,Wtórny,Blok,2 pokoje,Gdynia, Chylonia
+459000.0,36.6,4,Wtórny,Blok,2 pokoje,Gdynia, Chylonia
+1150000.0,61.0,7,Pierwotny,Apartamentowiec,2 pokoje,Gdynia, Śródmieście
+82880.0,51.0,2,Wtórny,Kamienica,3 pokoje,Gdynia, Grabówek
+415000.0,36.0,7,Wtórny,Blok,2 pokoje,Gdynia, Chylonia
+305000.0,29.5,4,Wtórny,Blok,1 pokój,Gdynia, Chylonia
+715000.0,50.99,Parter,Wtórny,Pozostałe,2 pokoje,Gdańsk, Przymorze Małe
+316000.0,38.0,4,Wtórny,Blok,2 pokoje,Radom,
+358000.0,40.45,4,Wtórny,Blok,2 pokoje,Radom,
+380000.0,70.0,4,Wtórny,Blok,4 i więcej,Radom,
+350000.0,58.28,1,Wtórny,Blok,3 pokoje,Radom,
+319000.0,53.9,2,Wtórny,Blok,3 pokoje,Radom,
+339000.0,60.0,4,Wtórny,Blok,3 pokoje,Radom,
+239000.0,40.0,4,Wtórny,Blok,2 pokoje,Radom,
+344500.0,60.0,3,Wtórny,Blok,3 pokoje,Radom,
+510000.0,51.4,1,Wtórny,Blok,2 pokoje,Radom,
+299000.0,35.0,7,Wtórny,Blok,2 pokoje,Radom,
+563000.0,55.62,4,Wtórny,Blok,2 pokoje,Radom,
+530000.0,48.0,2,Wtórny,Blok,2 pokoje,Radom,
+210000.0,24.0,1,Wtórny,Blok,1 pokój,Radom,
+419000.0,86.0,2,Wtórny,Blok,3 pokoje,Radom,
+340000.0,47.0,6,Pierwotny,Apartamentowiec,2 pokoje,Radom,
+368000.0,41.0,6,Wtórny,Blok,2 pokoje,Radom,
+680000.0,173.0,1,Wtórny,Kamienica,4 i więcej,Radom,
+299000.0,51.0,2,Wtórny,Blok,3 pokoje,Radom,
+569000.0,70.0,Parter,Wtórny,Apartamentowiec,3 pokoje,Radom,
+495000.0,72.0,2,Wtórny,Blok,4 i więcej,Radom,
+323000.0,45.0,Parter,Wtórny,Blok,2 pokoje,Radom,
+379000.0,60.5,2,Wtórny,Blok,3 pokoje,Radom,
+359000.0,37.0,2,Wtórny,Blok,2 pokoje,Radom,
+200000.0,35.1,2,Wtórny,Blok,1 pokój,Radom,
+559000.0,53.0,1,Wtórny,Apartamentowiec,2 pokoje,Radom,
+425000.0,50.0,3,Wtórny,Blok,3 pokoje,Radom,
+721000.0,76.0,3,Wtórny,Apartamentowiec,3 pokoje,Radom,
+660000.0,57.21,1,Wtórny,Blok,3 pokoje,Radom,
+390000.0,60.06,10,Wtórny,Blok,3 pokoje,Radom,
+459000.0,60.0,4,Wtórny,Blok,4 i więcej,Radom,
+385000.0,47.0,3,Wtórny,Blok,2 pokoje,Radom,
+449000.0,40.87,2,Wtórny,Blok,2 pokoje,Radom,
+420000.0,62.0,1,Wtórny,Blok,3 pokoje,Radom,
+340000.0,50.0,6,Wtórny,Blok,2 pokoje,Radom,
+460000.0,63.8,1,Wtórny,Blok,3 pokoje,Radom,
+315000.0,59.3,4,Wtórny,Blok,3 pokoje,Radom,
+476500.0,38.9,Parter,Pierwotny,Apartamentowiec,2 pokoje,Radom,
+499000.0,81.0,3,Wtórny,Blok,4 i więcej,Radom,
+199000.0,24.0,7,Wtórny,Blok,1 pokój,Radom,
+430000.0,60.0,2,Wtórny,Kamienica,2 pokoje,Radom,
+248000.0,36.0,2,Wtórny,Blok,1 pokój,Radom,
+247000.0,41.81,10,Wtórny,Blok,2 pokoje,Radom,
+410000.0,56.28,Parter,Wtórny,Blok,2 pokoje,Radom,
+452000.0,55.0,3,Wtórny,Blok,3 pokoje,Radom,
+450000.0,76.0,Parter,Wtórny,Blok,3 pokoje,Radom,
+385000.0,47.0,8,Wtórny,Blok,3 pokoje,Radom,
+608000.0,76.0,4,Wtórny,Blok,3 pokoje,Radom,
+489000.0,69.0,2,Wtórny,Blok,3 pokoje,Radom,
+235000.0,32.9,4,Wtórny,Blok,1 pokój,Radom,
+319000.0,62.0,4,Wtórny,Blok,3 pokoje,Radom,
+442000.0,35.0,2,Wtórny,Apartamentowiec,1 pokój,Radom,
+450000.0,64.0,6,Wtórny,Blok,3 pokoje,Radom,
+240000.0,38.0,8,Wtórny,Blok,2 pokoje,Radom,
+389900.0,44.0,6,Wtórny,Blok,3 pokoje,Radom,
+809000.0,81.0,1,Wtórny,Apartamentowiec,3 pokoje,Radom,
+480000.0,85.0,1,Wtórny,Kamienica,3 pokoje,Radom,
+645000.0,61.5,3,Pierwotny,Apartamentowiec,3 pokoje,Radom,
+439000.0,50.05,3,Wtórny,Blok,3 pokoje,Radom,
+407000.0,44.55,Parter,Pierwotny,Apartamentowiec,2 pokoje,Radom,
+950000.0,76.0,3,Wtórny,Blok,4 i więcej,Radom,
+395000.0,46.0,1,Wtórny,Blok,3 pokoje,Radom,
+550000.0,47.14,2,Pierwotny,Apartamentowiec,2 pokoje,Radom,
+690000.0,62.0,1,Pierwotny,Apartamentowiec,3 pokoje,Radom,
+470000.0,64.9,3,Wtórny,Blok,4 i więcej,Radom,
+360000.0,67.0,4,Wtórny,Blok,3 pokoje,Radom,
+656000.0,80.0,2,Pierwotny,Apartamentowiec,4 i więcej,Radom,
+399000.0,66.0,10,Wtórny,Blok,3 pokoje,Radom,
+323000.0,65.0,4,Wtórny,Blok,4 i więcej,Radom,
+490000.0,69.0,4,Wtórny,Blok,3 pokoje,Radom,
+237900.0,45.0,Powyżej 10,Wtórny,Blok,2 pokoje,Radom,
+209900.0,24.04,5,Wtórny,Blok,1 pokój,Radom,
+430000.0,45.8,2,Wtórny,Blok,2 pokoje,Radom,
+708000.0,59.0,3,Wtórny,Apartamentowiec,3 pokoje,Radom,
+229000.0,37.27,1,Wtórny,Kamienica,1 pokój,Radom,
+440000.0,58.01,1,Pierwotny,Apartamentowiec,3 pokoje,Radom,
+235000.0,40.74,Parter,Wtórny,Blok,2 pokoje,Radom,
+255000.0,46.0,Parter,Wtórny,Blok,3 pokoje,Radom,
+315000.0,59.0,4,Wtórny,Blok,3 pokoje,Radom,
+373000.0,64.0,3,Wtórny,Blok,4 i więcej,Radom,
+300000.0,53.0,Parter,Wtórny,Blok,3 pokoje,Radom,
+339000.0,54.0,2,Wtórny,Blok,3 pokoje,Radom,
+275000.0,53.0,4,Wtórny,Blok,3 pokoje,Radom,
+235000.0,37.0,Parter,Wtórny,Blok,2 pokoje,Radom,
+349000.0,55.0,10,Wtórny,Blok,3 pokoje,Radom,
+322000.0,58.0,3,Wtórny,Blok,3 pokoje,Radom,
+300000.0,38.0,7,Wtórny,Blok,2 pokoje,Radom,
+329000.0,40.0,4,Wtórny,Blok,2 pokoje,Radom,
+320000.0,43.0,1,Wtórny,Blok,2 pokoje,Radom,
+385000.0,53.7,4,Wtórny,Blok,3 pokoje,Radom,
+400000.0,58.5,4,Wtórny,Blok,3 pokoje,Radom,
+220000.0,33.0,2,Wtórny,Blok,1 pokój,Radom,
+650000.0,60.0,4,Wtórny,Blok,3 pokoje,Radom,
+275000.0,47.0,3,Wtórny,Blok,3 pokoje,Radom,
+245000.0,40.0,10,Wtórny,Blok,2 pokoje,Radom,
+510000.0,61.59,7,Pierwotny,Blok,3 pokoje,Radom,
+375000.0,46.0,10,Wtórny,Blok,2 pokoje,Radom,
+450000.0,85.0,3,Wtórny,Blok,4 i więcej,Radom,
+305000.0,47.65,2,Wtórny,Blok,2 pokoje,Radom,
+379000.0,60.5,9,Wtórny,Blok,3 pokoje,Radom,
+250000.0,40.0,2,Wtórny,Blok,2 pokoje,Radom,
+335000.0,56.0,4,Wtórny,Blok,3 pokoje,Radom,
+375000.0,48.0,4,Wtórny,Blok,2 pokoje,Radom,
+370000.0,58.46,4,Wtórny,Blok,3 pokoje,Radom,
+599000.0,65.0,2,Wtórny,Blok,2 pokoje,Radom,
+389000.0,47.5,Parter,Wtórny,Blok,3 pokoje,Radom,
+385000.0,49.37,6,Pierwotny,Blok,2 pokoje,Radom,
+389000.0,39.0,2,Wtórny,Blok,2 pokoje,Radom,
+730000.0,173.0,1,Wtórny,Kamienica,4 i więcej,Radom,
+435000.0,58.0,3,Wtórny,Blok,3 pokoje,Radom,
+460000.0,55.0,1,Wtórny,Blok,3 pokoje,Radom,
+185000.0,29.0,4,Wtórny,Blok,1 pokój,Radom,
+320000.0,51.0,7,Wtórny,Blok,2 pokoje,Radom,
+449000.0,46.2,4,Wtórny,Blok,3 pokoje,Kielce,
+540000.0,52.3,2,Wtórny,Blok,3 pokoje,Kielce,
+459000.0,46.2,1,Wtórny,Blok,2 pokoje,Kielce,
+315000.0,27.0,3,Wtórny,Blok,2 pokoje,Kielce,
+520000.0,56.0,2,Wtórny,Kamienica,3 pokoje,Kielce,
+450000.0,46.4,3,Wtórny,Blok,3 pokoje,Kielce,
+739000.0,67.55,1,Wtórny,Apartamentowiec,3 pokoje,Kielce,
+414414.0,48.0,4,Wtórny,Blok,3 pokoje,Kielce,
+325000.0,29.2,10,Wtórny,Blok,1 pokój,Kielce,
+387000.0,48.3,3,Wtórny,Blok,2 pokoje,Kielce,
+540000.0,54.25,7,Pierwotny,Blok,2 pokoje,Kielce,
+468000.0,48.5,1,Wtórny,Blok,3 pokoje,Kielce,
+415000.0,45.17,Parter,Wtórny,Blok,2 pokoje,Kielce,
+450000.0,50.0,4,Wtórny,Blok,2 pokoje,Kielce,
+420000.0,48.4,3,Wtórny,Blok,3 pokoje,Kielce,
+410000.0,37.0,1,Wtórny,Blok,2 pokoje,Kielce,
+320000.0,39.5,4,Wtórny,Kamienica,2 pokoje,Kielce,
+479000.0,55.5,Parter,Wtórny,Blok,3 pokoje,Kielce,
+850000.0,63.0,Parter,Wtórny,Blok,3 pokoje,Kielce,
+1249000.0,95.25,2,Wtórny,Apartamentowiec,3 pokoje,Kielce,
+468000.0,36.0,1,Wtórny,Blok,3 pokoje,Kielce,
+482000.0,48.3,3,Wtórny,Blok,3 pokoje,Kielce,
+479000.0,46.7,3,Wtórny,Blok,3 pokoje,Kielce,
+269000.0,30.0,4,Wtórny,Blok,1 pokój,Kielce,
+569000.0,59.0,Parter,Wtórny,Blok,3 pokoje,Kielce,
+245000.0,24.5,3,Wtórny,Blok,1 pokój,Kielce,
+1099000.0,85.0,4,Wtórny,Apartamentowiec,4 i więcej,Kielce,
+347000.0,30.95,5,Pierwotny,Apartamentowiec,2 pokoje,Kielce,
+621000.0,46.0,4,Wtórny,Apartamentowiec,2 pokoje,Kielce,
+425000.0,40.0,3,Wtórny,Blok,2 pokoje,Kielce,
+750000.0,76.0,3,Wtórny,Blok,4 i więcej,Kielce,
+639000.0,57.08,8,Pierwotny,Apartamentowiec,3 pokoje,Kielce,
+299000.0,36.78,4,Wtórny,Blok,1 pokój,Kielce,
+1562960.0,108.0,3,Pierwotny,Apartamentowiec,4 i więcej,Kielce,
+497000.0,46.86,7,Pierwotny,Apartamentowiec,3 pokoje,Kielce,
+459000.0,42.6,2,Wtórny,Blok,3 pokoje,Kielce,
+535000.0,33.0,1,Wtórny,Kamienica,2 pokoje,Kielce,
+310000.0,37.1,4,Wtórny,Blok,2 pokoje,Kielce,
+395000.0,52.0,6,Wtórny,Blok,2 pokoje,Kielce,
+650000.0,56.0,5,Pierwotny,Apartamentowiec,3 pokoje,Kielce,
+406000.0,58.11,Parter,Wtórny,Blok,3 pokoje,Kielce,
+460000.0,46.2,8,Wtórny,Blok,2 pokoje,Kielce,
+450000.0,53.71,8,Wtórny,Blok,3 pokoje,Kielce,
+350000.0,37.0,Parter,Pierwotny,Blok,2 pokoje,Kielce,
+590000.0,59.0,1,Pierwotny,Blok,3 pokoje,Kielce,
+889000.0,96.0,1,Wtórny,Blok,3 pokoje,Kielce,
+611660.0,34.0,1,Wtórny,Apartamentowiec,1 pokój,Kielce,
+287000.0,28.0,6,Wtórny,Blok,1 pokój,Kielce,
+299000.0,36.0,6,Wtórny,Blok,1 pokój,Kielce,
+500000.0,60.0,8,Wtórny,Blok,4 i więcej,Kielce,
+415000.0,40.0,Parter,Wtórny,Blok,3 pokoje,Kielce,
+610000.0,63.0,1,Wtórny,Blok,3 pokoje,Kielce,
+680000.0,26.71,3,Pierwotny,Apartamentowiec,2 pokoje,Kielce,
+579000.0,55.5,Parter,Wtórny,Blok,3 pokoje,Kielce,
+643500.0,45.0,1,Wtórny,Apartamentowiec,2 pokoje,Kielce,
+299000.0,31.0,9,Wtórny,Blok,1 pokój,Kielce,
+749000.0,65.5,2,Wtórny,Apartamentowiec,3 pokoje,Kielce,
+315000.0,33.3,5,Wtórny,Blok,1 pokój,Kielce,
+720000.0,81.0,2,Wtórny,Apartamentowiec,3 pokoje,Kielce,
+270000.0,36.7,1,Wtórny,Blok,2 pokoje,Kielce,
+299000.0,39.6,7,Wtórny,Blok,2 pokoje,Kielce,
+693875.0,55.51,Powyżej 10,Pierwotny,Apartamentowiec,3 pokoje,Kielce,
+415000.0,53.13,3,Wtórny,Blok,3 pokoje,Kielce,
+670000.0,55.24,5,Wtórny,Apartamentowiec,2 pokoje,Kielce,
+849000.0,67.04,4,Pierwotny,Blok,3 pokoje,Kielce,
+299000.0,36.78,4,Wtórny,Blok,1 pokój,Kielce,
+839000.0,70.0,Parter,Wtórny,Apartamentowiec,3 pokoje,Kielce,
+590550.0,63.5,2,Wtórny,Blok,3 pokoje,Kielce,
+390000.0,41.8,4,Wtórny,Kamienica,2 pokoje,Kielce,
+420000.0,64.0,9,Wtórny,Blok,3 pokoje,Kielce,
+612000.0,51.0,Parter,Pierwotny,Apartamentowiec,3 pokoje,Kielce,
+662000.0,56.03,4,Pierwotny,Apartamentowiec,3 pokoje,Kielce,
+307000.0,32.7,5,Wtórny,Kamienica,1 pokój,Kielce,
+419000.0,35.0,1,Pierwotny,Apartamentowiec,1 pokój,Kielce,
+389900.0,46.0,Parter,Wtórny,Blok,2 pokoje,Kielce,
+330000.0,39.36,4,Wtórny,Blok,2 pokoje,Kielce,
+330000.0,36.2,4,Wtórny,Blok,2 pokoje,Kielce,
+348500.0,41.8,7,Wtórny,Blok,2 pokoje,Kielce,
+359000.0,36.87,4,Wtórny,Blok,1 pokój,Kielce,
+338000.0,46.7,10,Wtórny,Blok,2 pokoje,Kielce,
+460000.0,60.0,4,Wtórny,Blok,3 pokoje,Kielce,
+562000.0,40.46,1,Wtórny,Kamienica,2 pokoje,Kielce,
+404200.0,47.0,7,Wtórny,Blok,2 pokoje,Kielce,
+585000.0,42.66,1,Wtórny,Apartamentowiec,2 pokoje,Kielce,
+372000.0,48.0,7,Wtórny,Blok,2 pokoje,Kielce,
+590000.0,82.0,3,Wtórny,Blok,4 i więcej,Kielce,
+340000.0,39.4,10,Wtórny,Blok,2 pokoje,Kielce,
+490000.0,59.6,2,Wtórny,Blok,3 pokoje,Kielce,
+680000.0,87.18,1,Wtórny,Kamienica,3 pokoje,Kielce,
+389000.0,47.8,2,Wtórny,Blok,2 pokoje,Kielce,
+299000.0,35.44,7,Wtórny,Blok,2 pokoje,Kielce,
+270000.0,27.0,2,Wtórny,Blok,1 pokój,Kielce,
+760000.0,77.0,1,Wtórny,Apartamentowiec,4 i więcej,Kielce,
+375000.0,51.0,1,Wtórny,Blok,2 pokoje,Kielce,
+429000.0,48.0,1,Wtórny,Blok,2 pokoje,Kielce,
+770000.0,76.2,1,Wtórny,Blok,4 i więcej,Kielce,
+295000.0,30.0,7,Wtórny,Blok,1 pokój,Kielce,
+499000.0,65.1,Parter,Wtórny,Kamienica,2 pokoje,Kielce,
+779899.0,100.25,Parter,Pierwotny,Apartamentowiec,4 i więcej,Kielce,
+455000.0,54.0,3,Wtórny,Blok,3 pokoje,Kielce,
+729000.0,67.76,Parter,Wtórny,Blok,4 i więcej,Kielce,
+498000.0,39.6,2,Wtórny,Blok,2 pokoje,Kielce,
+400000.0,64.0,4,Wtórny,Blok,4 i więcej,Kielce,
+618000.0,39.17,6,Wtórny,Apartamentowiec,2 pokoje,Kielce,
+585000.0,50.0,Parter,Wtórny,Apartamentowiec,2 pokoje,Kielce,
+461060.0,56.0,Parter,Pierwotny,Apartamentowiec,3 pokoje,Kielce,
+225000.0,26.0,4,Wtórny,Blok,1 pokój,Kielce,
+585000.0,63.4,4,Wtórny,Blok,3 pokoje,Kielce,
+350000.0,39.0,3,Wtórny,Blok,2 pokoje,Kielce,
+419000.0,49.0,6,Wtórny,Blok,2 pokoje,Kielce,
+560000.0,64.0,3,Wtórny,Blok,3 pokoje,Kielce,
+620000.0,48.53,5,Pierwotny,Apartamentowiec,2 pokoje,Kielce,
+290000.0,37.0,3,Wtórny,Kamienica,1 pokój,Kielce,
+499000.0,50.0,2,Wtórny,Blok,3 pokoje,Kielce,
+593000.0,40.73,3,Pierwotny,Apartamentowiec,2 pokoje,Kielce,
+340000.0,48.0,4,Wtórny,Blok,2 pokoje,Kielce,
+560000.0,45.0,1,Wtórny,Apartamentowiec,2 pokoje,Kielce,
+280000.0,29.75,8,Wtórny,Blok,1 pokój,Kielce,
+537000.0,68.0,3,Wtórny,Blok,4 i więcej,Kielce,
+349000.0,48.9,3,Wtórny,Blok,2 pokoje,Zamość,
+639000.0,58.5,2,Wtórny,Apartamentowiec,2 pokoje,Zamość,
+380000.0,58.0,4,Wtórny,Blok,2 pokoje,Zamość,
+310000.0,63.0,9,Wtórny,Blok,3 pokoje,Zamość,
+288000.0,47.0,Parter,Wtórny,Blok,3 pokoje,Zamość,
+399000.0,44.5,Parter,Wtórny,Blok,3 pokoje,Zamość,
+390000.0,64.0,3,Wtórny,Blok,3 pokoje,Zamość,
+340000.0,46.7,2,Wtórny,Blok,2 pokoje,Zamość,
+345000.0,56.0,3,Wtórny,Blok,3 pokoje,Zamość,
+460000.0,72.0,4,Wtórny,Blok,3 pokoje,Zamość,
+489000.0,68.0,Parter,Wtórny,Blok,4 i więcej,Zamość,
+495000.0,54.0,3,Pierwotny,Blok,2 pokoje,Zamość,
+329000.0,61.0,3,Wtórny,Blok,3 pokoje,Zamość,
+315000.0,36.0,1,Wtórny,Blok,1 pokój,Zamość,
+320000.0,38.0,2,Wtórny,Blok,2 pokoje,Zamość,
+390000.0,66.05,3,Wtórny,Blok,3 pokoje,Zamość,
+305000.0,30.56,2,Wtórny,Kamienica,1 pokój,Zamość,
+429000.0,49.41,Parter,Wtórny,Kamienica,2 pokoje,Zamość,
+325000.0,49.41,Parter,Wtórny,Kamienica,2 pokoje,Zamość,
+345000.0,64.5,7,Wtórny,Blok,3 pokoje,Zamość,
+460000.0,63.01,1,Wtórny,Blok,3 pokoje,Zamość,
+310000.0,51.25,6,Wtórny,Blok,2 pokoje,Zamość,
+335000.0,47.25,7,Wtórny,Blok,2 pokoje,Zamość,
+245000.0,38.0,5,Wtórny,Kamienica,2 pokoje,Zamość,
+382000.0,52.0,Parter,Wtórny,Blok,2 pokoje,Zamość,
+380000.0,56.0,2,Wtórny,Blok,3 pokoje,Zamość,
+360000.0,56.0,1,Wtórny,Blok,2 pokoje,Zamość,
+310000.0,46.12,4,Wtórny,Blok,2 pokoje,Zamość,
+378000.0,62.0,3,Wtórny,Blok,3 pokoje,Zamość,
+380000.0,51.6,2,Wtórny,Blok,2 pokoje,Zamość,
+295000.0,45.0,2,Wtórny,Blok,3 pokoje,Zamość,
+240000.0,35.76,Parter,Wtórny,Blok,2 pokoje,Zamość,
+243500.0,45.0,4,Wtórny,Blok,2 pokoje,Zamość,
+360000.0,50.0,2,Wtórny,Blok,2 pokoje,Zamość,
+350000.0,50.9,Parter,Wtórny,Blok,2 pokoje,Zamość,
+449000.0,48.47,10,Wtórny,Blok,2 pokoje,Zamość,
+245000.0,33.0,1,Wtórny,Blok,1 pokój,Zamość,
+425000.0,63.0,3,Wtórny,Blok,3 pokoje,Zamość,
+305000.0,48.7,2,Wtórny,Blok,2 pokoje,Zamość,
+374400.0,46.8,Parter,Pierwotny,Blok,3 pokoje,Zamość,
+480558.0,61.61,1,Pierwotny,Blok,3 pokoje,Zamość,
+376000.0,62.8,3,Wtórny,Blok,3 pokoje,Zamość,
+520000.0,62.98,2,Wtórny,Blok,3 pokoje,Zamość,
+459000.0,56.0,3,Wtórny,Blok,3 pokoje,Zamość,
+415000.0,46.0,Parter,Wtórny,Blok,2 pokoje,Zamość,
+390000.0,60.0,3,Wtórny,Blok,3 pokoje,Zamość,
+320000.0,45.0,2,Wtórny,Blok,3 pokoje,Zamość,
+350000.0,46.76,4,Wtórny,Blok,3 pokoje,Zamość,
+350000.0,57.57,2,Wtórny,Blok,3 pokoje,Zamość,
+269000.0,34.0,3,Wtórny,Blok,2 pokoje,Zamość,
+380000.0,65.34,3,Wtórny,Blok,3 pokoje,Zamość,
+435000.0,56.0,3,Wtórny,Blok,2 pokoje,Zamość,
+369000.0,46.77,3,Pierwotny,Blok,2 pokoje,Zamość,
+310000.0,52.0,2,Wtórny,Blok,2 pokoje,Zamość,
+435000.0,56.8,Parter,Wtórny,Blok,3 pokoje,Zamość,
+479000.0,37.0,1,Wtórny,Blok,2 pokoje,Legionowo,
+620000.0,63.5,3,Wtórny,Blok,4 i więcej,Legionowo,
+480000.0,42.2,4,Wtórny,Blok,2 pokoje,Legionowo,
+622000.0,53.65,Parter,Wtórny,Pozostałe,2 pokoje,Legionowo,
+520000.0,37.96,Parter,Wtórny,Kamienica,1 pokój,Legionowo,
+660000.0,52.9,3,Wtórny,Blok,3 pokoje,Legionowo,
+499999.0,36.2,3,Wtórny,Blok,2 pokoje,Legionowo,
+385000.0,31.0,9,Wtórny,Blok,1 pokój,Legionowo,
+629000.0,111.07,1,Pierwotny,Apartamentowiec,3 pokoje,Legionowo,
+540000.0,43.0,7,Wtórny,Blok,2 pokoje,Legionowo,
+680000.0,74.5,4,Wtórny,Blok,3 pokoje,Legionowo,
+1490000.0,65.0,3,Wtórny,Apartamentowiec,3 pokoje,Sopot, Dolny Sopot
+2100000.0,70.0,2,Wtórny,Apartamentowiec,3 pokoje,Sopot, Dolny Sopot
+850000.0,61.98,2,Wtórny,Blok,2 pokoje,Sopot, Górny Sopot
+1100000.0,68.0,6,Wtórny,Blok,4 i więcej,Sopot, Górny Sopot
+709000.0,41.0,2,Wtórny,Kamienica,2 pokoje,Sopot, Centrum
+630000.0,42.0,Parter,Wtórny,Blok,2 pokoje,Sopot, Dolny Sopot
+550000.0,34.0,1,Wtórny,Blok,2 pokoje,Sopot, Górny Sopot
+389000.0,17.0,7,Wtórny,Blok,1 pokój,Sopot, Centrum
+1050000.0,52.0,1,Wtórny,Blok,2 pokoje,Sopot, Dolny Sopot
+825000.0,47.0,Parter,Wtórny,Blok,3 pokoje,Sopot, Górny Sopot
+699000.0,46.0,Parter,Wtórny,Blok,3 pokoje,Sopot, Górny Sopot
+698000.0,55.0,1,Wtórny,Kamienica,2 pokoje,Sopot, Dolny Sopot
+430000.0,21.5,3,Wtórny,Kamienica,1 pokój,Sopot, Górny Sopot
+590000.0,38.0,4,Wtórny,Blok,2 pokoje,Sopot, Górny Sopot
+799000.0,64.0,4,Wtórny,Blok,4 i więcej,Sopot, Centrum
+449000.0,18.0,5,Wtórny,Blok,1 pokój,Sopot, Centrum
+359900.0,17.0,4,Wtórny,Blok,1 pokój,Sopot, Górny Sopot
+1749000.0,150.0,4,Wtórny,Kamienica,4 i więcej,Sopot, Centrum
+800000.0,74.0,Parter,Wtórny,Blok,4 i więcej,Opole,
+410000.0,47.4,Parter,Wtórny,Blok,2 pokoje,Opole,
+339000.0,42.5,Powyżej 10,Wtórny,Blok,2 pokoje,Opole,
+485000.0,38.0,1,Wtórny,Apartamentowiec,2 pokoje,Opole,
+479000.0,61.97,3,Wtórny,Kamienica,3 pokoje,Opole,
+300000.0,33.0,Parter,Wtórny,Kamienica,1 pokój,Opole,
+420000.0,53.2,3,Wtórny,Blok,2 pokoje,Opole,
+444800.0,40.0,Parter,Wtórny,Kamienica,2 pokoje,Opole,
+490000.0,50.0,Parter,Wtórny,Kamienica,2 pokoje,Opole,
+499000.0,59.0,3,Wtórny,Blok,3 pokoje,Opole,
+430000.0,37.86,2,Pierwotny,Apartamentowiec,2 pokoje,Opole,
+309000.0,36.0,1,Wtórny,Blok,1 pokój,Opole,
+415000.0,57.0,2,Wtórny,Kamienica,2 pokoje,Opole,
+577000.0,85.0,1,Wtórny,Kamienica,3 pokoje,Opole,
+650000.0,88.79,1,Pierwotny,Pozostałe,3 pokoje,Opole,
+949000.0,91.0,Parter,Wtórny,Kamienica,3 pokoje,Opole,
+510000.0,49.18,9,Wtórny,Blok,2 pokoje,Opole,
+579000.0,85.0,Parter,Wtórny,Pozostałe,4 i więcej,Opole,
+259999.0,16.47,Parter,Wtórny,Kamienica,1 pokój,Opole,
+679000.0,88.0,Parter,Wtórny,Pozostałe,4 i więcej,Opole,
+895000.0,104.3,Parter,Wtórny,Kamienica,3 pokoje,Opole,
+649000.0,58.17,1,Wtórny,Kamienica,3 pokoje,Opole,
+500000.0,88.06,2,Wtórny,Kamienica,4 i więcej,Opole,
+393000.0,57.1,3,Wtórny,Kamienica,3 pokoje,Opole,
+360000.0,47.4,3,Wtórny,Kamienica,3 pokoje,Opole,
+495000.0,51.0,4,Wtórny,Blok,3 pokoje,Opole,
+429000.0,48.0,6,Wtórny,Blok,3 pokoje,Opole,
+437000.0,39.0,2,Pierwotny,Apartamentowiec,2 pokoje,Opole,
+399000.0,39.0,Parter,Wtórny,Blok,2 pokoje,Opole,
+499000.0,48.0,3,Pierwotny,Apartamentowiec,2 pokoje,Opole,
+499000.0,62.0,Parter,Wtórny,Blok,3 pokoje,Opole,
+335000.0,32.89,Parter,Wtórny,Blok,2 pokoje,Opole,
+375000.0,40.0,3,Wtórny,Kamienica,2 pokoje,Opole,
+530000.0,44.6,4,Wtórny,Blok,2 pokoje,Opole,
+445000.0,48.0,9,Wtórny,Blok,3 pokoje,Opole,
+639000.0,52.2,1,Wtórny,Apartamentowiec,2 pokoje,Opole,
+338000.0,26.0,6,Wtórny,Apartamentowiec,1 pokój,Opole,
+510000.0,61.0,4,Wtórny,Blok,3 pokoje,Opole,
+565000.0,66.24,Parter,Wtórny,Pozostałe,2 pokoje,Opole,
+430000.0,37.84,2,Pierwotny,Blok,2 pokoje,Opole,
+480000.0,47.72,Parter,Wtórny,Blok,2 pokoje,Opole,
+882000.0,63.5,2,Wtórny,Blok,2 pokoje,Opole,
+595000.0,49.0,3,Wtórny,Apartamentowiec,2 pokoje,Opole,
+720000.0,59.0,Parter,Wtórny,Blok,3 pokoje,Opole,
+359000.0,37.0,1,Wtórny,Blok,2 pokoje,Opole,
+400000.0,48.0,3,Wtórny,Kamienica,2 pokoje,Opole,
+620000.0,64.3,1,Wtórny,Blok,3 pokoje,Opole,
+480000.0,48.0,7,Wtórny,Blok,2 pokoje,Opole,
+365000.0,37.9,10,Wtórny,Blok,2 pokoje,Opole,
+495000.0,65.8,3,Wtórny,Blok,3 pokoje,Opole,
+429000.0,36.35,3,Wtórny,Blok,2 pokoje,Opole,
+371000.0,38.0,2,Wtórny,Blok,1 pokój,Opole,
+335000.0,28.0,2,Wtórny,Apartamentowiec,1 pokój,Opole,
+460000.0,47.0,8,Wtórny,Blok,2 pokoje,Opole,
+690000.0,71.0,Parter,Wtórny,Blok,3 pokoje,Opole,
+239000.0,26.5,1,Wtórny,Kamienica,2 pokoje,Opole,
+899000.0,99.0,2,Wtórny,Kamienica,3 pokoje,Opole,
+370000.0,36.4,3,Wtórny,Blok,2 pokoje,Opole,
+735000.0,83.0,2,Wtórny,Kamienica,3 pokoje,Opole,
+500000.0,63.0,10,Wtórny,Blok,3 pokoje,Opole,
+450000.0,47.5,2,Wtórny,Blok,3 pokoje,Opole,
+980000.0,90.0,Parter,Wtórny,Apartamentowiec,4 i więcej,Opole,
+330000.0,33.0,5,Wtórny,Blok,2 pokoje,Olsztyn,
+445000.0,48.3,2,Wtórny,Blok,2 pokoje,Olsztyn,
+585000.0,65.0,Parter,Wtórny,Blok,3 pokoje,Olsztyn,
+435000.0,59.0,Parter,Wtórny,Kamienica,3 pokoje,Olsztyn,
+675000.0,96.3,4,Wtórny,Blok,4 i więcej,Olsztyn,
+330000.0,36.7,4,Wtórny,Blok,2 pokoje,Olsztyn,
+360000.0,48.1,1,Wtórny,Blok,3 pokoje,Olsztyn,
+350000.0,37.88,4,Wtórny,Blok,2 pokoje,Olsztyn,
+355000.0,48.0,1,Wtórny,Blok,3 pokoje,Olsztyn,
+297000.0,32.0,4,Wtórny,Blok,2 pokoje,Olsztyn,
+389000.0,36.0,1,Wtórny,Blok,2 pokoje,Olsztyn,
+329000.0,35.8,4,Wtórny,Kamienica,2 pokoje,Olsztyn,
+699000.0,65.0,Parter,Wtórny,Blok,3 pokoje,Olsztyn,
+315000.0,36.0,1,Wtórny,Blok,2 pokoje,Olsztyn,
+430000.0,53.2,2,Wtórny,Kamienica,2 pokoje,Olsztyn,
+500000.0,47.0,3,Wtórny,Blok,3 pokoje,Olsztyn,
+355000.0,40.0,2,Wtórny,Blok,2 pokoje,Olsztyn,
+510000.0,49.84,1,Wtórny,Blok,2 pokoje,Olsztyn,
+259000.0,23.0,5,Wtórny,Blok,1 pokój,Olsztyn,
+899000.0,71.5,2,Wtórny,Apartamentowiec,4 i więcej,Olsztyn,
+242000.0,22.0,3,Wtórny,Blok,1 pokój,Olsztyn,
+609900.0,61.0,Parter,Pierwotny,Blok,3 pokoje,Olsztyn,
+200000.0,27.0,9,Wtórny,Blok,1 pokój,Olsztyn,
+340000.0,37.8,2,Wtórny,Blok,2 pokoje,Olsztyn,
+659000.0,57.74,6,Wtórny,Blok,3 pokoje,Olsztyn,
+310000.0,33.2,1,Wtórny,Blok,2 pokoje,Olsztyn,
+599000.0,63.8,2,Wtórny,Apartamentowiec,3 pokoje,Olsztyn,
+385000.0,47.1,Parter,Wtórny,Blok,2 pokoje,Olsztyn,
+428000.0,55.0,2,Wtórny,Kamienica,3 pokoje,Olsztyn,
+499000.0,63.0,2,Wtórny,Blok,3 pokoje,Olsztyn,
+400000.0,47.0,3,Wtórny,Blok,3 pokoje,Olsztyn,
+278000.0,24.0,1,Wtórny,Blok,1 pokój,Olsztyn,
+255000.0,25.0,2,Wtórny,Kamienica,1 pokój,Olsztyn,
+370000.0,46.0,7,Wtórny,Blok,3 pokoje,Olsztyn,
+490000.0,52.6,2,Wtórny,Blok,3 pokoje,Olsztyn,
+492000.0,51.44,5,Wtórny,Blok,3 pokoje,Olsztyn,
+564000.0,72.2,1,Wtórny,Kamienica,3 pokoje,Olsztyn,
+840000.0,93.0,2,Wtórny,Kamienica,3 pokoje,Olsztyn,
+598000.0,66.45,2,Wtórny,Blok,3 pokoje,Olsztyn,
+230000.0,16.4,Parter,Wtórny,Blok,1 pokój,Olsztyn,
+429000.0,48.3,1,Wtórny,Blok,2 pokoje,Olsztyn,
+870000.0,64.0,2,Wtórny,Pozostałe,3 pokoje,Olsztyn,
+289000.0,24.0,3,Wtórny,Blok,1 pokój,Olsztyn,
+312900.0,29.8,1,Wtórny,Kamienica,1 pokój,Olsztyn,
+449000.0,45.1,2,Wtórny,Blok,2 pokoje,Olsztyn,
+302100.0,28.77,1,Wtórny,Kamienica,1 pokój,Olsztyn,
+435000.0,43.0,5,Wtórny,Blok,2 pokoje,Olsztyn,
+345000.0,37.4,4,Wtórny,Blok,2 pokoje,Olsztyn,
+409000.0,45.26,Parter,Wtórny,Blok,2 pokoje,Olsztyn,
+399000.0,29.08,2,Wtórny,Blok,1 pokój,Olsztyn,
+429000.0,49.28,3,Wtórny,Blok,3 pokoje,Olsztyn,
+395000.0,40.5,Parter,Wtórny,Blok,2 pokoje,Olsztyn,
+520000.0,55.0,1,Wtórny,Blok,3 pokoje,Olsztyn,
+305000.0,34.4,Parter,Wtórny,Kamienica,2 pokoje,Olsztyn,
+470000.0,50.0,Parter,Wtórny,Blok,2 pokoje,Olsztyn,
+470000.0,58.0,1,Wtórny,Blok,4 i więcej,Olsztyn,
+450000.0,48.0,3,Wtórny,Blok,3 pokoje,Olsztyn,
+349000.0,48.1,4,Wtórny,Blok,3 pokoje,Olsztyn,
+429000.0,59.5,4,Wtórny,Blok,3 pokoje,Olsztyn,
+479000.0,48.0,1,Wtórny,Blok,2 pokoje,Olsztyn,
+405000.0,75.0,4,Wtórny,Blok,3 pokoje,Olsztyn,
+360000.0,42.8,1,Wtórny,Blok,2 pokoje,Olsztyn,
+343000.0,39.0,4,Wtórny,Blok,2 pokoje,Olsztyn,
+599999.0,64.1,Parter,Wtórny,Blok,3 pokoje,Olsztyn,
+350000.0,48.2,Parter,Wtórny,Blok,3 pokoje,Olsztyn,
+279000.0,33.0,2,Wtórny,Blok,2 pokoje,Olsztyn,
+299000.0,35.18,2,Wtórny,Kamienica,3 pokoje,Olsztyn,
+659000.0,55.45,3,Wtórny,Blok,3 pokoje,Olsztyn,
+274000.0,30.25,Parter,Wtórny,Kamienica,2 pokoje,Olsztyn,
+489000.0,84.0,1,Wtórny,Kamienica,4 i więcej,Olsztyn,
+490000.0,54.6,3,Wtórny,Blok,2 pokoje,Olsztyn,
+325000.0,30.0,2,Wtórny,Blok,2 pokoje,Olsztyn,
+479000.0,60.0,3,Wtórny,Blok,3 pokoje,Olsztyn,
+389000.0,38.0,2,Wtórny,Blok,2 pokoje,Olsztyn,
+425000.0,48.3,Parter,Wtórny,Blok,2 pokoje,Olsztyn,
+390000.0,48.0,3,Wtórny,Blok,2 pokoje,Olsztyn,
+455000.0,40.0,5,Wtórny,Blok,2 pokoje,Olsztyn,
+400000.0,34.0,1,Wtórny,Blok,2 pokoje,Olsztyn,
+380000.0,38.6,1,Wtórny,Blok,2 pokoje,Olsztyn,
+520000.0,59.0,3,Wtórny,Blok,4 i więcej,Olsztyn,
+550000.0,56.31,1,Wtórny,Blok,3 pokoje,Olsztyn,
+449000.0,28.0,1,Wtórny,Apartamentowiec,2 pokoje,Olsztyn,
+370000.0,56.7,3,Wtórny,Blok,4 i więcej,Olsztyn,
+522000.0,58.0,3,Wtórny,Blok,3 pokoje,Olsztyn,
+720000.0,60.0,2,Wtórny,Blok,3 pokoje,Olsztyn,
+690000.0,112.0,1,Wtórny,Blok,4 i więcej,Olsztyn,
+490000.0,54.6,3,Wtórny,Blok,2 pokoje,Olsztyn,
+355000.0,48.0,2,Wtórny,Blok,2 pokoje,Olsztyn,
+285000.0,30.0,1,Wtórny,Kamienica,2 pokoje,Olsztyn,
+399000.0,48.0,1,Wtórny,Blok,3 pokoje,Olsztyn,
+449000.0,48.4,1,Wtórny,Blok,2 pokoje,Olsztyn,
+650000.0,61.3,3,Wtórny,Blok,3 pokoje,Olsztyn,
+580000.0,67.0,2,Wtórny,Blok,3 pokoje,Olsztyn,
+340000.0,35.0,Parter,Wtórny,Blok,2 pokoje,Olsztyn,
+450000.0,59.5,Parter,Wtórny,Pozostałe,3 pokoje,Olsztyn,
+579000.0,47.0,3,Wtórny,Blok,2 pokoje,Olsztyn,
+599000.0,70.0,1,Wtórny,Blok,4 i więcej,Olsztyn,
+365000.0,45.6,2,Wtórny,Blok,2 pokoje,Olsztyn,
+435000.0,49.89,8,Wtórny,Blok,2 pokoje,Olsztyn,
+232000.0,24.0,2,Wtórny,Blok,2 pokoje,Olsztyn,
+370000.0,49.6,4,Wtórny,Blok,2 pokoje,Olsztyn,
+475000.0,60.6,2,Wtórny,Blok,3 pokoje,Olsztyn,
+670000.0,70.48,4,Pierwotny,Blok,4 i więcej,Olsztyn,
+369000.0,29.0,1,Wtórny,Blok,2 pokoje,Olsztyn,
+443000.0,60.4,3,Wtórny,Blok,3 pokoje,Olsztyn,
+280000.0,32.3,6,Pierwotny,Blok,2 pokoje,Olsztyn,
+720000.0,88.0,3,Wtórny,Kamienica,3 pokoje,Olsztyn,
+1188000.0,72.0,Parter,Wtórny,Blok,3 pokoje,Olsztyn,
+323000.0,38.0,2,Wtórny,Blok,2 pokoje,Olsztyn,
+699000.0,57.63,1,Wtórny,Blok,3 pokoje,Olsztyn,
+368800.0,36.89,Parter,Wtórny,Blok,2 pokoje,Olsztyn,
+99000.0,20.16,2,Wtórny,Kamienica,1 pokój,Olsztyn,
+359000.0,48.0,3,Wtórny,Blok,3 pokoje,Olsztyn,
+419000.0,45.1,2,Wtórny,Blok,2 pokoje,Olsztyn,
+669000.0,59.0,1,Wtórny,Blok,3 pokoje,Olsztyn,
+290000.0,39.42,1,Wtórny,Kamienica,2 pokoje,Olsztyn,
+560000.0,53.0,6,Wtórny,Apartamentowiec,3 pokoje,Olsztyn,
+699000.0,59.0,2,Wtórny,Kamienica,2 pokoje,Olsztyn,
+385000.0,43.9,Parter,Wtórny,Blok,2 pokoje,Olsztyn,
+388000.0,47.1,2,Wtórny,Blok,3 pokoje,Olsztyn,
+640000.0,58.42,5,Wtórny,Blok,3 pokoje,Olsztyn,
+399000.0,45.6,1,Wtórny,Blok,2 pokoje,Olsztyn,
+290000.0,32.3,9,Wtórny,Blok,2 pokoje,Olsztyn,
+380000.0,48.2,3,Wtórny,Blok,3 pokoje,Olsztyn,
+375000.0,47.9,4,Wtórny,Blok,2 pokoje,Olsztyn,
+566000.0,46.19,4,Wtórny,Blok,3 pokoje,Olsztyn,
+550000.0,41.54,3,Wtórny,Blok,2 pokoje,Olsztyn,
+380000.0,48.0,1,Wtórny,Blok,3 pokoje,Olsztyn,
