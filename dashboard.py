@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import joblib
 
 st.title("Analysis of Apartment Prices")
 st.subheader('In this project, you can see an analysis of apartment prices in different Polish cities. The data was scraped from the OLX website using the Beautiful Soup library. Then, using Streamlit, I created easy-to-read visualizations. Finally, you can find a model that predicts the price of an apartment based on key features.')
@@ -70,4 +71,42 @@ bar_fig = px.bar(calc_df.sort_values('city'), 'params', show)
 st.plotly_chart(bar_fig)
 
 # Model
+from sklearn.ensemble import RandomForestRegressor
+
 st.divider()
+st.markdown('Provide the necessary information to evaluate the price of the apartment.')
+city = st.selectbox("City:", df['city'].unique())
+if city in ['Warszawa', 'Łódź', 'Kraków', 'Wrocław', 'Po(znań', 'Gdańsk', 'Szczecin', 'Białystok', 'Katowice', 'Gdynia', 'Sopot']:
+    district_list = df.groupby('city')['district'].apply(list)
+    district = st.selectbox("District:", district_list[f'{city}'])
+else:
+    district='-'
+area = st.number_input("Area, m2: ", min_value=10, max_value=300)
+market = st.selectbox("Market:", df['market'].unique())
+building = st.selectbox("Building:", df['building'].unique())
+num_of_rooms = st.selectbox("Number of rooms:", df['num_of_rooms'].unique())
+level = st.selectbox("Level:", df['level'].sort_values().unique())
+
+user_data = {'area': area,
+            f'level_{level}': True,
+            f'market_{market}': True,
+            f'building_{building}': True,
+            f'num_of_rooms_{num_of_rooms}': True,
+            f'city_{city}': True,
+            f'district_{district}': True
+            }
+
+col_names = joblib.load("column_names.pkl") 
+predict_data = dict()
+
+for col in col_names:
+    if col not in user_data.keys():
+        predict_data[col] = False
+    else:
+        predict_data[col] = user_data[col]
+
+if st.button("Predict"):
+    df = pd.DataFrame([predict_data])
+    model = joblib.load("final_model.pkl") 
+    result = model.predict(df).round(0)
+    st.write(f'**Predicted price: PLN {result[0]}**')
