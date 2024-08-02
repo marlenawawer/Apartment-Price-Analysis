@@ -108,5 +108,5 @@ for col in col_names:
 if st.button("Predict"):
     df = pd.DataFrame([predict_data])
     model = joblib.load("final_model.pkl") 
-    result = model.predict(df)
-    st.write(f'Predicted price: PLN {result[0]}')
+    result = model.predict(df).round(0)
+    st.write(f'**Predicted price: PLN {result[0]}**')
