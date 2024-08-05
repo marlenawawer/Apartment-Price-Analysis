@@ -105,7 +105,7 @@ for col in col_names:
     else:
         predict_data[col] = user_data[col]
 
-if st.button("Predict"):
+if st.button("**Predict**"):
     df = pd.DataFrame([predict_data])
     model = joblib.load("final_model.pkl") 
     result = model.predict(df).round(0)
